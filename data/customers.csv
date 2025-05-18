@@ -1,0 +1,1001 @@
+_id;Number;Name of Location;Date;Login Hour;Name;Age;gender;Email;No Telp;Brand Device;Digital Interest;Location Type
+6818a153a750bed478947999;1;The Rustic Tavern;12/7/2023;16:07:00;Francesca Spendlove;1978;Female;fspendlove0@eventbrite.com;829-817-4593;Samsung;Social Media;urban
+6818a153a750bed47894799a;2;Barrel & Brew;12/7/2023;16:25:00;Maximilian Benezeit;1970;Male;mbenezeit1@nymag.com;132-881-9144;Samsung;Social Media;sub urban
+6818a153a750bed47894799b;3;Java Junction;12/11/2023;20:07:00;Chalmers Boxer;1961;Male;cboxer2@dagondesign.com;129-790-8261;Samsung;Social Media;coastal
+6818a153a750bed47894799c;4;The Urban Cafe;12/7/2023;08:53:00;Cori Binton;2001;Male;cbinton3@amazon.com;543-857-9603;Samsung;Social Media;Suburban Fringe
+6818a153a750bed47894799d;5;Java Junction;12/26/2023;17:02:00;Ermanno Deveril;1972;Male;edeveril4@booking.com;701-808-5030;Samsung;Social Media;metropolitan
+6818a153a750bed47894799e;6;The Rustic Tavern;12/29/2023;09:59:00;Valma Le Gall;1963;Female;vle5@huffingtonpost.com;942-685-5821;Samsung;E-commerce;urban
+6818a153a750bed47894799f;7;Barrel & Brew;12/29/2023;21:33:00;Mile Windaybank;1995;Male;mwindaybank6@army.mil;474-749-0639;Samsung;E-commerce;sub urban
+6818a153a750bed4789479a0;8;The Salad Spot;12/4/2023;10:54:00;Sven Baythrop;1976;Male;sbaythrop7@ovh.net;116-114-5810;Samsung;E-commerce;coastal
+6818a153a750bed4789479a1;9;The Coffee Bean;12/8/2023;19:59:00;Ashton Gerren;1993;Male;agerren8@ovh.net;784-999-7016;Samsung;E-commerce;Suburban Fringe
+6818a153a750bed4789479a2;10;The Coffee Bean;12/19/2023;14:55:00;Yanaton Hyett;1968;Male;yhyett9@opensource.org;718-542-4769;Samsung;E-commerce;metropolitan
+6818a153a750bed4789479a3;11;The Green Leaf;12/29/2023;08:53:00;Aeriela Missen;1969;Female;amissena@wiley.com;472-360-1433;Samsung;Gaming;urban
+6818a153a750bed4789479a4;12;The Brew House;12/27/2023;10:19:00;Silva Lambourn;1963;Female;slambournb@cyberchimps.com;555-242-1063;Samsung;Gaming;sub urban
+6818a153a750bed4789479a5;13;The Brew House;12/20/2023;20:20:00;Gawain Luxon;1990;Male;gluxonc@icio.us;329-423-4296;Samsung;Gaming;coastal
+6818a153a750bed4789479a6;14;The Rustic Tavern;12/9/2023;21:49:00;Marilin Riall;1971;Female;mrialld@statcounter.com;616-346-7190;Samsung;Gaming;Suburban Fringe
+6818a153a750bed4789479a7;15;The Rustic Tavern;12/17/2023;08:29:00;Harrison Lopez;1994;Male;hlopeze@ehow.com;927-922-9186;Samsung;Gaming;metropolitan
+6818a153a750bed4789479a8;16;The Coffee Bean;12/11/2023;08:37:00;Casey Sprake;1987;Male;csprakef@biblegateway.com;808-731-4567;Samsung;News;urban
+6818a153a750bed4789479a9;17;The Green Leaf;12/6/2023;12:20:00;Wildon De Blasiis;1963;Male;wdeg@4shared.com;426-134-1162;Samsung;News;sub urban
+6818a153a750bed4789479aa;18;Cafe Delight;12/26/2023;17:32:00;Elroy O'Conor;1987;Male;eoconorh@princeton.edu;312-643-0162;Samsung;News;coastal
+6818a153a750bed4789479ab;19;Cafe Delight;12/12/2023;15:05:00;Dedie Oguz;1971;Female;doguzi@meetup.com;344-657-9774;Samsung;News;Suburban Fringe
+6818a153a750bed4789479ac;20;The Brew House;12/28/2023;14:39:00;Graham Tortice;1962;Male;gtorticej@army.mil;697-561-9939;Samsung;News;metropolitan
+6818a153a750bed4789479ad;21;Cafe Delight;12/26/2023;16:52:00;Curry Vallery;1970;Male;cvalleryk@cbslocal.com;996-107-6182;Samsung;Technology;urban
+6818a153a750bed4789479ae;22;The Brew House;12/4/2023;12:21:00;Jasmin Scully;1964;Female;jscullyl@ebay.co.uk;976-588-7273;Samsung;Technology;sub urban
+6818a153a750bed4789479af;23;Java Junction;12/19/2023;08:35:00;Vin Bencher;1965;Female;vbencherm@artisteer.com;796-381-7400;Samsung;Technology;coastal
+6818a153a750bed4789479b0;24;Java Junction;12/24/2023;14:37:00;Avictor Cocking;1996;Male;acockingn@meetup.com;263-478-1389;Samsung;Technology;Suburban Fringe
+6818a153a750bed4789479b1;25;Cafe Delight;12/19/2023;15:06:00;Rem Hendricks;1993;Male;rhendrickso@jalbum.net;121-647-7699;Samsung;Technology;metropolitan
+6818a153a750bed4789479b2;26;Cafe Delight;12/24/2023;12:52:00;Sherwood Spellward;1996;Male;sspellwardp@usnews.com;202-348-7527;Samsung;Podcast;urban
+6818a153a750bed4789479b3;27;Salad Sensations;12/27/2023;09:12:00;Selina Dundendale;1961;Female;sdundendaleq@newsvine.com;875-266-4002;Samsung;Podcast;sub urban
+6818a153a750bed4789479b4;28;Salad Sensations;12/26/2023;10:54:00;Zonda Wolstencroft;1969;Female;zwolstencroftr@guardian.co.uk;320-714-0214;Samsung;Podcast;coastal
+6818a153a750bed4789479b5;29;Barrel & Brew;12/16/2023;13:58:00;Ninnetta Simek;1991;Female;nsimeks@sina.com.cn;348-116-9338;Samsung;Podcast;Suburban Fringe
+6818a153a750bed4789479b6;30;The Rustic Tavern;12/26/2023;16:38:00;Penelopa Yanne;1987;Female;pyannet@washington.edu;717-712-5067;Samsung;Podcast;metropolitan
+6818a153a750bed4789479b7;31;The Brew House;12/3/2023;13:40:00;Tammy Shawdforth;1996;Male;tshawdforthu@eepurl.com;517-225-9369;Samsung;Music;urban
+6818a153a750bed4789479b8;32;Salad Sensations;12/13/2023;15:37:00;Tiffani Overall;1979;Female;toverallv@spotify.com;205-442-9170;Samsung;Music;sub urban
+6818a153a750bed4789479b9;33;The Brew House;12/3/2023;16:10:00;Vilma Whitelaw;1989;Female;vwhitelaww@icq.com;615-207-3749;Samsung;Music;coastal
+6818a153a750bed4789479ba;34;Barrel & Brew;12/27/2023;16:20:00;Karoly Kirlin;1973;Female;kkirlinx@comsenz.com;390-324-5967;Samsung;Music;Suburban Fringe
+6818a153a750bed4789479bb;35;The Brew House;12/12/2023;09:33:00;Carree Kepling;1989;Female;ckeplingy@eventbrite.com;725-494-3001;Samsung;Music;metropolitan
+6818a153a750bed4789479bc;36;The Salad Spot;12/11/2023;11:46:00;Lonnie Oluwatoyin;1982;Male;loluwatoyinz@yandex.ru;822-577-4002;Samsung;Sport;urban
+6818a153a750bed4789479bd;37;The Salad Spot;12/19/2023;20:30:00;Reynolds Benedick;1982;Male;rbenedick10@bloglovin.com;839-389-2682;Samsung;Sport;sub urban
+6818a153a750bed4789479be;38;The Salad Spot;12/18/2023;15:43:00;Deane Waumsley;1965;Female;dwaumsley11@gravatar.com;251-820-4555;Samsung;Sport;coastal
+6818a153a750bed4789479bf;39;The Green Leaf;12/15/2023;16:58:00;Al Roizn;1970;Male;aroizn12@nydailynews.com;564-626-1373;Samsung;Sport;Suburban Fringe
+6818a153a750bed4789479c0;40;Java Junction;12/6/2023;13:28:00;Ritchie Elger;1996;Male;relger13@theglobeandmail.com;683-515-5145;Samsung;Sport;metropolitan
+6818a153a750bed4789479c1;41;Java Junction;12/23/2023;19:15:00;Clair Faier;1983;Female;cfaier14@huffingtonpost.com;483-152-5671;Apple;Social Media;urban
+6818a153a750bed4789479c2;42;Java Junction;12/9/2023;16:23:00;Nola Hambatch;1988;Female;nhambatch15@blog.com;111-613-4095;Apple;Social Media;sub urban
+6818a153a750bed4789479c3;43;The Brew House;12/8/2023;15:55:00;Rolando Attenborrow;2003;Male;rattenborrow16@discuz.net;853-201-6046;Apple;Social Media;coastal
+6818a153a750bed4789479c4;44;The Green Leaf;12/25/2023;13:53:00;Somerset Matchitt;1962;Male;smatchitt17@w3.org;888-943-1900;Apple;Social Media;Suburban Fringe
+6818a153a750bed4789479c5;45;The Coffee Bean;12/11/2023;19:02:00;Thibaut Cridge;1965;Male;tcridge18@photobucket.com;217-699-7027;Apple;Social Media;metropolitan
+6818a153a750bed4789479c6;46;The Green Leaf;12/27/2023;18:57:00;Marietta Weall;1976;Male;mweall19@smugmug.com;284-666-5450;Apple;E-commerce;urban
+6818a153a750bed4789479c7;47;The Rustic Tavern;12/22/2023;11:33:00;Katey Vedyashkin;1988;Female;kvedyashkin1a@github.io;274-754-3088;Apple;E-commerce;sub urban
+6818a153a750bed4789479c8;48;Cafe Delight;12/19/2023;21:50:00;Floris Le Blond;1988;Female;fle1b@oracle.com;467-692-7698;Apple;E-commerce;coastal
+6818a153a750bed4789479c9;49;The Urban Cafe;12/1/2023;09:09:00;Farleigh Barbery;1990;Male;fbarbery1c@hao123.com;254-346-4844;Apple;E-commerce;Suburban Fringe
+6818a153a750bed4789479ca;50;The Rustic Tavern;12/30/2023;11:05:00;Bendite Lakenden;1998;Female;blakenden1d@hatena.ne.jp;121-860-1401;Apple;E-commerce;metropolitan
+6818a153a750bed4789479cb;51;The Rustic Tavern;12/10/2023;18:56:00;Samaria Barson;1982;Female;sbarson1e@bigcartel.com;981-244-6259;Apple;Gaming;urban
+6818a153a750bed4789479cc;52;The Salad Spot;12/17/2023;20:16:00;Enrica Bresnen;1993;Female;ebresnen1f@auda.org.au;991-977-1225;Apple;Gaming;sub urban
+6818a153a750bed4789479cd;53;Cafe Delight;12/28/2023;09:52:00;Field Rigg;2002;Male;frigg1g@cafepress.com;445-275-5618;Apple;Gaming;coastal
+6818a153a750bed4789479ce;54;Barrel & Brew;12/22/2023;17:08:00;Ameline McCroft;1963;Female;amccroft1h@pagesperso-orange.fr;271-975-4856;Apple;Gaming;Suburban Fringe
+6818a153a750bed4789479cf;55;The Brew House;12/23/2023;09:55:00;Artemis Junkinson;1966;Male;ajunkinson1i@weibo.com;965-774-6278;Apple;Gaming;metropolitan
+6818a153a750bed4789479d0;56;The Salad Spot;12/19/2023;10:55:00;Dan Zarb;1990;Male;dzarb1j@mediafire.com;442-865-9222;Apple;News;urban
+6818a153a750bed4789479d1;57;The Salad Spot;12/2/2023;16:09:00;Selene Waslin;1984;Female;swaslin1k@furl.net;403-767-9734;Apple;News;sub urban
+6818a153a750bed4789479d2;58;The Green Leaf;12/17/2023;09:49:00;Jerrylee Geraud;1976;Female;jgeraud1l@people.com.cn;133-210-6133;Apple;News;coastal
+6818a153a750bed4789479d3;59;Salad Sensations;12/5/2023;13:35:00;Tobe Frichley;1986;Female;tfrichley1m@jalbum.net;507-206-9713;Apple;News;Suburban Fringe
+6818a153a750bed4789479d4;60;Cafe Delight;12/6/2023;15:49:00;Helsa Duly;1978;Female;hduly1n@earthlink.net;504-157-3506;Apple;News;metropolitan
+6818a153a750bed4789479d5;61;Salad Sensations;12/23/2023;13:26:00;Isac Lammerding;1985;Male;ilammerding1o@apple.com;839-896-5339;Apple;Technology;urban
+6818a153a750bed4789479d6;62;The Green Leaf;12/17/2023;10:30:00;Gae Reder;1994;Female;greder1p@github.io;811-660-4849;Apple;Technology;sub urban
+6818a153a750bed4789479d7;63;Barrel & Brew;12/7/2023;14:56:00;Ginger Crinson;1962;Female;gcrinson1q@europa.eu;789-464-3057;Apple;Technology;coastal
+6818a153a750bed4789479d8;64;The Brew House;12/19/2023;19:34:00;Phillip Horsefield;1985;Male;phorsefield1r@storify.com;768-183-1461;Apple;Technology;Suburban Fringe
+6818a153a750bed4789479d9;65;The Rustic Tavern;12/19/2023;14:13:00;Desmond Meletti;1976;Male;dmeletti1s@blogs.com;367-265-4188;Apple;Technology;metropolitan
+6818a153a750bed4789479da;66;The Rustic Tavern;12/17/2023;15:06:00;Wallis Veysey;1973;Female;wveysey1t@meetup.com;130-510-9070;Apple;Podcast;urban
+6818a153a750bed4789479db;67;Cafe Delight;12/28/2023;20:25:00;Kaye Bunclark;1979;Female;kbunclark1u@businessweek.com;345-497-1816;Apple;Podcast;sub urban
+6818a153a750bed4789479dc;68;The Coffee Bean;12/27/2023;15:24:00;Hatti Trimming;2003;Female;htrimming1v@phpbb.com;541-762-7721;Apple;Podcast;coastal
+6818a153a750bed4789479dd;69;The Salad Spot;12/26/2023;19:38:00;Ora Farnham;1987;Female;ofarnham1w@prlog.org;188-620-5161;Apple;Podcast;Suburban Fringe
+6818a153a750bed4789479de;70;The Rustic Tavern;12/27/2023;13:18:00;Ebba Herity;1962;Female;eherity1x@xrea.com;456-972-8181;Apple;Podcast;metropolitan
+6818a153a750bed4789479df;71;The Urban Cafe;12/25/2023;20:08:00;Devlin Matusov;1983;Male;dmatusov1y@answers.com;650-260-2229;Apple;Music;urban
+6818a153a750bed4789479e0;72;The Rustic Tavern;12/4/2023;15:37:00;Elladine Denzilow;2002;Female;edenzilow1z@geocities.com;681-780-9983;Apple;Music;sub urban
+6818a153a750bed4789479e1;73;The Urban Cafe;12/13/2023;14:05:00;Marcy Raulston;1980;Female;mraulston20@homestead.com;795-325-5930;Apple;Music;coastal
+6818a153a750bed4789479e2;74;The Urban Cafe;12/21/2023;16:24:00;Malvina Bateman;1997;Female;mbateman21@behance.net;488-225-3170;Apple;Music;Suburban Fringe
+6818a153a750bed4789479e3;75;The Brew House;12/21/2023;12:37:00;Talia Beange;1966;Female;tbeange22@nsw.gov.au;989-185-2278;Apple;Music;metropolitan
+6818a153a750bed4789479e4;76;The Brew House;12/23/2023;14:26:00;Smitty Strover;1968;Male;sstrover23@state.gov;299-316-6033;Apple;Sport;urban
+6818a153a750bed4789479e5;77;Barrel & Brew;12/22/2023;20:28:00;Arley Thody;1987;Male;athody24@google.com;225-877-8231;Apple;Sport;sub urban
+6818a153a750bed4789479e6;78;The Brew House;12/15/2023;19:02:00;Thorn Greetland;1981;Male;tgreetland25@t-online.de;337-710-3048;Apple;Sport;coastal
+6818a153a750bed4789479e7;79;The Coffee Bean;12/25/2023;11:21:00;Phylis Shadrack;1968;Female;pshadrack26@chronoengine.com;156-472-1395;Apple;Sport;Suburban Fringe
+6818a153a750bed4789479e8;80;The Brew House;12/9/2023;16:23:00;Katine St. Queintain;1961;Female;kst27@guardian.co.uk;267-400-6240;Apple;Sport;metropolitan
+6818a153a750bed4789479e9;81;The Urban Cafe;12/29/2023;21:56:00;Marietta Leghorn;1975;Male;mleghorn28@feedburner.com;391-806-1631;Huawei;Social Media;urban
+6818a153a750bed4789479ea;82;Barrel & Brew;12/17/2023;14:27:00;Marjorie Scoullar;2001;Female;mscoullar29@wix.com;619-405-7696;Huawei;Social Media;sub urban
+6818a153a750bed4789479eb;83;Java Junction;12/30/2023;09:29:00;Hillie Hurring;1996;Male;hhurring2a@wordpress.org;674-432-8670;Huawei;Social Media;coastal
+6818a153a750bed4789479ec;84;The Green Leaf;12/29/2023;11:51:00;Isadore Dering;1964;Male;idering2b@hugedomains.com;762-744-5113;Huawei;Social Media;Suburban Fringe
+6818a153a750bed4789479ed;85;Barrel & Brew;12/3/2023;11:26:00;Hendrik Dobble;2002;Male;hdobble2c@github.io;264-291-7088;Huawei;Social Media;metropolitan
+6818a153a750bed4789479ee;86;Cafe Delight;12/14/2023;16:10:00;Charmane Tiller;1973;Female;ctiller2d@noaa.gov;626-208-1633;Huawei;E-commerce;urban
+6818a153a750bed4789479ef;87;Java Junction;12/24/2023;09:06:00;Doralynne Adnams;1990;Female;dadnams2e@sitemeter.com;140-826-5255;Huawei;E-commerce;sub urban
+6818a153a750bed4789479f0;88;Java Junction;12/10/2023;09:09:00;Westley Bontoft;1969;Male;wbontoft2f@ucla.edu;822-710-1617;Huawei;E-commerce;coastal
+6818a153a750bed4789479f1;89;The Salad Spot;12/19/2023;21:58:00;Willa Roddell;1988;Female;wroddell2g@google.cn;116-190-1576;Huawei;E-commerce;Suburban Fringe
+6818a153a750bed4789479f2;90;Cafe Delight;12/30/2023;17:23:00;Georgi Hulett;1989;Male;ghulett2h@paypal.com;760-902-4836;Huawei;E-commerce;metropolitan
+6818a153a750bed4789479f3;91;The Coffee Bean;12/9/2023;21:39:00;Latia Toten;1986;Female;ltoten2i@godaddy.com;841-445-5685;Huawei;Gaming;urban
+6818a153a750bed4789479f4;92;The Coffee Bean;12/15/2023;19:32:00;Vanna Brower;1994;Female;vbrower2j@about.com;186-980-8842;Huawei;Gaming;sub urban
+6818a153a750bed4789479f5;93;The Brew House;12/20/2023;17:48:00;Ferguson Salery;1988;Male;fsalery2k@irs.gov;432-685-1533;Huawei;Gaming;coastal
+6818a153a750bed4789479f6;94;Salad Sensations;12/12/2023;15:01:00;Bastian Aikenhead;1966;Male;baikenhead2l@mail.ru;478-948-3354;Huawei;Gaming;Suburban Fringe
+6818a153a750bed4789479f7;95;The Brew House;12/29/2023;09:54:00;Mahmoud Galier;1987;Male;mgalier2m@instagram.com;742-687-7269;Huawei;Gaming;metropolitan
+6818a153a750bed4789479f8;96;Java Junction;12/30/2023;11:08:00;Dun Baleine;1970;Male;dbaleine2n@fc2.com;610-509-1017;Huawei;News;urban
+6818a153a750bed4789479f9;97;Cafe Delight;12/30/2023;21:07:00;Jeth McKeever;1985;Male;jmckeever2o@vkontakte.ru;388-162-2675;Huawei;News;sub urban
+6818a153a750bed4789479fa;98;The Green Leaf;12/11/2023;15:26:00;Sherilyn Heakins;1965;Female;sheakins2p@mozilla.org;237-234-7282;Huawei;News;coastal
+6818a153a750bed4789479fb;99;The Green Leaf;12/23/2023;13:08:00;Daryn Spitaro;1994;Female;dspitaro2q@livejournal.com;427-690-4742;Huawei;News;Suburban Fringe
+6818a153a750bed4789479fc;100;The Coffee Bean;12/11/2023;15:35:00;Cherie Laurance;1999;Female;claurance2r@amazon.de;368-713-9936;Huawei;News;metropolitan
+6818a153a750bed4789479fd;101;Cafe Delight;12/19/2023;13:56:00;Kasper Bathurst;1996;Male;kbathurst2s@behance.net;902-389-9223;Huawei;Technology;urban
+6818a153a750bed4789479fe;102;The Salad Spot;12/14/2023;17:44:00;Tobias Reinmar;2001;Male;treinmar2t@usgs.gov;338-146-5676;Huawei;Technology;sub urban
+6818a153a750bed4789479ff;103;The Rustic Tavern;12/9/2023;16:20:00;Perkin Claybourn;1968;Male;pclaybourn2u@mediafire.com;830-876-1953;Huawei;Technology;coastal
+6818a153a750bed478947a00;104;Salad Sensations;12/16/2023;08:22:00;Ania Craze;1988;Female;acraze2v@nbcnews.com;965-783-5681;Huawei;Technology;Suburban Fringe
+6818a153a750bed478947a01;105;The Rustic Tavern;12/3/2023;12:20:00;Nariko Biset;1979;Female;nbiset2w@sciencedirect.com;890-855-5910;Huawei;Technology;metropolitan
+6818a153a750bed478947a02;106;The Green Leaf;12/16/2023;21:05:00;Iggie Ciccottio;1960;Male;iciccottio2x@free.fr;439-677-2603;Huawei;Podcast;urban
+6818a153a750bed478947a03;107;The Salad Spot;12/5/2023;15:19:00;Tomkin Cholerton;2003;Male;tcholerton2y@gravatar.com;809-732-5625;Huawei;Podcast;sub urban
+6818a153a750bed478947a04;108;The Urban Cafe;12/6/2023;08:11:00;Lemuel Froment;1968;Male;lfroment2z@slideshare.net;870-400-8597;Huawei;Podcast;coastal
+6818a153a750bed478947a05;109;The Coffee Bean;12/7/2023;21:36:00;Ulberto Gillespey;1989;Male;ugillespey30@prnewswire.com;422-473-8553;Huawei;Podcast;Suburban Fringe
+6818a153a750bed478947a06;110;Cafe Delight;12/25/2023;14:53:00;Andrej Marrill;1962;Male;amarrill31@taobao.com;810-156-7353;Huawei;Podcast;metropolitan
+6818a153a750bed478947a07;111;Barrel & Brew;12/22/2023;13:45:00;Jammal Abbett;1993;Male;jabbett32@google.co.jp;868-598-8602;Huawei;Music;urban
+6818a153a750bed478947a08;112;Java Junction;12/2/2023;13:17:00;Nettie Radnedge;1975;Female;nradnedge33@pen.io;476-262-0359;Huawei;Music;sub urban
+6818a153a750bed478947a09;113;Cafe Delight;12/4/2023;18:02:00;May Lofty;1985;Female;mlofty34@shop-pro.jp;224-878-3763;Huawei;Music;coastal
+6818a153a750bed478947a0a;114;The Brew House;12/18/2023;12:26:00;Sophie Jeroch;1999;Female;sjeroch35@theatlantic.com;206-881-8688;Huawei;Music;Suburban Fringe
+6818a153a750bed478947a0b;115;Barrel & Brew;12/18/2023;10:26:00;Vilhelmina Kless;1966;Female;vkless36@cornell.edu;699-815-5402;Huawei;Music;metropolitan
+6818a153a750bed478947a0c;116;Cafe Delight;12/2/2023;21:55:00;Karole Braybrooke;1963;Female;kbraybrooke37@a8.net;702-863-1456;Huawei;Sport;urban
+6818a153a750bed478947a0d;117;Cafe Delight;12/17/2023;21:51:00;Borg Cantrill;1966;Male;bcantrill38@discovery.com;343-180-4460;Huawei;Sport;sub urban
+6818a153a750bed478947a0e;118;Java Junction;12/15/2023;10:34:00;Randall Brewse;1978;Male;rbrewse39@list-manage.com;975-142-2303;Huawei;Sport;coastal
+6818a153a750bed478947a0f;119;The Coffee Bean;12/11/2023;17:43:00;Retha Olesen;1970;Female;rolesen3a@prlog.org;311-431-2676;Huawei;Sport;Suburban Fringe
+6818a153a750bed478947a10;120;Java Junction;12/7/2023;14:11:00;Nil Clover;1979;Male;nclover3b@qq.com;545-756-5079;Huawei;Sport;metropolitan
+6818a153a750bed478947a11;121;Cafe Delight;12/2/2023;12:27:00;Kaitlynn Tudge;1964;Female;ktudge3c@geocities.com;253-570-3588;Xiaomi;Social Media;urban
+6818a153a750bed478947a12;122;Salad Sensations;12/20/2023;21:55:00;Barbabra Risebrow;1964;Female;brisebrow3d@ycombinator.com;388-719-0048;Xiaomi;Social Media;sub urban
+6818a153a750bed478947a13;123;Cafe Delight;12/22/2023;11:52:00;Michel Erbain;1966;Male;merbain3e@github.io;178-541-5939;Xiaomi;Social Media;coastal
+6818a153a750bed478947a14;124;The Brew House;12/21/2023;14:07:00;Caresa Restall;2003;Female;crestall3f@abc.net.au;702-372-5034;Xiaomi;Social Media;Suburban Fringe
+6818a153a750bed478947a15;125;Cafe Delight;12/21/2023;15:02:00;Georgine Roots;1988;Female;groots3g@github.io;433-578-3087;Xiaomi;Social Media;metropolitan
+6818a153a750bed478947a16;126;The Rustic Tavern;12/4/2023;19:08:00;Shaun Nannetti;1995;Female;snannetti3h@stanford.edu;916-442-5989;Xiaomi;E-commerce;urban
+6818a153a750bed478947a17;127;Cafe Delight;12/7/2023;20:32:00;Marven Salzberger;1962;Male;msalzberger3i@bluehost.com;789-192-6730;Xiaomi;E-commerce;sub urban
+6818a153a750bed478947a18;128;Cafe Delight;12/21/2023;16:16:00;Kaylil Michell;1985;Female;kmichell3j@virginia.edu;414-829-1075;Xiaomi;E-commerce;coastal
+6818a153a750bed478947a19;129;The Brew House;12/4/2023;20:31:00;Noah Duerdin;1990;Male;nduerdin3k@usgs.gov;671-172-9618;Xiaomi;E-commerce;Suburban Fringe
+6818a153a750bed478947a1a;130;Cafe Delight;12/2/2023;12:19:00;Wyndham Mc Grath;1988;Male;wmc3l@ustream.tv;229-658-2503;Xiaomi;E-commerce;metropolitan
+6818a153a750bed478947a1b;131;The Rustic Tavern;12/11/2023;16:20:00;Emlyn Guilloton;1986;Female;eguilloton3m@biblegateway.com;545-152-7480;Xiaomi;Gaming;urban
+6818a153a750bed478947a1c;132;Cafe Delight;12/6/2023;19:23:00;Chan Viccary;1988;Male;cviccary3n@simplemachines.org;379-579-9246;Xiaomi;Gaming;sub urban
+6818a153a750bed478947a1d;133;The Coffee Bean;12/6/2023;21:29:00;Dominique Gard;1973;Male;dgard3o@yellowpages.com;433-907-9071;Xiaomi;Gaming;coastal
+6818a153a750bed478947a1e;134;The Rustic Tavern;12/16/2023;08:52:00;Tamar Wasielewicz;1989;Female;twasielewicz3p@army.mil;296-661-8860;Xiaomi;Gaming;Suburban Fringe
+6818a153a750bed478947a1f;135;The Rustic Tavern;12/1/2023;09:27:00;Melany Van Waadenburg;1988;Female;mvan3q@themeforest.net;950-241-8869;Xiaomi;Gaming;metropolitan
+6818a153a750bed478947a20;136;The Coffee Bean;12/23/2023;16:25:00;Linet Stolze;1988;Female;lstolze3r@usda.gov;148-176-3830;Xiaomi;News;urban
+6818a153a750bed478947a21;137;The Brew House;12/19/2023;19:05:00;Robert Kleehuhler;1990;Male;rkleehuhler3s@ehow.com;921-421-9285;Xiaomi;News;sub urban
+6818a153a750bed478947a22;138;The Coffee Bean;12/16/2023;17:47:00;Maryellen Dodge;1973;Female;mdodge3t@clickbank.net;727-535-7931;Xiaomi;News;coastal
+6818a153a750bed478947a23;139;The Rustic Tavern;12/28/2023;09:35:00;Rachelle Pentecost;1985;Female;rpentecost3u@naver.com;319-835-5982;Xiaomi;News;Suburban Fringe
+6818a153a750bed478947a24;140;Cafe Delight;12/12/2023;09:32:00;Sadie Thaller;2000;Female;sthaller3v@cyberchimps.com;264-655-6587;Xiaomi;News;metropolitan
+6818a153a750bed478947a25;141;The Coffee Bean;12/20/2023;12:06:00;Constantin Berr;1992;Male;cberr3w@google.com.br;586-606-2296;Xiaomi;Technology;urban
+6818a153a750bed478947a26;142;Cafe Delight;12/6/2023;17:11:00;Jone Izatt;1996;Male;jizatt3x@moonfruit.com;996-117-9869;Xiaomi;Technology;sub urban
+6818a153a750bed478947a27;143;Java Junction;12/30/2023;08:03:00;Pauly Eskrigg;1968;Male;peskrigg3y@godaddy.com;375-384-3951;Xiaomi;Technology;coastal
+6818a153a750bed478947a28;144;The Brew House;12/29/2023;16:25:00;Inigo Haselhurst;1999;Male;ihaselhurst3z@state.gov;631-408-1823;Xiaomi;Technology;Suburban Fringe
+6818a153a750bed478947a29;145;The Salad Spot;12/6/2023;12:41:00;Berte Groucutt;1969;Female;bgroucutt40@istockphoto.com;382-186-3271;Xiaomi;Technology;metropolitan
+6818a153a750bed478947a2a;146;The Urban Cafe;12/10/2023;16:33:00;Marsha Longfoot;1967;Female;mlongfoot41@xing.com;581-467-7771;Xiaomi;Podcast;urban
+6818a153a750bed478947a2b;147;Java Junction;12/10/2023;10:51:00;Odey Breckell;1988;Male;obreckell42@bigcartel.com;492-632-9872;Xiaomi;Podcast;sub urban
+6818a153a750bed478947a2c;148;The Brew House;12/15/2023;09:33:00;Caralie Askin;1990;Female;caskin43@stumbleupon.com;493-937-8161;Xiaomi;Podcast;coastal
+6818a153a750bed478947a2d;149;The Urban Cafe;12/11/2023;16:34:00;Boyce Toll;1975;Male;btoll44@google.es;654-502-9024;Xiaomi;Podcast;Suburban Fringe
+6818a153a750bed478947a2e;150;Java Junction;12/18/2023;20:55:00;Franchot Rawcliffe;1989;Male;frawcliffe45@fastcompany.com;518-965-5687;Xiaomi;Podcast;metropolitan
+6818a153a750bed478947a2f;151;Salad Sensations;12/25/2023;17:31:00;Hubert Ferenczy;1982;Male;hferenczy46@ebay.co.uk;548-818-1860;Xiaomi;Music;urban
+6818a153a750bed478947a30;152;The Urban Cafe;12/11/2023;20:48:00;Dianemarie Volette;1980;Female;dvolette47@about.com;417-409-9840;Xiaomi;Music;sub urban
+6818a153a750bed478947a31;153;Barrel & Brew;12/28/2023;16:04:00;Effie Devita;1964;Female;edevita48@vk.com;331-257-2509;Xiaomi;Music;coastal
+6818a153a750bed478947a32;154;The Coffee Bean;12/28/2023;11:28:00;Maddi Bane;1986;Female;mbane49@nydailynews.com;782-818-3602;Xiaomi;Music;Suburban Fringe
+6818a153a750bed478947a33;155;Barrel & Brew;12/30/2023;10:07:00;Deeann Britton;1970;Female;dbritton4a@moonfruit.com;507-325-0299;Xiaomi;Music;metropolitan
+6818a153a750bed478947a34;156;The Rustic Tavern;12/28/2023;13:48:00;Beret Maberley;1988;Female;bmaberley4b@posterous.com;632-821-9286;Xiaomi;Sport;urban
+6818a153a750bed478947a35;157;Cafe Delight;12/4/2023;14:42:00;Gibb Puve;1968;Male;gpuve4c@cloudflare.com;492-135-8559;Xiaomi;Sport;sub urban
+6818a153a750bed478947a36;158;The Salad Spot;12/15/2023;11:22:00;Kandy Leavey;1960;Female;kleavey4d@newyorker.com;169-992-4318;Xiaomi;Sport;coastal
+6818a153a750bed478947a37;159;The Brew House;12/19/2023;08:42:00;Anni Settle;1992;Female;asettle4e@state.gov;613-955-3676;Xiaomi;Sport;Suburban Fringe
+6818a153a750bed478947a38;160;The Green Leaf;12/15/2023;13:23:00;Emmalyn Redfern;1978;Female;eredfern4f@youtu.be;199-781-8459;Xiaomi;Sport;metropolitan
+6818a153a750bed478947a39;161;The Salad Spot;12/14/2023;10:10:00;Haleigh Moresby;1995;Female;hmoresby4g@acquirethisname.com;555-134-6655;Google;Social Media;urban
+6818a153a750bed478947a3a;162;Java Junction;12/21/2023;16:25:00;Lindsy Isaksen;1993;Female;lisaksen4h@wordpress.org;584-245-4923;Google;Social Media;sub urban
+6818a153a750bed478947a3b;163;The Coffee Bean;12/22/2023;15:19:00;Evangeline McLachlan;1979;Female;emclachlan4i@wsj.com;767-528-6008;Google;Social Media;coastal
+6818a153a750bed478947a3c;164;Java Junction;12/30/2023;16:44:00;Jilleen Welden;1966;Female;jwelden4j@shinystat.com;236-662-5979;Google;Social Media;Suburban Fringe
+6818a153a750bed478947a3d;165;Java Junction;12/25/2023;21:30:00;Burton Pfleger;1993;Male;bpfleger4k@bloglovin.com;823-894-1788;Google;Social Media;metropolitan
+6818a153a750bed478947a3e;166;The Rustic Tavern;12/20/2023;10:40:00;Louis Caskie;2002;Male;lcaskie4l@devhub.com;181-233-1662;Google;E-commerce;urban
+6818a153a750bed478947a3f;167;Cafe Delight;12/10/2023;13:00:00;Dorella Bortol;1991;Female;dbortol4m@archive.org;940-852-9789;Google;E-commerce;sub urban
+6818a153a750bed478947a40;168;The Urban Cafe;12/30/2023;08:09:00;Lyman Sandaver;1979;Male;lsandaver4n@1und1.de;602-663-0760;Google;E-commerce;coastal
+6818a153a750bed478947a41;169;Barrel & Brew;12/6/2023;16:26:00;Dallas Astin;1972;Female;dastin4o@plala.or.jp;976-757-5436;Google;E-commerce;Suburban Fringe
+6818a153a750bed478947a42;170;Java Junction;12/20/2023;12:12:00;Susan Koubu;1974;Female;skoubu4p@surveymonkey.com;436-795-8334;Google;E-commerce;metropolitan
+6818a153a750bed478947a43;171;The Coffee Bean;12/6/2023;16:14:00;Lucilia Brummell;1964;Female;lbrummell4q@wiley.com;372-874-6306;Google;Gaming;urban
+6818a153a750bed478947a44;172;The Green Leaf;12/8/2023;20:38:00;Florinda Semeradova;2003;Female;fsemeradova4r@smugmug.com;419-604-5296;Google;Gaming;sub urban
+6818a153a750bed478947a45;173;Salad Sensations;12/11/2023;12:18:00;Pavel Dumper;2003;Male;pdumper4s@si.edu;832-423-0635;Google;Gaming;coastal
+6818a153a750bed478947a46;174;Barrel & Brew;12/12/2023;12:05:00;Inigo Unworth;1984;Male;iunworth4t@merriam-webster.com;265-783-6149;Google;Gaming;Suburban Fringe
+6818a153a750bed478947a47;175;Barrel & Brew;12/23/2023;15:25:00;Sigismundo Landor;1979;Male;slandor4u@google.pl;231-102-9558;Google;Gaming;metropolitan
+6818a153a750bed478947a48;176;The Brew House;12/9/2023;09:39:00;Desmond Richardes;1961;Male;drichardes4v@time.com;900-770-9622;Google;News;urban
+6818a153a750bed478947a49;177;The Rustic Tavern;12/2/2023;19:54:00;Vannie Slegg;1992;Female;vslegg4w@mediafire.com;677-706-8240;Google;News;sub urban
+6818a153a750bed478947a4a;178;Salad Sensations;12/16/2023;12:50:00;Gerta Nehlsen;1967;Female;gnehlsen4x@over-blog.com;605-966-5522;Google;News;coastal
+6818a153a750bed478947a4b;179;The Green Leaf;12/7/2023;08:07:00;Jordon Payton;1997;Male;jpayton4y@wunderground.com;656-631-2292;Google;News;Suburban Fringe
+6818a153a750bed478947a4c;180;Barrel & Brew;12/4/2023;16:59:00;Anabel Boyan;1991;Female;aboyan4z@xrea.com;466-373-5352;Google;News;metropolitan
+6818a153a750bed478947a4d;181;The Coffee Bean;12/2/2023;15:09:00;Nickola Featenby;1985;Male;nfeatenby50@wiley.com;830-641-2105;Google;Technology;urban
+6818a153a750bed478947a4e;182;The Green Leaf;12/29/2023;09:24:00;Mart Northill;1972;Male;mnorthill51@amazon.co.uk;205-371-1487;Google;Technology;sub urban
+6818a153a750bed478947a4f;183;The Brew House;12/22/2023;15:00:00;Cassie Crommett;1969;Male;ccrommett52@a8.net;650-971-8230;Google;Technology;coastal
+6818a153a750bed478947a50;184;Cafe Delight;12/22/2023;10:11:00;Drucie Maccaddie;1986;Female;dmaccaddie53@dropbox.com;964-353-5530;Google;Technology;Suburban Fringe
+6818a153a750bed478947a51;185;The Green Leaf;12/19/2023;12:31:00;Gearalt Schellig;1965;Male;gschellig54@qq.com;691-304-3143;Google;Technology;metropolitan
+6818a153a750bed478947a52;186;Java Junction;12/28/2023;12:04:00;Francisco Gatecliff;1968;Male;fgatecliff55@discovery.com;320-195-4573;Google;Podcast;urban
+6818a153a750bed478947a53;187;Salad Sensations;12/29/2023;12:49:00;Penrod Warbys;1969;Male;pwarbys56@nature.com;565-880-1237;Google;Podcast;sub urban
+6818a153a750bed478947a54;188;Java Junction;12/10/2023;19:22:00;Yvon Canedo;1981;Male;ycanedo57@delicious.com;129-289-8653;Google;Podcast;coastal
+6818a153a750bed478947a55;189;Barrel & Brew;12/6/2023;17:49:00;Dion Vaud;2003;Male;dvaud58@hubpages.com;814-431-6270;Google;Podcast;Suburban Fringe
+6818a153a750bed478947a56;190;The Salad Spot;12/18/2023;11:55:00;Heda Colquyte;1998;Female;hcolquyte59@elpais.com;769-784-8592;Google;Podcast;metropolitan
+6818a153a750bed478947a57;191;Cafe Delight;12/13/2023;14:16:00;Karia Ghest;1980;Female;kghest5a@msn.com;988-107-5321;Google;Music;urban
+6818a153a750bed478947a58;192;Barrel & Brew;12/6/2023;11:42:00;Camey Flew;1965;Male;cflew5b@umich.edu;526-436-5695;Google;Music;sub urban
+6818a153a750bed478947a59;193;The Rustic Tavern;12/8/2023;09:49:00;Juana Jaspar;1975;Female;jjaspar5c@google.nl;902-552-4493;Google;Music;coastal
+6818a153a750bed478947a5a;194;The Green Leaf;12/5/2023;20:31:00;Yettie Thorneley;1963;Female;ythorneley5d@dyndns.org;918-398-1653;Google;Music;Suburban Fringe
+6818a153a750bed478947a5b;195;The Coffee Bean;12/7/2023;10:22:00;Tawsha McNee;1975;Female;tmcnee5e@fda.gov;812-648-8296;Google;Music;metropolitan
+6818a153a750bed478947a5c;196;The Coffee Bean;12/26/2023;16:57:00;Brandy Savoury;1992;Male;bsavoury5f@sciencedirect.com;897-746-7259;Google;Sport;urban
+6818a153a750bed478947a5d;197;The Salad Spot;12/13/2023;19:24:00;Linea Le Sieur;1972;Female;lle5g@huffingtonpost.com;144-969-7193;Google;Sport;sub urban
+6818a153a750bed478947a5e;198;The Urban Cafe;12/7/2023;16:44:00;Milli Pattillo;1969;Female;mpattillo5h@quantcast.com;858-494-1543;Google;Sport;coastal
+6818a153a750bed478947a5f;199;Barrel & Brew;12/21/2023;13:16:00;Georgeanna Pechacek;1974;Female;gpechacek5i@gov.uk;160-328-5157;Google;Sport;Suburban Fringe
+6818a153a750bed478947a60;200;Java Junction;12/12/2023;10:31:00;Kattie Hazle;1963;Female;khazle5j@ucoz.ru;379-832-4160;Google;Sport;metropolitan
+6818a153a750bed478947a61;201;The Rustic Tavern;12/25/2023;21:55:00;Carmelia Killshaw;2003;Female;ckillshaw5k@ask.com;962-958-7413;OnePlus;Social Media;urban
+6818a153a750bed478947a62;202;Salad Sensations;12/20/2023;16:50:00;Colleen Titlow;2002;Female;ctitlow5l@ucsd.edu;353-222-7828;OnePlus;Social Media;sub urban
+6818a153a750bed478947a63;203;Salad Sensations;12/29/2023;20:18:00;Kelly Balmer;1970;Female;kbalmer5m@discovery.com;121-471-5154;OnePlus;Social Media;coastal
+6818a153a750bed478947a64;204;The Rustic Tavern;12/18/2023;10:19:00;Amandy Palethorpe;1967;Female;apalethorpe5n@imageshack.us;264-799-1900;OnePlus;Social Media;Suburban Fringe
+6818a153a750bed478947a65;205;Cafe Delight;12/18/2023;20:50:00;Conrado Blackett;1998;Male;cblackett5o@hhs.gov;883-580-0524;OnePlus;Social Media;metropolitan
+6818a153a750bed478947a66;206;The Rustic Tavern;12/13/2023;11:07:00;Lynn Bailles;1980;Female;lbailles5p@so-net.ne.jp;935-646-5993;OnePlus;E-commerce;urban
+6818a153a750bed478947a67;207;Java Junction;12/16/2023;14:59:00;Stanfield Delacroux;1990;Male;sdelacroux5q@mysql.com;245-687-5450;OnePlus;E-commerce;sub urban
+6818a153a750bed478947a68;208;Barrel & Brew;12/22/2023;12:36:00;Wallis Celle;1961;Female;wcelle5r@slashdot.org;322-300-9292;OnePlus;E-commerce;coastal
+6818a153a750bed478947a69;209;Cafe Delight;12/27/2023;08:09:00;Alasdair Patrie;1986;Male;apatrie5s@sun.com;898-611-1523;OnePlus;E-commerce;Suburban Fringe
+6818a153a750bed478947a6a;210;Barrel & Brew;12/30/2023;13:40:00;Chase Cowitz;1971;Male;ccowitz5t@ftc.gov;382-738-6120;OnePlus;E-commerce;metropolitan
+6818a153a750bed478947a6b;211;Salad Sensations;12/6/2023;12:17:00;Garrot Copins;1983;Male;gcopins5u@umn.edu;534-676-5060;OnePlus;Gaming;urban
+6818a153a750bed478947a6c;212;The Coffee Bean;12/18/2023;19:47:00;Delora Gothliff;1961;Female;dgothliff5v@tmall.com;653-618-0910;OnePlus;Gaming;sub urban
+6818a153a750bed478947a6d;213;The Brew House;12/20/2023;21:43:00;Therine McCamish;1993;Female;tmccamish5w@reference.com;968-753-4830;OnePlus;Gaming;coastal
+6818a153a750bed478947a6e;214;The Coffee Bean;12/21/2023;11:07:00;Griswold Redhole;1991;Male;gredhole5x@gmpg.org;846-113-8767;OnePlus;Gaming;Suburban Fringe
+6818a153a750bed478947a6f;215;The Rustic Tavern;12/18/2023;08:17:00;Brucie Jerzykiewicz;1985;Male;bjerzykiewicz5y@oakley.com;137-879-6307;OnePlus;Gaming;metropolitan
+6818a153a750bed478947a70;216;The Coffee Bean;12/20/2023;14:43:00;Arie Strode;1985;Male;astrode5z@psu.edu;166-761-3112;OnePlus;News;urban
+6818a153a750bed478947a71;217;Cafe Delight;12/2/2023;17:05:00;Min Jordeson;1991;Female;mjordeson60@pinterest.com;912-724-1209;OnePlus;News;sub urban
+6818a153a750bed478947a72;218;The Salad Spot;12/26/2023;19:48:00;Miller Bramah;1986;Male;mbramah61@dell.com;637-772-3484;OnePlus;News;coastal
+6818a153a750bed478947a73;219;The Rustic Tavern;12/26/2023;18:57:00;Liva Wadforth;1996;Female;lwadforth62@ameblo.jp;406-138-5004;OnePlus;News;Suburban Fringe
+6818a153a750bed478947a74;220;The Urban Cafe;12/5/2023;11:21:00;Rustie Emberton;1979;Male;remberton63@utexas.edu;418-446-9045;OnePlus;News;metropolitan
+6818a153a750bed478947a75;221;The Brew House;12/4/2023;08:27:00;Devlin Brisard;1969;Male;dbrisard64@moonfruit.com;421-379-4004;OnePlus;Technology;urban
+6818a153a750bed478947a76;222;Java Junction;12/29/2023;19:48:00;Odella Ginnaly;1992;Female;oginnaly65@upenn.edu;293-200-1407;OnePlus;Technology;sub urban
+6818a153a750bed478947a77;223;The Salad Spot;12/8/2023;16:49:00;Maryrose Wade;1975;Female;mwade66@umn.edu;871-626-5545;OnePlus;Technology;coastal
+6818a153a750bed478947a78;224;The Salad Spot;12/15/2023;11:27:00;Darin Vossgen;1977;Male;dvossgen67@dagondesign.com;336-520-2978;OnePlus;Technology;Suburban Fringe
+6818a153a750bed478947a79;225;The Salad Spot;12/6/2023;08:40:00;Shandee Hurton;1981;Female;shurton68@macromedia.com;826-819-2057;OnePlus;Technology;metropolitan
+6818a153a750bed478947a7a;226;The Green Leaf;12/25/2023;15:21:00;Jammal Clearie;1964;Male;jclearie69@lycos.com;253-141-6235;OnePlus;Podcast;urban
+6818a153a750bed478947a7b;227;The Green Leaf;12/17/2023;21:15:00;Demetria Cattrall;1983;Female;dcattrall6a@npr.org;572-856-0140;OnePlus;Podcast;sub urban
+6818a153a750bed478947a7c;228;Barrel & Brew;12/3/2023;14:52:00;Concordia Osorio;1982;Female;cosorio6b@skype.com;434-999-8080;OnePlus;Podcast;coastal
+6818a153a750bed478947a7d;229;Cafe Delight;12/12/2023;14:01:00;Jecho Lapping;1968;Male;jlapping6c@yolasite.com;462-907-2316;OnePlus;Podcast;Suburban Fringe
+6818a153a750bed478947a7e;230;Cafe Delight;12/19/2023;11:32:00;Dur Bromidge;1989;Male;dbromidge6d@google.fr;610-997-6021;OnePlus;Podcast;metropolitan
+6818a153a750bed478947a7f;231;The Green Leaf;12/3/2023;09:52:00;Rich Vernham;1985;Male;rvernham6e@rambler.ru;480-428-8485;OnePlus;Music;urban
+6818a153a750bed478947a80;232;The Brew House;12/5/2023;19:13:00;Thomasina Astie;1969;Female;tastie6f@wordpress.org;250-361-8061;OnePlus;Music;sub urban
+6818a153a750bed478947a81;233;The Coffee Bean;12/16/2023;18:35:00;Fedora Tidmarsh;1970;Female;ftidmarsh6g@w3.org;679-499-1066;OnePlus;Music;coastal
+6818a153a750bed478947a82;234;The Salad Spot;12/18/2023;13:41:00;Lonnard Leglise;1982;Male;lleglise6h@ox.ac.uk;664-110-3332;OnePlus;Music;Suburban Fringe
+6818a153a750bed478947a83;235;The Urban Cafe;12/17/2023;13:34:00;Spense McLae;1985;Male;smclae6i@wikia.com;541-618-7561;OnePlus;Music;metropolitan
+6818a153a750bed478947a84;236;The Rustic Tavern;12/11/2023;08:50:00;Ezekiel Bessant;1979;Male;ebessant6j@live.com;751-574-1863;OnePlus;Sport;urban
+6818a153a750bed478947a85;237;The Green Leaf;12/18/2023;08:05:00;Monti Casseldine;1964;Male;mcasseldine6k@infoseek.co.jp;303-373-6983;OnePlus;Sport;sub urban
+6818a153a750bed478947a86;238;Java Junction;12/17/2023;12:38:00;Earl Pumfrey;1975;Male;epumfrey6l@mac.com;505-802-2570;OnePlus;Sport;coastal
+6818a153a750bed478947a87;239;Cafe Delight;12/18/2023;10:51:00;Roanne Vannah;1984;Female;rvannah6m@vimeo.com;609-229-5891;OnePlus;Sport;Suburban Fringe
+6818a153a750bed478947a88;240;The Urban Cafe;12/4/2023;11:03:00;Kimmi Strewthers;1991;Female;kstrewthers6n@seesaa.net;344-449-5141;OnePlus;Sport;metropolitan
+6818a153a750bed478947a89;241;The Brew House;12/13/2023;13:03:00;Wini Kinny;1968;Female;wkinny6o@pen.io;431-471-0886;LG;Social Media;urban
+6818a153a750bed478947a8a;242;Cafe Delight;12/7/2023;16:15:00;Becky Simao;1965;Female;bsimao6p@blogtalkradio.com;977-448-9221;LG;Social Media;sub urban
+6818a153a750bed478947a8b;243;The Brew House;12/16/2023;15:45:00;Obed Peterson;1979;Male;opeterson6q@newyorker.com;815-103-6813;LG;Social Media;coastal
+6818a153a750bed478947a8c;244;Cafe Delight;12/12/2023;15:05:00;Merle Jira;1993;Female;mjira6r@spotify.com;470-316-7930;LG;Social Media;Suburban Fringe
+6818a153a750bed478947a8d;245;The Rustic Tavern;12/9/2023;18:04:00;Aila O'Logan;1987;Female;aologan6s@buzzfeed.com;761-387-9422;LG;Social Media;metropolitan
+6818a153a750bed478947a8e;246;Java Junction;12/17/2023;10:35:00;Harwell Rought;1970;Male;hrought6t@cmu.edu;430-783-5145;LG;E-commerce;urban
+6818a153a750bed478947a8f;247;The Salad Spot;12/18/2023;11:55:00;Marijo oldey;1991;Female;moldey6u@microsoft.com;321-278-5058;LG;E-commerce;sub urban
+6818a153a750bed478947a90;248;Barrel & Brew;12/3/2023;11:27:00;Cosimo McCarle;1983;Male;cmccarle6v@vimeo.com;327-918-0279;LG;E-commerce;coastal
+6818a153a750bed478947a91;249;The Rustic Tavern;12/3/2023;15:41:00;Ardelle Duffitt;1989;Female;aduffitt6w@github.io;738-937-7653;LG;E-commerce;Suburban Fringe
+6818a153a750bed478947a92;250;The Green Leaf;12/9/2023;17:49:00;Rosaleen Lowery;1991;Female;rlowery6x@netlog.com;643-995-7822;LG;E-commerce;metropolitan
+6818a153a750bed478947a93;251;Java Junction;12/10/2023;09:28:00;Olenolin Cerith;1975;Male;ocerith6y@com.com;587-762-9789;LG;Gaming;urban
+6818a153a750bed478947a94;252;Salad Sensations;12/24/2023;12:17:00;Steven Smails;1966;Male;ssmails6z@dagondesign.com;618-552-3387;LG;Gaming;sub urban
+6818a153a750bed478947a95;253;The Coffee Bean;12/4/2023;16:57:00;Pearle Eagles;1982;Female;peagles70@census.gov;515-425-0439;LG;Gaming;coastal
+6818a153a750bed478947a96;254;The Rustic Tavern;12/26/2023;11:50:00;Ibrahim Snarr;1967;Male;isnarr71@merriam-webster.com;419-115-6764;LG;Gaming;Suburban Fringe
+6818a153a750bed478947a97;255;The Urban Cafe;12/6/2023;21:28:00;Devland Reay;1981;Male;dreay72@google.co.jp;100-857-4017;LG;Gaming;metropolitan
+6818a153a750bed478947a98;256;The Salad Spot;12/18/2023;12:17:00;Martin Gaywood;1965;Male;mgaywood73@thetimes.co.uk;845-759-8425;LG;News;urban
+6818a153a750bed478947a99;257;The Coffee Bean;12/23/2023;08:40:00;Arielle Humby;1965;Female;ahumby74@google.ca;618-812-2590;LG;News;sub urban
+6818a153a750bed478947a9a;258;The Urban Cafe;12/24/2023;08:37:00;Dionne Atwool;2003;Female;datwool75@tmall.com;136-676-8912;LG;News;coastal
+6818a153a750bed478947a9b;259;The Urban Cafe;12/24/2023;18:57:00;Monti Greenhouse;1963;Male;mgreenhouse76@yahoo.com;201-304-3753;LG;News;Suburban Fringe
+6818a153a750bed478947a9c;260;The Brew House;12/21/2023;11:59:00;Cornie Alywin;1976;Male;calywin77@newsvine.com;540-234-7880;LG;News;metropolitan
+6818a153a750bed478947a9d;261;The Brew House;12/23/2023;19:58:00;Arvie Randall;1962;Male;arandall78@msu.edu;976-490-3712;LG;Technology;urban
+6818a153a750bed478947a9e;262;The Brew House;12/25/2023;17:57:00;Alejandro Tait;1997;Male;atait79@sina.com.cn;105-540-9455;LG;Technology;sub urban
+6818a153a750bed478947a9f;263;The Rustic Tavern;12/27/2023;15:36:00;Farica Bulford;2003;Female;fbulford7a@friendfeed.com;375-162-4450;LG;Technology;coastal
+6818a153a750bed478947aa0;264;Barrel & Brew;12/24/2023;18:31:00;Cindee Wedmore;1978;Female;cwedmore7b@redcross.org;846-331-3385;LG;Technology;Suburban Fringe
+6818a153a750bed478947aa1;265;Barrel & Brew;12/11/2023;11:10:00;Suki Allinson;1969;Female;sallinson7c@liveinternet.ru;728-594-8243;LG;Technology;metropolitan
+6818a153a750bed478947aa2;266;Cafe Delight;12/25/2023;18:56:00;William Cooke;1999;Male;wcooke7d@blogger.com;513-697-4924;LG;Podcast;urban
+6818a153a750bed478947aa3;267;Barrel & Brew;12/25/2023;08:36:00;Trina Eydel;1996;Female;teydel7e@icio.us;481-934-4588;LG;Podcast;sub urban
+6818a153a750bed478947aa4;268;The Rustic Tavern;12/14/2023;12:52:00;Brnaby Thaxton;1968;Male;bthaxton7f@sohu.com;110-963-9512;LG;Podcast;coastal
+6818a153a750bed478947aa5;269;The Green Leaf;12/21/2023;10:46:00;Ivan Brent;1998;Male;ibrent7g@lycos.com;500-736-5322;LG;Podcast;Suburban Fringe
+6818a153a750bed478947aa6;270;The Rustic Tavern;12/16/2023;20:15:00;Muffin Tremoulet;1982;Male;mtremoulet7h@mashable.com;372-423-9573;LG;Podcast;metropolitan
+6818a153a750bed478947aa7;271;The Salad Spot;12/18/2023;17:48:00;Bengt Glamart;1970;Male;bglamart7i@marketwatch.com;631-574-5675;LG;Music;urban
+6818a153a750bed478947aa8;272;The Brew House;12/14/2023;16:05:00;Aron Johannesson;1994;Male;ajohannesson7j@aol.com;561-906-4656;LG;Music;sub urban
+6818a153a750bed478947aa9;273;The Rustic Tavern;12/28/2023;09:31:00;Marian Baron;1993;Female;mbaron7k@hhs.gov;995-549-9497;LG;Music;coastal
+6818a153a750bed478947aaa;274;The Salad Spot;12/12/2023;13:29:00;Kent Hadwin;1999;Male;khadwin7l@jigsy.com;874-576-5615;LG;Music;Suburban Fringe
+6818a153a750bed478947aab;275;The Coffee Bean;12/29/2023;19:19:00;Witty Ierland;1962;Male;wierland7m@etsy.com;491-170-7707;LG;Music;metropolitan
+6818a153a750bed478947aac;276;The Green Leaf;12/15/2023;19:05:00;Leticia Cochern;1989;Female;lcochern7n@digg.com;435-674-4588;LG;Sport;urban
+6818a153a750bed478947aad;277;The Rustic Tavern;12/7/2023;08:21:00;Kippy Dadds;1960;Male;kdadds7o@list-manage.com;904-789-5009;LG;Sport;sub urban
+6818a153a750bed478947aae;278;The Brew House;12/12/2023;20:03:00;Ringo Tappor;1980;Male;rtappor7p@wikimedia.org;217-796-9890;LG;Sport;coastal
+6818a153a750bed478947aaf;279;The Urban Cafe;12/19/2023;15:53:00;Travers Pasterfield;1960;Male;tpasterfield7q@netlog.com;500-634-9761;LG;Sport;Suburban Fringe
+6818a153a750bed478947ab0;280;The Rustic Tavern;12/17/2023;18:43:00;Winnie Martel;1989;Female;wmartel7r@who.int;975-333-6247;LG;Sport;metropolitan
+6818a153a750bed478947ab1;281;The Salad Spot;12/25/2023;09:56:00;Tiffani Bansal;1988;Female;tbansal7s@ox.ac.uk;730-606-1233;Sony;Social Media;urban
+6818a153a750bed478947ab2;282;The Urban Cafe;12/3/2023;16:46:00;Durward Blindmann;1991;Male;dblindmann7t@fc2.com;866-158-1520;Sony;Social Media;sub urban
+6818a153a750bed478947ab3;283;Barrel & Brew;12/30/2023;18:27:00;Lenci Kleinsinger;1968;Male;lkleinsinger7u@gravatar.com;931-212-4303;Sony;Social Media;coastal
+6818a153a750bed478947ab4;284;Barrel & Brew;12/14/2023;12:31:00;Karlene Corley;1986;Female;kcorley7v@rakuten.co.jp;359-529-1380;Sony;Social Media;Suburban Fringe
+6818a153a750bed478947ab5;285;The Green Leaf;12/21/2023;19:12:00;Yanaton Muddiman;1978;Male;ymuddiman7w@walmart.com;791-927-4149;Sony;Social Media;metropolitan
+6818a153a750bed478947ab6;286;Salad Sensations;12/19/2023;10:38:00;Angus Benallack;1988;Male;abenallack7x@nifty.com;923-646-8116;Sony;E-commerce;urban
+6818a153a750bed478947ab7;287;Java Junction;12/9/2023;17:15:00;Felipe Rainville;1963;Male;frainville7y@prlog.org;729-544-4257;Sony;E-commerce;sub urban
+6818a153a750bed478947ab8;288;Cafe Delight;12/26/2023;16:33:00;Erinna Causton;1992;Female;ecauston7z@bigcartel.com;318-160-5897;Sony;E-commerce;coastal
+6818a153a750bed478947ab9;289;The Rustic Tavern;12/12/2023;09:09:00;Dulciana Claisse;1965;Female;dclaisse80@gizmodo.com;866-289-2639;Sony;E-commerce;Suburban Fringe
+6818a153a750bed478947aba;290;The Coffee Bean;12/17/2023;19:34:00;Marsha Swetland;1996;Female;mswetland81@furl.net;514-115-1372;Sony;E-commerce;metropolitan
+6818a153a750bed478947abb;291;Cafe Delight;12/24/2023;20:36:00;Keith Keford;1980;Male;kkeford82@upenn.edu;847-864-8032;Sony;Gaming;urban
+6818a153a750bed478947abc;292;The Rustic Tavern;12/14/2023;17:31:00;Garret Snoxill;1964;Male;gsnoxill83@alibaba.com;219-271-2916;Sony;Gaming;sub urban
+6818a153a750bed478947abd;293;The Salad Spot;12/17/2023;19:49:00;Lefty Mc Corley;1971;Male;lmc84@disqus.com;868-132-3756;Sony;Gaming;coastal
+6818a153a750bed478947abe;294;The Rustic Tavern;12/8/2023;20:55:00;Gary Moralas;1995;Male;gmoralas85@mashable.com;299-700-2701;Sony;Gaming;Suburban Fringe
+6818a153a750bed478947abf;295;The Green Leaf;12/1/2023;19:32:00;Cassandry Doggerell;1997;Female;cdoggerell86@dailymotion.com;872-284-3695;Sony;Gaming;metropolitan
+6818a153a750bed478947ac0;296;Java Junction;12/26/2023;15:29:00;Sam Vaugham;2000;Male;svaugham87@weibo.com;598-851-7039;Sony;News;urban
+6818a153a750bed478947ac1;297;The Brew House;12/28/2023;20:17:00;Lindy Behn;1991;Male;lbehn88@deliciousdays.com;938-739-8564;Sony;News;sub urban
+6818a153a750bed478947ac2;298;The Rustic Tavern;12/3/2023;08:47:00;Coriss Giddings;1973;Female;cgiddings89@ask.com;641-303-9097;Sony;News;coastal
+6818a153a750bed478947ac3;299;Barrel & Brew;12/12/2023;20:19:00;Sigfried Ketcher;1981;Male;sketcher8a@tinypic.com;235-660-2873;Sony;News;Suburban Fringe
+6818a153a750bed478947ac4;300;The Urban Cafe;12/9/2023;14:29:00;El Salmon;1992;Male;esalmon8b@accuweather.com;134-950-5629;Sony;News;metropolitan
+6818a153a750bed478947ac5;301;The Salad Spot;12/3/2023;15:09:00;Frants Stollmeyer;1972;Male;fstollmeyer8c@sakura.ne.jp;553-233-4969;Sony;Technology;urban
+6818a153a750bed478947ac6;302;The Coffee Bean;12/14/2023;20:43:00;Zebulon Laker;1989;Male;zlaker8d@yale.edu;773-116-2180;Sony;Technology;sub urban
+6818a153a750bed478947ac7;303;The Brew House;12/11/2023;11:05:00;Sherwin Collard;1995;Male;scollard8e@opera.com;461-620-5857;Sony;Technology;coastal
+6818a153a750bed478947ac8;304;The Brew House;12/10/2023;17:38:00;Freddy Kollach;1977;Male;fkollach8f@google.de;864-666-9364;Sony;Technology;Suburban Fringe
+6818a153a750bed478947ac9;305;The Urban Cafe;12/12/2023;20:19:00;Carmine Tomaini;1977;Female;ctomaini8g@skyrock.com;112-789-0649;Sony;Technology;metropolitan
+6818a153a750bed478947aca;306;Java Junction;12/3/2023;15:49:00;Sandye Clarabut;1976;Female;sclarabut8h@github.io;133-322-4236;Sony;Podcast;urban
+6818a153a750bed478947acb;307;The Salad Spot;12/25/2023;17:44:00;Wilie Coners;1965;Female;wconers8i@digg.com;630-230-9957;Sony;Podcast;sub urban
+6818a153a750bed478947acc;308;The Urban Cafe;12/16/2023;17:18:00;Aubree Burbridge;1983;Female;aburbridge8j@whitehouse.gov;830-444-6747;Sony;Podcast;coastal
+6818a153a750bed478947acd;309;The Urban Cafe;12/23/2023;09:55:00;Roseanna Giordano;1977;Female;rgiordano8k@oakley.com;745-121-4152;Sony;Podcast;Suburban Fringe
+6818a153a750bed478947ace;310;Barrel & Brew;12/22/2023;13:59:00;Pennie Kezar;1961;Female;pkezar8l@chronoengine.com;652-396-2279;Sony;Podcast;metropolitan
+6818a153a750bed478947acf;311;Cafe Delight;12/14/2023;09:18:00;Agathe Eggerton;1996;Female;aeggerton8m@indiatimes.com;241-670-1077;Sony;Music;urban
+6818a153a750bed478947ad0;312;The Rustic Tavern;12/2/2023;14:05:00;Mirella Hartman;1961;Female;mhartman8n@alibaba.com;505-174-4531;Sony;Music;sub urban
+6818a153a750bed478947ad1;313;The Coffee Bean;12/12/2023;16:56:00;Allegra Dixsee;1964;Female;adixsee8o@indiatimes.com;307-601-8533;Sony;Music;coastal
+6818a153a750bed478947ad2;314;The Salad Spot;12/24/2023;19:18:00;Melly Pellingar;1978;Female;mpellingar8p@cmu.edu;389-914-7349;Sony;Music;Suburban Fringe
+6818a153a750bed478947ad3;315;The Brew House;12/21/2023;10:14:00;Francklin Firmage;1991;Male;ffirmage8q@vistaprint.com;765-447-1383;Sony;Music;metropolitan
+6818a153a750bed478947ad4;316;The Green Leaf;12/30/2023;17:06:00;Leonhard Gaitskill;2000;Male;lgaitskill8r@princeton.edu;946-316-7386;Sony;Sport;urban
+6818a153a750bed478947ad5;317;The Urban Cafe;12/17/2023;12:47:00;Nedi Richardson;1988;Female;nrichardson8s@qq.com;517-514-9079;Sony;Sport;sub urban
+6818a153a750bed478947ad6;318;Barrel & Brew;12/23/2023;18:40:00;Turner Housbey;2000;Male;thousbey8t@quantcast.com;655-206-4260;Sony;Sport;coastal
+6818a153a750bed478947ad7;319;Barrel & Brew;12/13/2023;10:50:00;Papageno Delaney;1995;Male;pdelaney8u@jugem.jp;289-812-1103;Sony;Sport;Suburban Fringe
+6818a153a750bed478947ad8;320;Barrel & Brew;12/14/2023;16:17:00;Tab Wadham;1982;Male;twadham8v@desdev.cn;607-348-3330;Sony;Sport;metropolitan
+6818a153a750bed478947ad9;321;Cafe Delight;12/2/2023;08:03:00;Hasheem Lefwich;1988;Male;hlefwich8w@aboutads.info;618-877-9728;Nokia;Social Media;urban
+6818a153a750bed478947ada;322;Salad Sensations;12/9/2023;12:11:00;Kalli Bollen;1984;Female;kbollen8x@geocities.jp;927-127-5665;Nokia;Social Media;sub urban
+6818a153a750bed478947adb;323;The Brew House;12/14/2023;08:54:00;Matilde Lamonby;1972;Female;mlamonby8y@flavors.me;953-525-4258;Nokia;Social Media;coastal
+6818a153a750bed478947adc;324;Cafe Delight;12/23/2023;17:08:00;Murry Rubinfeld;2002;Male;mrubinfeld8z@cnn.com;695-853-2673;Nokia;Social Media;Suburban Fringe
+6818a153a750bed478947add;325;The Brew House;12/24/2023;10:09:00;Gareth Rawlison;1961;Male;grawlison90@usda.gov;109-628-6904;Nokia;Social Media;metropolitan
+6818a153a750bed478947ade;326;The Rustic Tavern;12/28/2023;11:10:00;Bidget Storrah;1964;Female;bstorrah91@yolasite.com;180-407-5179;Nokia;E-commerce;urban
+6818a153a750bed478947adf;327;The Green Leaf;12/24/2023;15:20:00;Eric Pottinger;1978;Male;epottinger92@github.io;647-703-9185;Nokia;E-commerce;sub urban
+6818a153a750bed478947ae0;328;The Salad Spot;12/8/2023;18:17:00;Gerri Lindfors;1970;Female;glindfors93@over-blog.com;807-581-8978;Nokia;E-commerce;coastal
+6818a153a750bed478947ae1;329;The Brew House;12/21/2023;16:12:00;Ulick Timny;1981;Male;utimny94@engadget.com;506-995-6919;Nokia;E-commerce;Suburban Fringe
+6818a153a750bed478947ae2;330;Barrel & Brew;12/12/2023;14:27:00;Aylmer Blumsom;1997;Male;ablumsom95@etsy.com;711-793-7653;Nokia;E-commerce;metropolitan
+6818a153a750bed478947ae3;331;Barrel & Brew;12/16/2023;13:32:00;Roseanna Nicolson;1980;Female;rnicolson96@yahoo.com;281-356-1571;Nokia;Gaming;urban
+6818a153a750bed478947ae4;332;The Salad Spot;12/29/2023;17:53:00;Petronella Czajka;1960;Female;pczajka97@umich.edu;691-623-5555;Nokia;Gaming;sub urban
+6818a153a750bed478947ae5;333;Barrel & Brew;12/6/2023;19:54:00;Drud Kliner;2000;Male;dkliner98@alibaba.com;119-199-5932;Nokia;Gaming;coastal
+6818a153a750bed478947ae6;334;Java Junction;12/8/2023;08:44:00;Miller Scarlon;1986;Male;mscarlon99@etsy.com;797-294-3289;Nokia;Gaming;Suburban Fringe
+6818a153a750bed478947ae7;335;The Rustic Tavern;12/24/2023;16:14:00;Lucine Vasyutichev;1971;Female;lvasyutichev9a@icio.us;872-785-6215;Nokia;Gaming;metropolitan
+6818a153a750bed478947ae8;336;The Rustic Tavern;12/1/2023;13:51:00;Sheffy Boldock;1961;Male;sboldock9b@example.com;904-289-7433;Nokia;News;urban
+6818a153a750bed478947ae9;337;The Salad Spot;12/18/2023;11:36:00;Shanon Place;1986;Female;splace9c@surveymonkey.com;887-453-4491;Nokia;News;sub urban
+6818a153a750bed478947aea;338;The Brew House;12/29/2023;21:51:00;Cary Doughton;1960;Female;cdoughton9d@prweb.com;493-339-5877;Nokia;News;coastal
+6818a153a750bed478947aeb;339;The Green Leaf;12/6/2023;16:13:00;Barty Lahrs;2001;Male;blahrs9e@infoseek.co.jp;790-156-9964;Nokia;News;Suburban Fringe
+6818a153a750bed478947aec;340;The Urban Cafe;12/13/2023;08:41:00;Cathryn Torri;1968;Female;ctorri9f@gravatar.com;720-560-6769;Nokia;News;metropolitan
+6818a153a750bed478947aed;341;Salad Sensations;12/4/2023;17:46:00;Lorne Edmed;1981;Male;ledmed9g@skyrock.com;320-275-5312;Nokia;Technology;urban
+6818a153a750bed478947aee;342;Java Junction;12/10/2023;16:03:00;Manfred Dikes;1976;Male;mdikes9h@t-online.de;584-772-2538;Nokia;Technology;sub urban
+6818a153a750bed478947aef;343;The Coffee Bean;12/10/2023;08:27:00;Martina Dewfall;1973;Female;mdewfall9i@jalbum.net;589-603-6224;Nokia;Technology;coastal
+6818a153a750bed478947af0;344;The Coffee Bean;12/22/2023;15:35:00;Vladamir Iacobacci;1962;Male;viacobacci9j@theguardian.com;956-218-7728;Nokia;Technology;Suburban Fringe
+6818a153a750bed478947af1;345;The Coffee Bean;12/7/2023;19:53:00;Zed Sanbrooke;1976;Male;zsanbrooke9k@indiatimes.com;449-483-5723;Nokia;Technology;metropolitan
+6818a153a750bed478947af2;346;The Green Leaf;12/29/2023;12:03:00;Judon Hughson;1993;Male;jhughson9l@slate.com;167-869-1397;Nokia;Podcast;urban
+6818a153a750bed478947af3;347;Salad Sensations;12/14/2023;18:03:00;Blancha Winser;1982;Female;bwinser9m@whitehouse.gov;864-756-2907;Nokia;Podcast;sub urban
+6818a153a750bed478947af4;348;Cafe Delight;12/25/2023;16:24:00;Leola Ryle;1969;Female;lryle9n@dot.gov;461-935-8964;Nokia;Podcast;coastal
+6818a153a750bed478947af5;349;The Brew House;12/14/2023;15:18:00;Moshe Jeger;1964;Male;mjeger9o@twitpic.com;655-735-2290;Nokia;Podcast;Suburban Fringe
+6818a153a750bed478947af6;350;The Salad Spot;12/29/2023;21:31:00;Murray Lafont;1968;Male;mlafont9p@nhs.uk;801-418-8223;Nokia;Podcast;metropolitan
+6818a153a750bed478947af7;351;The Coffee Bean;12/4/2023;14:26:00;Peggi Mc Grath;1970;Female;pmc9q@4shared.com;662-239-7004;Nokia;Music;urban
+6818a153a750bed478947af8;352;The Brew House;12/12/2023;10:36:00;Selma Pickaver;1997;Female;spickaver9r@123-reg.co.uk;954-640-6271;Nokia;Music;sub urban
+6818a153a750bed478947af9;353;The Rustic Tavern;12/9/2023;14:45:00;Archambault Yakubov;1960;Male;ayakubov9s@usda.gov;556-987-4364;Nokia;Music;coastal
+6818a153a750bed478947afa;354;The Salad Spot;12/24/2023;14:30:00;Dorena Kupper;1986;Female;dkupper9t@feedburner.com;256-197-9182;Nokia;Music;Suburban Fringe
+6818a153a750bed478947afb;355;The Urban Cafe;12/9/2023;12:24:00;Maura Frew;1986;Female;mfrew9u@cornell.edu;458-125-2857;Nokia;Music;metropolitan
+6818a153a750bed478947afc;356;The Urban Cafe;12/12/2023;10:22:00;Geordie Hammelberg;1962;Male;ghammelberg9v@utexas.edu;914-563-7012;Nokia;Sport;urban
+6818a153a750bed478947afd;357;Barrel & Brew;12/14/2023;19:04:00;Rozanne Bleddon;1972;Female;rbleddon9w@nifty.com;778-825-8851;Nokia;Sport;sub urban
+6818a153a750bed478947afe;358;Salad Sensations;12/20/2023;21:59:00;Rickie Hallett;1992;Male;rhallett9x@indiegogo.com;444-175-2800;Nokia;Sport;coastal
+6818a153a750bed478947aff;359;Barrel & Brew;12/5/2023;13:56:00;Willi Wynrahame;2001;Male;wwynrahame9y@studiopress.com;136-881-1139;Nokia;Sport;Suburban Fringe
+6818a153a750bed478947b00;360;Salad Sensations;12/28/2023;20:19:00;Kalinda Agate;1974;Female;kagate9z@ca.gov;171-836-1886;Nokia;Sport;metropolitan
+6818a153a750bed478947b01;361;The Coffee Bean;12/21/2023;21:13:00;Donnell Woolacott;1966;Male;dwoolacotta0@linkedin.com;299-722-1580;Motorola;Social Media;urban
+6818a153a750bed478947b02;362;The Green Leaf;12/22/2023;19:39:00;Cathee Marder;1984;Female;cmardera1@nationalgeographic.com;203-440-0026;Motorola;Social Media;sub urban
+6818a153a750bed478947b03;363;Cafe Delight;12/22/2023;17:11:00;Elberta Rubinek;1970;Female;erubineka2@statcounter.com;131-507-3199;Motorola;Social Media;coastal
+6818a153a750bed478947b04;364;The Salad Spot;12/11/2023;20:56:00;Florian Merle;1970;Male;fmerlea3@trellian.com;504-718-0066;Motorola;Social Media;Suburban Fringe
+6818a153a750bed478947b05;365;The Salad Spot;12/27/2023;11:27:00;Nickolai Coppo;1960;Male;ncoppoa4@live.com;221-621-3689;Motorola;Social Media;metropolitan
+6818a153a750bed478947b06;366;The Salad Spot;12/13/2023;10:35:00;Kerri Ghiotto;1969;Female;kghiottoa5@hao123.com;158-610-8671;Motorola;E-commerce;urban
+6818a153a750bed478947b07;367;Salad Sensations;12/16/2023;08:00:00;Michaeline Rampling;1974;Female;mramplinga6@godaddy.com;839-897-9566;Motorola;E-commerce;sub urban
+6818a153a750bed478947b08;368;The Green Leaf;12/21/2023;17:41:00;Myrwyn Gane;1961;Male;mganea7@comcast.net;787-788-0858;Motorola;E-commerce;coastal
+6818a153a750bed478947b09;369;The Green Leaf;12/28/2023;18:54:00;Jaquelin Dunston;1994;Female;jdunstona8@mac.com;763-370-9765;Motorola;E-commerce;Suburban Fringe
+6818a153a750bed478947b0a;370;The Salad Spot;12/25/2023;15:23:00;Mill Roderham;1976;Male;mroderhama9@apple.com;131-851-9804;Motorola;E-commerce;metropolitan
+6818a153a750bed478947b0b;371;Barrel & Brew;12/22/2023;20:04:00;Patrick Sillitoe;2000;Male;psillitoeaa@typepad.com;996-315-6592;Motorola;Gaming;urban
+6818a153a750bed478947b0c;372;The Rustic Tavern;12/29/2023;10:36:00;Cull Soonhouse;2003;Male;csoonhouseab@hatena.ne.jp;234-671-3693;Motorola;Gaming;sub urban
+6818a153a750bed478947b0d;373;Java Junction;12/10/2023;12:11:00;Dulcinea Braganca;1971;Female;dbragancaac@google.it;921-201-9894;Motorola;Gaming;coastal
+6818a153a750bed478947b0e;374;The Salad Spot;12/6/2023;08:50:00;Alexia Brearty;1966;Female;abreartyad@mlb.com;797-457-2523;Motorola;Gaming;Suburban Fringe
+6818a153a750bed478947b0f;375;The Rustic Tavern;12/14/2023;12:08:00;Lesley Kofax;1998;Male;lkofaxae@sun.com;281-810-6707;Motorola;Gaming;metropolitan
+6818a153a750bed478947b10;376;The Salad Spot;12/21/2023;17:41:00;Dru Hazeley;1995;Female;dhazeleyaf@imdb.com;260-979-9332;Motorola;News;urban
+6818a153a750bed478947b11;377;Barrel & Brew;12/8/2023;14:39:00;Chrisse Gerding;1997;Male;cgerdingag@theglobeandmail.com;511-746-0039;Motorola;News;sub urban
+6818a153a750bed478947b12;378;The Urban Cafe;12/2/2023;10:01:00;Alvinia Grimsell;1982;Female;agrimsellah@ihg.com;112-283-0383;Motorola;News;coastal
+6818a153a750bed478947b13;379;The Brew House;12/4/2023;11:03:00;Reggie Cranton;1995;Male;rcrantonai@google.com;935-647-0349;Motorola;News;Suburban Fringe
+6818a153a750bed478947b14;380;The Coffee Bean;12/7/2023;12:23:00;Myrah Lyokhin;1967;Female;mlyokhinaj@china.com.cn;203-671-9392;Motorola;News;metropolitan
+6818a153a750bed478947b15;381;Salad Sensations;12/21/2023;19:30:00;Merrill Inglish;1961;Female;minglishak@umn.edu;173-276-1212;Motorola;Technology;urban
+6818a153a750bed478947b16;382;The Urban Cafe;12/14/2023;16:58:00;Tildi Plowright;1974;Female;tplowrightal@opensource.org;877-169-4179;Motorola;Technology;sub urban
+6818a153a750bed478947b17;383;The Salad Spot;12/2/2023;14:19:00;Niels Vernau;1990;Male;nvernauam@woothemes.com;955-101-7277;Motorola;Technology;coastal
+6818a153a750bed478947b18;384;Cafe Delight;12/2/2023;16:30:00;Craggy Pasticznyk;1981;Male;cpasticznykan@oakley.com;521-808-1059;Motorola;Technology;Suburban Fringe
+6818a153a750bed478947b19;385;Cafe Delight;12/15/2023;15:02:00;Loria Avent;1968;Female;laventao@drupal.org;176-305-4782;Motorola;Technology;metropolitan
+6818a153a750bed478947b1a;386;Cafe Delight;12/5/2023;12:41:00;Dorolice Bertie;1961;Female;dbertieap@webnode.com;869-732-7771;Motorola;Podcast;urban
+6818a153a750bed478947b1b;387;Cafe Delight;12/10/2023;18:42:00;Margery Lowis;1990;Female;mlowisaq@reuters.com;393-669-2759;Motorola;Podcast;sub urban
+6818a153a750bed478947b1c;388;The Brew House;12/14/2023;20:35:00;Mike Hustings;1988;Male;mhustingsar@ycombinator.com;800-616-4432;Motorola;Podcast;coastal
+6818a153a750bed478947b1d;389;The Green Leaf;12/20/2023;16:49:00;Merwin Dwelly;1976;Male;mdwellyas@youtube.com;359-958-8947;Motorola;Podcast;Suburban Fringe
+6818a153a750bed478947b1e;390;The Coffee Bean;12/25/2023;09:46:00;Barbra Andriveaux;1976;Female;bandriveauxat@eventbrite.com;316-381-0910;Motorola;Podcast;metropolitan
+6818a153a750bed478947b1f;391;Salad Sensations;12/9/2023;11:41:00;Hunt Greenwell;1976;Male;hgreenwellau@bandcamp.com;363-184-9595;Motorola;Music;urban
+6818a153a750bed478947b20;392;The Coffee Bean;12/20/2023;13:50:00;Belle Meneer;2001;Female;bmeneerav@is.gd;125-661-4037;Motorola;Music;sub urban
+6818a153a750bed478947b21;393;The Rustic Tavern;12/1/2023;19:57:00;Ricki Woosnam;1966;Female;rwoosnamaw@geocities.jp;526-695-3669;Motorola;Music;coastal
+6818a153a750bed478947b22;394;Salad Sensations;12/10/2023;14:12:00;Vassili Langfat;1967;Male;vlangfatax@virginia.edu;215-854-2684;Motorola;Music;Suburban Fringe
+6818a153a750bed478947b23;395;Salad Sensations;12/6/2023;17:22:00;Willyt MacKellar;1998;Female;wmackellaray@github.io;507-880-3906;Motorola;Music;metropolitan
+6818a153a750bed478947b24;396;The Coffee Bean;12/14/2023;14:07:00;Fidole Espin;2001;Male;fespinaz@geocities.com;865-919-8035;Motorola;Sport;urban
+6818a153a750bed478947b25;397;The Brew House;12/28/2023;16:22:00;Hashim MacIan;1986;Male;hmacianb0@360.cn;344-952-2015;Motorola;Sport;sub urban
+6818a153a750bed478947b26;398;The Coffee Bean;12/25/2023;19:44:00;Elfie Filyaev;1979;Female;efilyaevb1@ovh.net;256-924-2196;Motorola;Sport;coastal
+6818a153a750bed478947b27;399;Barrel & Brew;12/4/2023;10:42:00;Hildagard Buddell;1980;Female;hbuddellb2@blog.com;740-811-1451;Motorola;Sport;Suburban Fringe
+6818a153a750bed478947b28;400;Java Junction;12/10/2023;10:12:00;Seymour Leverette;1960;Male;sleveretteb3@blinklist.com;109-436-7934;Motorola;Sport;metropolitan
+6818a153a750bed478947b29;401;The Green Leaf;12/25/2023;09:59:00;Veronike Doorbar;1998;Female;vdoorbarb4@liveinternet.ru;434-901-9188;Samsung;Social Media;urban
+6818a153a750bed478947b2a;402;Java Junction;12/25/2023;12:04:00;Sandra Liveley;1988;Female;sliveleyb5@newyorker.com;612-500-2388;Samsung;Social Media;sub urban
+6818a153a750bed478947b2b;403;Java Junction;12/7/2023;21:12:00;Julee Rowan;1972;Female;jrowanb6@4shared.com;691-992-7371;Samsung;Social Media;coastal
+6818a153a750bed478947b2c;404;The Brew House;12/13/2023;10:03:00;Lindsey Sudell;1962;Female;lsudellb7@economist.com;225-317-0021;Samsung;Social Media;Suburban Fringe
+6818a153a750bed478947b2d;405;The Urban Cafe;12/22/2023;20:15:00;Ara Sawdy;1998;Female;asawdyb8@barnesandnoble.com;723-629-5011;Samsung;Social Media;metropolitan
+6818a153a750bed478947b2e;406;The Rustic Tavern;12/26/2023;11:21:00;Filberte Weymouth;1969;Male;fweymouthb9@joomla.org;202-696-7412;Samsung;E-commerce;urban
+6818a153a750bed478947b2f;407;The Coffee Bean;12/25/2023;15:09:00;Dario Bortolussi;1998;Male;dbortolussiba@tumblr.com;754-383-4052;Samsung;E-commerce;sub urban
+6818a153a750bed478947b30;408;The Brew House;12/25/2023;19:57:00;Leanora Wentworth;1996;Female;lwentworthbb@blogtalkradio.com;540-652-5034;Samsung;E-commerce;coastal
+6818a153a750bed478947b31;409;Salad Sensations;12/5/2023;13:56:00;Gery Chevolleau;1979;Male;gchevolleaubc@w3.org;269-167-4751;Samsung;E-commerce;Suburban Fringe
+6818a153a750bed478947b32;410;The Coffee Bean;12/26/2023;19:40:00;Madlen Devonport;1994;Female;mdevonportbd@sourceforge.net;530-695-2720;Samsung;E-commerce;metropolitan
+6818a153a750bed478947b33;411;Cafe Delight;12/4/2023;14:11:00;Fransisco Goodinson;1995;Male;fgoodinsonbe@nationalgeographic.com;206-535-7603;Samsung;Gaming;urban
+6818a153a750bed478947b34;412;Cafe Delight;12/5/2023;19:38:00;Kerby Dedney;1998;Male;kdedneybf@icq.com;828-386-1745;Samsung;Gaming;sub urban
+6818a153a750bed478947b35;413;The Rustic Tavern;12/1/2023;19:44:00;Camila Ranscome;1972;Female;cranscomebg@patch.com;402-149-4799;Samsung;Gaming;coastal
+6818a153a750bed478947b36;414;The Urban Cafe;12/29/2023;08:36:00;Jo ann Baline;1962;Female;jannbh@twitpic.com;600-543-3806;Samsung;Gaming;Suburban Fringe
+6818a153a750bed478947b37;415;The Urban Cafe;12/3/2023;17:57:00;Tailor Surr;1997;Male;tsurrbi@examiner.com;377-712-6974;Samsung;Gaming;metropolitan
+6818a153a750bed478947b38;416;The Urban Cafe;12/22/2023;11:15:00;Thane Roakes;1962;Male;troakesbj@wufoo.com;734-333-0717;Samsung;News;urban
+6818a153a750bed478947b39;417;The Urban Cafe;12/19/2023;20:12:00;Christal Rowbotham;1994;Female;crowbothambk@scribd.com;806-546-0146;Samsung;News;sub urban
+6818a153a750bed478947b3a;418;Cafe Delight;12/13/2023;17:35:00;Betti Tabbernor;1974;Female;btabbernorbl@senate.gov;574-819-3962;Samsung;News;coastal
+6818a153a750bed478947b3b;419;The Brew House;12/4/2023;19:42:00;Curran Polino;1970;Male;cpolinobm@nsw.gov.au;360-368-3055;Samsung;News;Suburban Fringe
+6818a153a750bed478947b3c;420;Java Junction;12/29/2023;17:43:00;Laurens Buchanan;1979;Male;lbuchananbn@wp.com;965-837-8679;Samsung;News;metropolitan
+6818a153a750bed478947b3d;421;Barrel & Brew;12/2/2023;18:26:00;Ruthann Philippe;1973;Female;rphilippebo@yahoo.com;591-215-3158;Samsung;Technology;urban
+6818a153a750bed478947b3e;422;Cafe Delight;12/19/2023;14:56:00;Alex Springer;1998;Male;aspringerbp@etsy.com;533-659-6412;Samsung;Technology;sub urban
+6818a153a750bed478947b3f;423;Salad Sensations;12/28/2023;08:29:00;Samson Halliwell;1961;Male;shalliwellbq@hhs.gov;476-355-4997;Samsung;Technology;coastal
+6818a153a750bed478947b40;424;Cafe Delight;12/8/2023;17:24:00;Marylou Sayward;1972;Female;msaywardbr@blog.com;438-497-0880;Samsung;Technology;Suburban Fringe
+6818a153a750bed478947b41;425;Salad Sensations;12/20/2023;15:33:00;Rouvin Tribell;2003;Male;rtribellbs@plala.or.jp;858-923-7755;Samsung;Technology;metropolitan
+6818a153a750bed478947b42;426;The Coffee Bean;12/6/2023;13:54:00;Michele Gownge;1989;Male;mgowngebt@last.fm;665-987-2098;Samsung;Podcast;urban
+6818a153a750bed478947b43;427;The Urban Cafe;12/7/2023;21:41:00;Ottilie Jerrom;1997;Female;ojerrombu@vistaprint.com;806-252-2075;Samsung;Podcast;sub urban
+6818a153a750bed478947b44;428;The Urban Cafe;12/9/2023;10:16:00;Jeanne Shovelton;2000;Female;jshoveltonbv@nbcnews.com;838-827-5579;Samsung;Podcast;coastal
+6818a153a750bed478947b45;429;Barrel & Brew;12/8/2023;14:07:00;Kris Leith-Harvey;1977;Female;kleithharveybw@dailymail.co.uk;898-642-1333;Samsung;Podcast;Suburban Fringe
+6818a153a750bed478947b46;430;The Urban Cafe;12/7/2023;08:35:00;Leese Peoples;1990;Female;lpeoplesbx@reuters.com;342-986-2407;Samsung;Podcast;metropolitan
+6818a153a750bed478947b47;431;Salad Sensations;12/26/2023;16:04:00;Town Hows;2003;Male;thowsby@nytimes.com;270-333-7213;Samsung;Music;urban
+6818a153a750bed478947b48;432;The Green Leaf;12/8/2023;20:09:00;Lonny Jorez;2003;Male;ljorezbz@wsj.com;864-106-5501;Samsung;Music;sub urban
+6818a153a750bed478947b49;433;The Brew House;12/11/2023;17:21:00;Emyle Gogarty;1987;Female;egogartyc0@sun.com;788-560-7768;Samsung;Music;coastal
+6818a153a750bed478947b4a;434;Java Junction;12/23/2023;15:16:00;Haywood Twinbrow;1969;Male;htwinbrowc1@google.ca;952-471-7092;Samsung;Music;Suburban Fringe
+6818a153a750bed478947b4b;435;The Green Leaf;12/21/2023;20:45:00;Willy Wardale;2000;Female;wwardalec2@topsy.com;112-913-6249;Samsung;Music;metropolitan
+6818a153a750bed478947b4c;436;Barrel & Brew;12/12/2023;19:26:00;Consalve Brehault;1993;Male;cbrehaultc3@woothemes.com;596-962-7869;Samsung;Sport;urban
+6818a153a750bed478947b4d;437;The Coffee Bean;12/24/2023;08:22:00;Jacquelynn Erangy;1996;Female;jerangyc4@soup.io;681-442-1742;Samsung;Sport;sub urban
+6818a153a750bed478947b4e;438;The Salad Spot;12/23/2023;15:40:00;Carver Dewhirst;1967;Male;cdewhirstc5@addthis.com;792-197-2927;Samsung;Sport;coastal
+6818a153a750bed478947b4f;439;The Brew House;12/22/2023;11:17:00;Virginia Keyse;1961;Female;vkeysec6@nature.com;681-516-2363;Samsung;Sport;Suburban Fringe
+6818a153a750bed478947b50;440;The Salad Spot;12/25/2023;20:49:00;Giacopo Stallworthy;1961;Male;gstallworthyc7@techcrunch.com;717-102-2293;Samsung;Sport;metropolitan
+6818a153a750bed478947b51;441;The Green Leaf;12/30/2023;17:58:00;Francisco Toffler;1977;Male;ftofflerc8@geocities.jp;505-178-0592;Apple;Social Media;urban
+6818a153a750bed478947b52;442;The Brew House;12/18/2023;14:16:00;Herb Birley;1968;Male;hbirleyc9@ocn.ne.jp;980-449-2138;Apple;Social Media;sub urban
+6818a153a750bed478947b53;443;Barrel & Brew;12/3/2023;08:12:00;Shina Daoust;1999;Female;sdaoustca@quantcast.com;368-796-0240;Apple;Social Media;coastal
+6818a153a750bed478947b54;444;Barrel & Brew;12/13/2023;16:45:00;Alix Baudichon;2001;Male;abaudichoncb@samsung.com;287-500-1557;Apple;Social Media;Suburban Fringe
+6818a153a750bed478947b55;445;Cafe Delight;12/16/2023;16:14:00;Arch Caulfield;1961;Male;acaulfieldcc@youku.com;937-795-5272;Apple;Social Media;metropolitan
+6818a153a750bed478947b56;446;The Rustic Tavern;12/27/2023;16:57:00;Lennard Pidduck;1994;Male;lpidduckcd@php.net;636-596-7011;Apple;E-commerce;urban
+6818a153a750bed478947b57;447;Cafe Delight;12/5/2023;12:10:00;Cathleen Yeskin;1971;Female;cyeskince@go.com;233-735-9480;Apple;E-commerce;sub urban
+6818a153a750bed478947b58;448;The Coffee Bean;12/16/2023;10:24:00;Phaedra Goman;1968;Female;pgomancf@europa.eu;558-165-4912;Apple;E-commerce;coastal
+6818a153a750bed478947b59;449;The Urban Cafe;12/6/2023;18:42:00;Kalindi Ellar;1967;Female;kellarcg@irs.gov;525-669-4892;Apple;E-commerce;Suburban Fringe
+6818a153a750bed478947b5a;450;Java Junction;12/4/2023;09:29:00;Burnard Sloegrave;2003;Male;bsloegravech@jigsy.com;622-544-6349;Apple;E-commerce;metropolitan
+6818a153a750bed478947b5b;451;The Coffee Bean;12/29/2023;19:08:00;Jordon Crudge;1985;Male;jcrudgeci@fotki.com;279-524-4219;Apple;Gaming;urban
+6818a153a750bed478947b5c;452;The Coffee Bean;12/18/2023;09:22:00;Helene De Ambrosi;1986;Female;hdecj@wordpress.com;771-545-8550;Apple;Gaming;sub urban
+6818a153a750bed478947b5d;453;The Green Leaf;12/23/2023;09:09:00;Delmor Golds;1988;Male;dgoldsck@infoseek.co.jp;351-155-5125;Apple;Gaming;coastal
+6818a153a750bed478947b5e;454;The Urban Cafe;12/22/2023;14:16:00;Adah Oselton;1965;Female;aoseltoncl@free.fr;737-793-3771;Apple;Gaming;Suburban Fringe
+6818a153a750bed478947b5f;455;Java Junction;12/15/2023;12:58:00;Roselin Hardiman;1982;Female;rhardimancm@elpais.com;462-478-9106;Apple;Gaming;metropolitan
+6818a153a750bed478947b60;456;Barrel & Brew;12/4/2023;11:19:00;Iorgos Hazelby;1978;Male;ihazelbycn@squarespace.com;786-465-0752;Apple;News;urban
+6818a153a750bed478947b61;457;The Brew House;12/12/2023;18:40:00;Geno Dallyn;2000;Male;gdallynco@youku.com;458-994-1492;Apple;News;sub urban
+6818a153a750bed478947b62;458;The Urban Cafe;12/29/2023;20:29:00;Micheline Reneke;1994;Female;mrenekecp@homestead.com;882-873-1570;Apple;News;coastal
+6818a153a750bed478947b63;459;The Urban Cafe;12/29/2023;11:26:00;Obediah Simek;1987;Male;osimekcq@walmart.com;713-799-5366;Apple;News;Suburban Fringe
+6818a153a750bed478947b64;460;The Brew House;12/22/2023;14:39:00;Loretta Segeswoeth;1978;Female;lsegeswoethcr@youku.com;629-191-2653;Apple;News;metropolitan
+6818a153a750bed478947b65;461;Java Junction;12/19/2023;15:10:00;Tess Pawsey;1990;Female;tpawseycs@hhs.gov;221-226-6111;Apple;Technology;urban
+6818a153a750bed478947b66;462;The Green Leaf;12/14/2023;15:39:00;Ethelred Gibbon;1990;Male;egibbonct@about.me;790-963-7901;Apple;Technology;sub urban
+6818a153a750bed478947b67;463;Java Junction;12/23/2023;15:05:00;Amii Welford;1982;Female;awelfordcu@nbcnews.com;241-332-0397;Apple;Technology;coastal
+6818a153a750bed478947b68;464;Java Junction;12/21/2023;14:18:00;Yehudi McNirlan;1960;Male;ymcnirlancv@opera.com;711-411-1571;Apple;Technology;Suburban Fringe
+6818a153a750bed478947b69;465;The Rustic Tavern;12/6/2023;13:20:00;Justinian De Mattei;1978;Male;jdecw@ustream.tv;519-270-2266;Apple;Technology;metropolitan
+6818a153a750bed478947b6a;466;The Green Leaf;12/20/2023;19:56:00;Tynan Pattingson;1974;Male;tpattingsoncx@live.com;181-745-3467;Apple;Podcast;urban
+6818a153a750bed478947b6b;467;The Brew House;12/8/2023;19:07:00;Harley Hayzer;1978;Female;hhayzercy@xrea.com;387-630-7535;Apple;Podcast;sub urban
+6818a153a750bed478947b6c;468;Barrel & Brew;12/24/2023;15:48:00;Welby McDade;1977;Male;wmcdadecz@nifty.com;439-909-9986;Apple;Podcast;coastal
+6818a153a750bed478947b6d;469;The Rustic Tavern;12/23/2023;14:20:00;Phebe Restieaux;1966;Female;prestieauxd0@dailymotion.com;198-268-7135;Apple;Podcast;Suburban Fringe
+6818a153a750bed478947b6e;470;The Brew House;12/15/2023;13:34:00;Raphaela Dumbrall;1985;Female;rdumbralld1@mit.edu;358-257-4507;Apple;Podcast;metropolitan
+6818a153a750bed478947b6f;471;The Coffee Bean;12/26/2023;14:24:00;Syman Robbert;1990;Male;srobbertd2@furl.net;503-715-5383;Apple;Music;urban
+6818a153a750bed478947b70;472;The Rustic Tavern;12/24/2023;18:34:00;Andros Pirrie;1982;Male;apirried3@amazonaws.com;892-100-5450;Apple;Music;sub urban
+6818a153a750bed478947b71;473;Cafe Delight;12/14/2023;18:44:00;Rustie Eilhertsen;1971;Male;reilhertsend4@marriott.com;397-325-2539;Apple;Music;coastal
+6818a153a750bed478947b72;474;Salad Sensations;12/19/2023;15:45:00;Elyn McLachlan;1977;Female;emclachland5@ft.com;131-355-6190;Apple;Music;Suburban Fringe
+6818a153a750bed478947b73;475;The Brew House;12/14/2023;18:03:00;Will Verzey;1994;Male;wverzeyd6@abc.net.au;570-225-8162;Apple;Music;metropolitan
+6818a153a750bed478947b74;476;The Green Leaf;12/21/2023;16:57:00;Regan Sabater;1995;Female;rsabaterd7@wired.com;634-146-2366;Apple;Sport;urban
+6818a153a750bed478947b75;477;Java Junction;12/28/2023;10:02:00;Franky Coakley;1982;Male;fcoakleyd8@symantec.com;742-563-1776;Apple;Sport;sub urban
+6818a153a750bed478947b76;478;Barrel & Brew;12/4/2023;09:58:00;Ruperto Hullbrook;1960;Male;rhullbrookd9@g.co;531-650-9550;Apple;Sport;coastal
+6818a153a750bed478947b77;479;Cafe Delight;12/17/2023;17:01:00;Paxton Egginton;1989;Male;peggintonda@facebook.com;352-670-7826;Apple;Sport;Suburban Fringe
+6818a153a750bed478947b78;480;The Rustic Tavern;12/13/2023;17:18:00;Bel Suttell;1999;Female;bsuttelldb@businessinsider.com;961-225-3621;Apple;Sport;metropolitan
+6818a153a750bed478947b79;481;The Coffee Bean;12/23/2023;15:48:00;Perrine Fideler;1978;Female;pfidelerdc@paypal.com;345-339-4164;Huawei;Social Media;urban
+6818a153a750bed478947b7a;482;The Salad Spot;12/17/2023;16:24:00;Davida Bassano;1977;Female;dbassanodd@guardian.co.uk;572-962-7819;Huawei;Social Media;sub urban
+6818a153a750bed478947b7b;483;Java Junction;12/14/2023;11:04:00;Alanson Gemeau;1965;Male;agemeaude@com.com;604-509-9282;Huawei;Social Media;coastal
+6818a153a750bed478947b7c;484;Cafe Delight;12/12/2023;19:37:00;Mariellen Cortez;1982;Female;mcortezdf@tripadvisor.com;115-640-3666;Huawei;Social Media;Suburban Fringe
+6818a153a750bed478947b7d;485;The Brew House;12/6/2023;12:46:00;Val Veck;2002;Female;vveckdg@51.la;673-633-8947;Huawei;Social Media;metropolitan
+6818a153a750bed478947b7e;486;The Rustic Tavern;12/19/2023;08:44:00;Hamid Claisse;1995;Male;hclaissedh@clickbank.net;670-153-1310;Huawei;E-commerce;urban
+6818a153a750bed478947b7f;487;The Green Leaf;12/4/2023;21:21:00;Kellina Antoniewicz;1977;Female;kantoniewiczdi@hubpages.com;770-955-0897;Huawei;E-commerce;sub urban
+6818a153a750bed478947b80;488;The Green Leaf;12/4/2023;08:48:00;Prudence Godehard.sf;1978;Female;pgodehardsfdj@ft.com;829-807-4562;Huawei;E-commerce;coastal
+6818a153a750bed478947b81;489;Cafe Delight;12/2/2023;09:48:00;Ludwig Bastiman;1995;Male;lbastimandk@mit.edu;970-339-0619;Huawei;E-commerce;Suburban Fringe
+6818a153a750bed478947b82;490;The Salad Spot;12/19/2023;10:37:00;Kelila Oganesian;1998;Female;koganesiandl@howstuffworks.com;685-778-1496;Huawei;E-commerce;metropolitan
+6818a153a750bed478947b83;491;The Urban Cafe;12/5/2023;10:00:00;Mikkel Christofe;1962;Male;mchristofedm@skype.com;272-764-3396;Huawei;Gaming;urban
+6818a153a750bed478947b84;492;Barrel & Brew;12/23/2023;10:14:00;Reta Craister;1973;Female;rcraisterdn@nature.com;718-822-9708;Huawei;Gaming;sub urban
+6818a153a750bed478947b85;493;The Salad Spot;12/7/2023;11:47:00;Tallie Stable;1977;Male;tstabledo@is.gd;546-709-9253;Huawei;Gaming;coastal
+6818a153a750bed478947b86;494;Barrel & Brew;12/29/2023;10:02:00;Garrik McCauley;1987;Male;gmccauleydp@digg.com;904-121-2266;Huawei;Gaming;Suburban Fringe
+6818a153a750bed478947b87;495;The Urban Cafe;12/16/2023;14:37:00;Sarah Felmingham;1991;Female;sfelminghamdq@psu.edu;919-355-3326;Huawei;Gaming;metropolitan
+6818a153a750bed478947b88;496;Java Junction;12/2/2023;17:57:00;Morton Glide;1965;Male;mglidedr@is.gd;286-220-4590;Huawei;News;urban
+6818a153a750bed478947b89;497;The Brew House;12/5/2023;09:05:00;Elmo Heining;1976;Male;eheiningds@moonfruit.com;807-976-7237;Huawei;News;sub urban
+6818a153a750bed478947b8a;498;Cafe Delight;12/3/2023;08:53:00;Nathalie Wintringham;1999;Female;nwintringhamdt@ebay.com;461-983-0977;Huawei;News;coastal
+6818a153a750bed478947b8b;499;The Coffee Bean;12/6/2023;10:47:00;Quinta Thomas;1981;Female;qthomasdu@istockphoto.com;304-756-9407;Huawei;News;Suburban Fringe
+6818a153a750bed478947b8c;500;Cafe Delight;12/28/2023;11:24:00;Reggie Walsh;1987;Female;rwalshdv@etsy.com;712-276-1412;Huawei;News;metropolitan
+6818a153a750bed478947b8d;501;Barrel & Brew;12/11/2023;19:42:00;Abbey Leggatt;1999;Male;aleggattdw@dyndns.org;368-118-7725;Huawei;Technology;urban
+6818a153a750bed478947b8e;502;Salad Sensations;12/29/2023;10:12:00;Rhoda Alldred;1974;Female;ralldreddx@statcounter.com;881-796-2325;Huawei;Technology;sub urban
+6818a153a750bed478947b8f;503;The Brew House;12/7/2023;10:27:00;Kippie Bigadike;1999;Male;kbigadikedy@buzzfeed.com;897-403-4109;Huawei;Technology;coastal
+6818a153a750bed478947b90;504;Cafe Delight;12/14/2023;19:17:00;Enos Hedgeman;1962;Male;ehedgemandz@nature.com;221-384-1226;Huawei;Technology;Suburban Fringe
+6818a153a750bed478947b91;505;The Coffee Bean;12/16/2023;14:16:00;Kikelia Sammons;1977;Female;ksammonse0@reverbnation.com;226-427-4243;Huawei;Technology;metropolitan
+6818a153a750bed478947b92;506;The Urban Cafe;12/8/2023;15:13:00;Craggy Turbitt;1993;Male;cturbitte1@usda.gov;172-197-5691;Huawei;Podcast;urban
+6818a153a750bed478947b93;507;Cafe Delight;12/1/2023;17:02:00;Liv Schimek;1987;Female;lschimeke2@wired.com;253-548-5381;Huawei;Podcast;sub urban
+6818a153a750bed478947b94;508;Barrel & Brew;12/16/2023;12:28:00;Estelle MacConnulty;1994;Female;emacconnultye3@moonfruit.com;856-987-3851;Huawei;Podcast;coastal
+6818a153a750bed478947b95;509;The Urban Cafe;12/29/2023;14:05:00;Guss Durtnell;1973;Male;gdurtnelle4@deliciousdays.com;493-892-8896;Huawei;Podcast;Suburban Fringe
+6818a153a750bed478947b96;510;Cafe Delight;12/5/2023;10:35:00;Emmalynn Mulvin;1972;Female;emulvine5@webs.com;266-686-3034;Huawei;Podcast;metropolitan
+6818a153a750bed478947b97;511;The Brew House;12/2/2023;12:35:00;Margeaux Kaindl;1975;Female;mkaindle6@yandex.ru;129-332-9459;Huawei;Music;urban
+6818a153a750bed478947b98;512;The Rustic Tavern;12/21/2023;14:02:00;Laryssa Tyre;1980;Female;ltyree7@epa.gov;980-251-7204;Huawei;Music;sub urban
+6818a153a750bed478947b99;513;The Urban Cafe;12/27/2023;17:21:00;Risa Sorbie;2000;Female;rsorbiee8@guardian.co.uk;280-980-8131;Huawei;Music;coastal
+6818a153a750bed478947b9a;514;Barrel & Brew;12/7/2023;18:27:00;Matias Normanville;1985;Male;mnormanvillee9@cdbaby.com;191-377-9987;Huawei;Music;Suburban Fringe
+6818a153a750bed478947b9b;515;The Coffee Bean;12/7/2023;13:26:00;Marigold Skocroft;1968;Female;mskocroftea@youku.com;849-929-1250;Huawei;Music;metropolitan
+6818a153a750bed478947b9c;516;The Green Leaf;12/20/2023;15:21:00;Shalne McCall;1981;Female;smccalleb@imgur.com;171-553-1863;Huawei;Sport;urban
+6818a153a750bed478947b9d;517;The Rustic Tavern;12/18/2023;12:33:00;Rolph Prandy;1997;Male;rprandyec@fotki.com;783-569-4265;Huawei;Sport;sub urban
+6818a153a750bed478947b9e;518;Salad Sensations;12/8/2023;11:59:00;Alwin Bould;1964;Male;aboulded@reddit.com;302-480-1433;Huawei;Sport;coastal
+6818a153a750bed478947b9f;519;The Green Leaf;12/8/2023;13:27:00;Cally Thaxton;1978;Female;cthaxtonee@pinterest.com;632-241-3999;Huawei;Sport;Suburban Fringe
+6818a153a750bed478947ba0;520;The Green Leaf;12/17/2023;18:18:00;Donni Yggo;1999;Female;dyggoef@columbia.edu;103-468-4152;Huawei;Sport;metropolitan
+6818a153a750bed478947ba1;521;The Rustic Tavern;12/3/2023;17:10:00;Winonah Wims;1995;Female;wwimseg@tumblr.com;670-879-3173;Xiaomi;Social Media;urban
+6818a153a750bed478947ba2;522;Barrel & Brew;12/1/2023;12:55:00;Amalee Braikenridge;1983;Female;abraikenridgeeh@slashdot.org;138-821-9290;Xiaomi;Social Media;sub urban
+6818a153a750bed478947ba3;523;The Rustic Tavern;12/24/2023;19:30:00;Lanae Head;1972;Female;lheadei@java.com;454-844-9313;Xiaomi;Social Media;coastal
+6818a153a750bed478947ba4;524;Barrel & Brew;12/27/2023;08:51:00;Reine Sollett;1997;Female;rsollettej@cnbc.com;118-771-4871;Xiaomi;Social Media;Suburban Fringe
+6818a153a750bed478947ba5;525;The Brew House;12/12/2023;17:20:00;Skipton Ettridge;1963;Male;settridgeek@digg.com;823-521-5399;Xiaomi;Social Media;metropolitan
+6818a153a750bed478947ba6;526;The Brew House;12/5/2023;13:22:00;Ailee Guyers;1977;Female;aguyersel@unesco.org;824-521-2423;Xiaomi;E-commerce;urban
+6818a153a750bed478947ba7;527;The Coffee Bean;12/22/2023;15:58:00;Olympia Derle;1962;Female;oderleem@desdev.cn;425-312-6249;Xiaomi;E-commerce;sub urban
+6818a153a750bed478947ba8;528;The Urban Cafe;12/2/2023;16:54:00;Henrieta Crutcher;1983;Female;hcrutcheren@tuttocitta.it;754-955-7107;Xiaomi;E-commerce;coastal
+6818a153a750bed478947ba9;529;The Brew House;12/12/2023;08:14:00;Andris Fylan;1982;Male;afylaneo@symantec.com;634-698-6705;Xiaomi;E-commerce;Suburban Fringe
+6818a153a750bed478947baa;530;The Rustic Tavern;12/17/2023;18:56:00;Lucinda Asel;1997;Female;laselep@arstechnica.com;707-134-1899;Xiaomi;E-commerce;metropolitan
+6818a153a750bed478947bab;531;The Green Leaf;12/3/2023;16:21:00;Emelita Helmke;1991;Female;ehelmkeeq@cdc.gov;522-434-1299;Xiaomi;Gaming;urban
+6818a153a750bed478947bac;532;Cafe Delight;12/30/2023;16:21:00;Dorise Lilion;1973;Female;dlilioner@51.la;587-236-1800;Xiaomi;Gaming;sub urban
+6818a153a750bed478947bad;533;The Green Leaf;12/16/2023;11:29:00;Margalit Klimes;1960;Female;mklimeses@csmonitor.com;560-336-4274;Xiaomi;Gaming;coastal
+6818a153a750bed478947bae;534;The Rustic Tavern;12/25/2023;11:05:00;Brig Dollen;1978;Male;bdollenet@ftc.gov;288-551-8638;Xiaomi;Gaming;Suburban Fringe
+6818a153a750bed478947baf;535;The Urban Cafe;12/27/2023;15:26:00;Lowrance Tinto;1997;Male;ltintoeu@ox.ac.uk;903-682-8629;Xiaomi;Gaming;metropolitan
+6818a153a750bed478947bb0;536;Cafe Delight;12/9/2023;13:06:00;Bryon Dobble;1971;Male;bdobbleev@chronoengine.com;710-375-9691;Xiaomi;News;urban
+6818a153a750bed478947bb1;537;Java Junction;12/5/2023;18:53:00;Manolo Josselsohn;1987;Male;mjosselsohnew@java.com;639-553-8276;Xiaomi;News;sub urban
+6818a153a750bed478947bb2;538;The Brew House;12/30/2023;08:56:00;Fredrick Blumson;1963;Male;fblumsonex@wunderground.com;360-931-6191;Xiaomi;News;coastal
+6818a153a750bed478947bb3;539;Barrel & Brew;12/12/2023;12:20:00;Sunshine Ethelstone;1989;Female;sethelstoneey@joomla.org;117-831-6199;Xiaomi;News;Suburban Fringe
+6818a153a750bed478947bb4;540;The Green Leaf;12/25/2023;16:37:00;Burg Staggs;1993;Male;bstaggsez@tiny.cc;100-365-1682;Xiaomi;News;metropolitan
+6818a153a750bed478947bb5;541;Java Junction;12/30/2023;08:11:00;Winifield De Ruggiero;1979;Male;wdef0@jugem.jp;366-667-9028;Xiaomi;Technology;urban
+6818a153a750bed478947bb6;542;Cafe Delight;12/12/2023;20:52:00;Juditha Triggs;1992;Female;jtriggsf1@devhub.com;815-717-5759;Xiaomi;Technology;sub urban
+6818a153a750bed478947bb7;543;The Rustic Tavern;12/7/2023;15:42:00;Pearla Sumpton;1995;Female;psumptonf2@earthlink.net;562-960-5889;Xiaomi;Technology;coastal
+6818a153a750bed478947bb8;544;Java Junction;12/4/2023;16:18:00;Chryste Collerd;1978;Female;ccollerdf3@columbia.edu;733-429-4376;Xiaomi;Technology;Suburban Fringe
+6818a153a750bed478947bb9;545;Java Junction;12/23/2023;10:03:00;Kyla Woodcroft;1961;Female;kwoodcroftf4@oracle.com;751-564-3042;Xiaomi;Technology;metropolitan
+6818a153a750bed478947bba;546;The Rustic Tavern;12/7/2023;08:56:00;See Blaza;1961;Male;sblazaf5@amazon.com;898-465-1946;Xiaomi;Podcast;urban
+6818a153a750bed478947bbb;547;Salad Sensations;12/11/2023;17:57:00;Bald Coppock.;1990;Male;bcoppockf6@canalblog.com;375-394-1580;Xiaomi;Podcast;sub urban
+6818a153a750bed478947bbc;548;The Salad Spot;12/21/2023;14:47:00;Antonino Mattack;2001;Male;amattackf7@walmart.com;121-535-0018;Xiaomi;Podcast;coastal
+6818a153a750bed478947bbd;549;The Salad Spot;12/8/2023;10:06:00;Elvis Yanshonok;1968;Male;eyanshonokf8@ycombinator.com;500-552-3843;Xiaomi;Podcast;Suburban Fringe
+6818a153a750bed478947bbe;550;The Salad Spot;12/15/2023;21:44:00;Cash Whitehall;1996;Male;cwhitehallf9@arstechnica.com;542-514-7055;Xiaomi;Podcast;metropolitan
+6818a153a750bed478947bbf;551;The Rustic Tavern;12/22/2023;16:49:00;Ileana Eagle;2001;Female;ieaglefa@columbia.edu;113-377-6792;Xiaomi;Music;urban
+6818a153a750bed478947bc0;552;Java Junction;12/2/2023;18:20:00;Nester Vettore;1966;Male;nvettorefb@adobe.com;240-988-3987;Xiaomi;Music;sub urban
+6818a153a750bed478947bc1;553;The Urban Cafe;12/1/2023;16:55:00;Sasha Ivakhin;1980;Female;sivakhinfc@symantec.com;428-105-9131;Xiaomi;Music;coastal
+6818a153a750bed478947bc2;554;The Salad Spot;12/22/2023;09:33:00;Cam Smedmore;1975;Female;csmedmorefd@sohu.com;637-150-8444;Xiaomi;Music;Suburban Fringe
+6818a153a750bed478947bc3;555;The Urban Cafe;12/5/2023;12:48:00;Cullan Malshinger;1967;Male;cmalshingerfe@wordpress.org;814-721-1880;Xiaomi;Music;metropolitan
+6818a153a750bed478947bc4;556;The Coffee Bean;12/17/2023;19:55:00;Vi Urian;1981;Female;vurianff@gov.uk;510-669-9814;Xiaomi;Sport;urban
+6818a153a750bed478947bc5;557;The Brew House;12/4/2023;15:23:00;Fred Dilger;1984;Female;fdilgerfg@elegantthemes.com;100-154-0859;Xiaomi;Sport;sub urban
+6818a153a750bed478947bc6;558;The Coffee Bean;12/24/2023;16:05:00;Francine Ajam;1981;Female;fajamfh@hhs.gov;274-837-3142;Xiaomi;Sport;coastal
+6818a153a750bed478947bc7;559;Cafe Delight;12/20/2023;08:56:00;Lenci Whitebread;1961;Male;lwhitebreadfi@canalblog.com;117-872-4683;Xiaomi;Sport;Suburban Fringe
+6818a153a750bed478947bc8;560;Cafe Delight;12/5/2023;19:37:00;Willard Dilworth;1962;Male;wdilworthfj@artisteer.com;696-833-1171;Xiaomi;Sport;metropolitan
+6818a153a750bed478947bc9;561;The Brew House;12/28/2023;11:53:00;Rudie Moff;1986;Male;rmofffk@about.com;813-162-7419;Google;Social Media;urban
+6818a153a750bed478947bca;562;The Coffee Bean;12/12/2023;09:18:00;Johnnie Bothram;1975;Male;jbothramfl@scribd.com;428-149-2590;Google;Social Media;sub urban
+6818a153a750bed478947bcb;563;Salad Sensations;12/12/2023;20:34:00;Elsey Alcock;1980;Female;ealcockfm@dion.ne.jp;405-450-7445;Google;Social Media;coastal
+6818a153a750bed478947bcc;564;Barrel & Brew;12/7/2023;15:28:00;Clotilda Scough;1968;Female;cscoughfn@vinaora.com;309-563-4500;Google;Social Media;Suburban Fringe
+6818a153a750bed478947bcd;565;The Coffee Bean;12/16/2023;18:33:00;Gottfried Allatt;1963;Male;gallattfo@seattletimes.com;947-629-4624;Google;Social Media;metropolitan
+6818a153a750bed478947bce;566;Cafe Delight;12/1/2023;13:19:00;Rebeca Tainton;1991;Female;rtaintonfp@hexun.com;750-897-9621;Google;E-commerce;urban
+6818a153a750bed478947bcf;567;Java Junction;12/27/2023;20:45:00;Gwenneth Cowtherd;1960;Female;gcowtherdfq@deliciousdays.com;535-133-9803;Google;E-commerce;sub urban
+6818a153a750bed478947bd0;568;The Green Leaf;12/26/2023;08:43:00;Briano Prandoni;1999;Male;bprandonifr@wufoo.com;944-951-8328;Google;E-commerce;coastal
+6818a153a750bed478947bd1;569;The Coffee Bean;12/23/2023;08:22:00;Trumann Essberger;1960;Male;tessbergerfs@dailymotion.com;167-411-3950;Google;E-commerce;Suburban Fringe
+6818a153a750bed478947bd2;570;The Salad Spot;12/28/2023;19:24:00;Steward Whitemarsh;1976;Male;swhitemarshft@google.com.br;252-317-5603;Google;E-commerce;metropolitan
+6818a153a750bed478947bd3;571;Salad Sensations;12/11/2023;21:57:00;Callean Probert;1974;Male;cprobertfu@wikimedia.org;333-873-2831;Google;Gaming;urban
+6818a153a750bed478947bd4;572;The Brew House;12/14/2023;20:40:00;Brantley Hendrick;1969;Male;bhendrickfv@yellowbook.com;915-278-6830;Google;Gaming;sub urban
+6818a153a750bed478947bd5;573;Barrel & Brew;12/27/2023;12:06:00;Fabe Farran;1984;Male;ffarranfw@mashable.com;504-514-8508;Google;Gaming;coastal
+6818a153a750bed478947bd6;574;The Brew House;12/26/2023;19:00:00;Bel Thomasset;1986;Female;bthomassetfx@google.ru;879-156-7659;Google;Gaming;Suburban Fringe
+6818a153a750bed478947bd7;575;Salad Sensations;12/19/2023;14:02:00;Godard Scrase;1981;Male;gscrasefy@toplist.cz;971-382-0719;Google;Gaming;metropolitan
+6818a153a750bed478947bd8;576;Java Junction;12/27/2023;21:06:00;Aristotle Dendle;1979;Male;adendlefz@mail.ru;821-806-2037;Google;News;urban
+6818a153a750bed478947bd9;577;The Rustic Tavern;12/5/2023;13:17:00;Eva Woolfitt;1961;Female;ewoolfittg0@e-recht24.de;451-662-5930;Google;News;sub urban
+6818a153a750bed478947bda;578;The Brew House;12/9/2023;16:12:00;Carina Uridge;1962;Female;curidgeg1@buzzfeed.com;237-711-8978;Google;News;coastal
+6818a153a750bed478947bdb;579;The Green Leaf;12/15/2023;12:12:00;Idette Moxted;1982;Female;imoxtedg2@webnode.com;195-816-0205;Google;News;Suburban Fringe
+6818a153a750bed478947bdc;580;The Salad Spot;12/5/2023;17:26:00;Dominique Van De Cappelle;1974;Male;dvang3@businessinsider.com;774-875-4400;Google;News;metropolitan
+6818a153a750bed478947bdd;581;Salad Sensations;12/7/2023;15:07:00;Juliette Olcot;2003;Female;jolcotg4@economist.com;324-175-6976;Google;Technology;urban
+6818a153a750bed478947bde;582;The Rustic Tavern;12/2/2023;17:56:00;Demetri Westpfel;1996;Male;dwestpfelg5@ted.com;929-828-2605;Google;Technology;sub urban
+6818a153a750bed478947bdf;583;The Rustic Tavern;12/23/2023;08:18:00;Tish Duckworth;1976;Female;tduckworthg6@gov.uk;282-370-8624;Google;Technology;coastal
+6818a153a750bed478947be0;584;The Coffee Bean;12/25/2023;17:26:00;Janette Wenger;2000;Female;jwengerg7@goo.ne.jp;243-967-9944;Google;Technology;Suburban Fringe
+6818a153a750bed478947be1;585;Java Junction;12/17/2023;14:21:00;Ferdinanda Bonallack;2001;Female;fbonallackg8@ezinearticles.com;540-259-1262;Google;Technology;metropolitan
+6818a153a750bed478947be2;586;Salad Sensations;12/30/2023;20:20:00;Lorianna Corringham;1965;Female;lcorringhamg9@ask.com;839-757-5106;Google;Podcast;urban
+6818a153a750bed478947be3;587;The Green Leaf;12/11/2023;21:24:00;Darelle Snaden;1980;Female;dsnadenga@youtu.be;377-127-6338;Google;Podcast;sub urban
+6818a153a750bed478947be4;588;Salad Sensations;12/6/2023;12:58:00;Lyndy Enright;1991;Female;lenrightgb@census.gov;379-651-9090;Google;Podcast;coastal
+6818a153a750bed478947be5;589;The Rustic Tavern;12/25/2023;19:24:00;Chrissy Raggles;1964;Male;cragglesgc@mtv.com;246-451-0849;Google;Podcast;Suburban Fringe
+6818a153a750bed478947be6;590;Cafe Delight;12/25/2023;20:49:00;Florance Guiet;2001;Female;fguietgd@go.com;693-380-9256;Google;Podcast;metropolitan
+6818a153a750bed478947be7;591;The Coffee Bean;12/15/2023;13:19:00;Marlena Asbury;1967;Female;masburyge@bloglines.com;219-815-9257;Google;Music;urban
+6818a153a750bed478947be8;592;Salad Sensations;12/11/2023;08:59:00;Faulkner Gaywood;1989;Male;fgaywoodgf@seesaa.net;660-131-4153;Google;Music;sub urban
+6818a153a750bed478947be9;593;Salad Sensations;12/21/2023;11:51:00;Deane Goward;1983;Female;dgowardgg@moonfruit.com;111-764-3760;Google;Music;coastal
+6818a153a750bed478947bea;594;The Salad Spot;12/23/2023;10:32:00;Fleming Ismirnioglou;1962;Male;fismirnioglough@yahoo.com;730-891-5021;Google;Music;Suburban Fringe
+6818a153a750bed478947beb;595;Java Junction;12/3/2023;15:30:00;Heather Coch;2000;Female;hcochgi@ehow.com;272-616-1840;Google;Music;metropolitan
+6818a153a750bed478947bec;596;The Rustic Tavern;12/21/2023;18:05:00;Quintus Hammatt;1991;Male;qhammattgj@phpbb.com;141-384-5544;Google;Sport;urban
+6818a153a750bed478947bed;597;Cafe Delight;12/28/2023;21:34:00;Drew Gasson;1994;Male;dgassongk@wired.com;692-507-4339;Google;Sport;sub urban
+6818a153a750bed478947bee;598;Java Junction;12/29/2023;09:26:00;Faina Shoebrook;1999;Female;fshoebrookgl@wiley.com;139-729-5087;Google;Sport;coastal
+6818a153a750bed478947bef;599;Java Junction;12/30/2023;11:00:00;Ermina Ellesmere;1993;Female;eellesmeregm@cnbc.com;678-942-1480;Google;Sport;Suburban Fringe
+6818a153a750bed478947bf0;600;The Brew House;12/11/2023;15:00:00;Porty Charley;1996;Male;pcharleygn@cdc.gov;677-172-8681;Google;Sport;metropolitan
+6818a153a750bed478947bf1;601;Java Junction;12/15/2023;10:29:00;Manya Agate;1967;Female;magatego@bravesites.com;509-626-2986;OnePlus;Social Media;urban
+6818a153a750bed478947bf2;602;Cafe Delight;12/19/2023;09:26:00;Karlotte Rehm;1964;Female;krehmgp@si.edu;260-915-3411;OnePlus;Social Media;sub urban
+6818a153a750bed478947bf3;603;The Urban Cafe;12/4/2023;13:20:00;Olympie Stebles;1963;Female;osteblesgq@wikispaces.com;335-775-9082;OnePlus;Social Media;coastal
+6818a153a750bed478947bf4;604;Cafe Delight;12/11/2023;14:07:00;Hurleigh Kock;1964;Male;hkockgr@com.com;204-452-9438;OnePlus;Social Media;Suburban Fringe
+6818a153a750bed478947bf5;605;The Coffee Bean;12/6/2023;21:00:00;Joshua Cluff;1980;Male;jcluffgs@go.com;139-841-5921;OnePlus;Social Media;metropolitan
+6818a153a750bed478947bf6;606;The Salad Spot;12/11/2023;13:19:00;Pandora Ible;1988;Female;piblegt@narod.ru;315-262-2496;OnePlus;E-commerce;urban
+6818a153a750bed478947bf7;607;Java Junction;12/6/2023;11:25:00;Sheree Feild;2000;Female;sfeildgu@yandex.ru;165-162-3215;OnePlus;E-commerce;sub urban
+6818a153a750bed478947bf8;608;The Green Leaf;12/16/2023;15:04:00;Rozina MacAfee;2002;Female;rmacafeegv@washington.edu;297-222-3875;OnePlus;E-commerce;coastal
+6818a153a750bed478947bf9;609;The Rustic Tavern;12/1/2023;13:03:00;Arnoldo Thewlis;1967;Male;athewlisgw@comcast.net;584-676-3131;OnePlus;E-commerce;Suburban Fringe
+6818a153a750bed478947bfa;610;Salad Sensations;12/28/2023;13:05:00;Nancie Eitter;1981;Female;neittergx@bbb.org;298-235-4544;OnePlus;E-commerce;metropolitan
+6818a153a750bed478947bfb;611;The Coffee Bean;12/7/2023;08:14:00;Konrad Rookesby;1998;Male;krookesbygy@hostgator.com;951-644-2331;OnePlus;Gaming;urban
+6818a153a750bed478947bfc;612;Salad Sensations;12/2/2023;11:27:00;Isis Hedan;1987;Female;ihedangz@utexas.edu;969-653-1778;OnePlus;Gaming;sub urban
+6818a153a750bed478947bfd;613;Salad Sensations;12/9/2023;13:40:00;Martainn Stiebler;1963;Male;mstieblerh0@elpais.com;475-980-4105;OnePlus;Gaming;coastal
+6818a153a750bed478947bfe;614;The Rustic Tavern;12/24/2023;20:28:00;Dorey Hanney;1986;Female;dhanneyh1@tinypic.com;689-810-9158;OnePlus;Gaming;Suburban Fringe
+6818a153a750bed478947bff;615;The Brew House;12/20/2023;10:45:00;Noelyn Clymo;1986;Female;nclymoh2@usgs.gov;888-969-8388;OnePlus;Gaming;metropolitan
+6818a153a750bed478947c00;616;The Salad Spot;12/23/2023;13:39:00;Corilla Toland;1995;Female;ctolandh3@xinhuanet.com;826-479-3843;OnePlus;News;urban
+6818a153a750bed478947c01;617;The Rustic Tavern;12/13/2023;16:53:00;Ellsworth Kienzle;1966;Male;ekienzleh4@upenn.edu;366-358-6163;OnePlus;News;sub urban
+6818a153a750bed478947c02;618;The Green Leaf;12/14/2023;21:50:00;Fletcher Whitemarsh;2001;Male;fwhitemarshh5@google.com.br;853-651-1317;OnePlus;News;coastal
+6818a153a750bed478947c03;619;The Urban Cafe;12/4/2023;10:51:00;Rabi Goodhew;1975;Male;rgoodhewh6@nbcnews.com;261-189-8917;OnePlus;News;Suburban Fringe
+6818a153a750bed478947c04;620;The Brew House;12/14/2023;16:35:00;Luelle Burns;1991;Female;lburnsh7@aol.com;110-802-6700;OnePlus;News;metropolitan
+6818a153a750bed478947c05;621;The Rustic Tavern;12/24/2023;18:19:00;Judye Amis;1981;Female;jamish8@wsj.com;703-311-6671;OnePlus;Technology;urban
+6818a153a750bed478947c06;622;Java Junction;12/10/2023;09:11:00;Madison Moggle;1995;Male;mmoggleh9@ihg.com;903-954-7966;OnePlus;Technology;sub urban
+6818a153a750bed478947c07;623;The Urban Cafe;12/1/2023;16:54:00;Zared Millmoe;1978;Male;zmillmoeha@free.fr;165-190-3424;OnePlus;Technology;coastal
+6818a153a750bed478947c08;624;The Coffee Bean;12/14/2023;18:52:00;Guinna Fellow;1985;Female;gfellowhb@cafepress.com;758-353-8654;OnePlus;Technology;Suburban Fringe
+6818a153a750bed478947c09;625;Cafe Delight;12/27/2023;19:21:00;Charlotte Eddie;1990;Female;ceddiehc@adobe.com;331-440-7309;OnePlus;Technology;metropolitan
+6818a153a750bed478947c0a;626;The Brew House;12/8/2023;19:29:00;Cristiano Norquay;1977;Male;cnorquayhd@reuters.com;260-709-4489;OnePlus;Podcast;urban
+6818a153a750bed478947c0b;627;Barrel & Brew;12/27/2023;10:00:00;Branden Yann;1992;Male;byannhe@state.gov;963-971-4512;OnePlus;Podcast;sub urban
+6818a153a750bed478947c0c;628;Cafe Delight;12/6/2023;17:58:00;Andros Byart;1993;Male;abyarthf@oakley.com;392-143-6754;OnePlus;Podcast;coastal
+6818a153a750bed478947c0d;629;Java Junction;12/28/2023;20:42:00;Ibby MacKartan;1961;Female;imackartanhg@mashable.com;608-977-6875;OnePlus;Podcast;Suburban Fringe
+6818a153a750bed478947c0e;630;The Salad Spot;12/16/2023;11:18:00;Harlie Service;1972;Female;hservicehh@list-manage.com;162-309-4815;OnePlus;Podcast;metropolitan
+6818a153a750bed478947c0f;631;The Salad Spot;12/13/2023;19:45:00;Gabriellia Cross;1979;Female;gcrosshi@apple.com;900-909-3491;OnePlus;Music;urban
+6818a153a750bed478947c10;632;Barrel & Brew;12/16/2023;18:16:00;Farah Massingberd;1970;Female;fmassingberdhj@oakley.com;992-742-5714;OnePlus;Music;sub urban
+6818a153a750bed478947c11;633;Salad Sensations;12/8/2023;20:56:00;Aime Bouzan;1967;Female;abouzanhk@newsvine.com;927-661-4638;OnePlus;Music;coastal
+6818a153a750bed478947c12;634;The Urban Cafe;12/19/2023;12:36:00;Frants Peyes;1975;Male;fpeyeshl@vimeo.com;297-871-7142;OnePlus;Music;Suburban Fringe
+6818a153a750bed478947c13;635;The Salad Spot;12/16/2023;19:40:00;Catlin Bowle;1965;Female;cbowlehm@dyndns.org;884-202-2354;OnePlus;Music;metropolitan
+6818a153a750bed478947c14;636;Cafe Delight;12/22/2023;12:56:00;Thaddus Phalp;1997;Male;tphalphn@hexun.com;298-278-4434;OnePlus;Sport;urban
+6818a153a750bed478947c15;637;The Brew House;12/13/2023;21:32:00;Edita Elcott;1999;Female;eelcottho@homestead.com;371-394-1270;OnePlus;Sport;sub urban
+6818a153a750bed478947c16;638;Barrel & Brew;12/19/2023;16:45:00;Kristy Alelsandrowicz;1996;Female;kalelsandrowiczhp@cisco.com;565-675-3525;OnePlus;Sport;coastal
+6818a153a750bed478947c17;639;Cafe Delight;12/23/2023;14:16:00;Ludovico Jenman;1967;Male;ljenmanhq@sfgate.com;770-360-8630;OnePlus;Sport;Suburban Fringe
+6818a153a750bed478947c18;640;Java Junction;12/19/2023;11:01:00;Patton Dudding;1963;Male;pduddinghr@scribd.com;722-458-2415;OnePlus;Sport;metropolitan
+6818a153a750bed478947c19;641;Barrel & Brew;12/29/2023;14:47:00;Ailene Beldom;2001;Female;abeldomhs@bloomberg.com;835-602-4725;LG;Social Media;urban
+6818a153a750bed478947c1a;642;Salad Sensations;12/5/2023;11:54:00;Eward Lothlorien;1995;Male;elothlorienht@digg.com;328-531-1154;LG;Social Media;sub urban
+6818a153a750bed478947c1b;643;The Coffee Bean;12/29/2023;14:13:00;Gwynne Bodley;1975;Female;gbodleyhu@wix.com;651-704-6775;LG;Social Media;coastal
+6818a153a750bed478947c1c;644;The Salad Spot;12/6/2023;19:03:00;Claude Malins;1985;Female;cmalinshv@who.int;677-515-6953;LG;Social Media;Suburban Fringe
+6818a153a750bed478947c1d;645;Java Junction;12/5/2023;18:07:00;Creight Stracey;2001;Male;cstraceyhw@nsw.gov.au;416-864-3162;LG;Social Media;metropolitan
+6818a153a750bed478947c1e;646;The Coffee Bean;12/4/2023;17:48:00;Orelia Lonergan;1977;Female;olonerganhx@google.com.br;353-528-6135;LG;E-commerce;urban
+6818a153a750bed478947c1f;647;The Salad Spot;12/22/2023;16:08:00;Alwin Garwill;2001;Male;agarwillhy@slideshare.net;961-860-1499;LG;E-commerce;sub urban
+6818a153a750bed478947c20;648;Salad Sensations;12/14/2023;19:51:00;Jodie Janjusevic;1971;Female;jjanjusevichz@state.tx.us;550-721-1401;LG;E-commerce;coastal
+6818a153a750bed478947c21;649;The Coffee Bean;12/8/2023;11:53:00;Peyter Duffet;1980;Male;pduffeti0@jiathis.com;687-928-1436;LG;E-commerce;Suburban Fringe
+6818a153a750bed478947c22;650;The Urban Cafe;12/18/2023;12:06:00;Vittoria Woodberry;1960;Female;vwoodberryi1@4shared.com;329-582-4289;LG;E-commerce;metropolitan
+6818a153a750bed478947c23;651;The Rustic Tavern;12/5/2023;10:42:00;Riannon Daggett;1967;Female;rdaggetti2@bandcamp.com;356-533-0159;LG;Gaming;urban
+6818a153a750bed478947c24;652;Salad Sensations;12/30/2023;15:47:00;Welch Chew;2002;Male;wchewi3@miibeian.gov.cn;508-148-0530;LG;Gaming;sub urban
+6818a153a750bed478947c25;653;The Salad Spot;12/24/2023;13:54:00;Idell Gypson;1996;Female;igypsoni4@wikia.com;596-899-8154;LG;Gaming;coastal
+6818a153a750bed478947c26;654;The Rustic Tavern;12/18/2023;09:53:00;Locke Franceschielli;1996;Male;lfranceschiellii5@yelp.com;662-403-8876;LG;Gaming;Suburban Fringe
+6818a153a750bed478947c27;655;Salad Sensations;12/16/2023;11:13:00;Celesta Mutlow;2001;Female;cmutlowi6@miibeian.gov.cn;968-820-4458;LG;Gaming;metropolitan
+6818a153a750bed478947c28;656;The Salad Spot;12/19/2023;17:37:00;Josee Furley;1982;Female;jfurleyi7@hao123.com;133-991-7185;LG;News;urban
+6818a153a750bed478947c29;657;The Green Leaf;12/17/2023;20:39:00;Elsa Drinan;1987;Female;edrinani8@nps.gov;497-264-7409;LG;News;sub urban
+6818a153a750bed478947c2a;658;The Green Leaf;12/5/2023;09:12:00;Llywellyn Droogan;1966;Male;ldroogani9@storify.com;648-913-8972;LG;News;coastal
+6818a153a750bed478947c2b;659;The Green Leaf;12/28/2023;10:07:00;Cindi Cereceres;1977;Female;ccereceresia@umn.edu;398-120-4198;LG;News;Suburban Fringe
+6818a153a750bed478947c2c;660;The Salad Spot;12/28/2023;18:01:00;Oberon Piddick;1977;Male;opiddickib@joomla.org;534-304-8483;LG;News;metropolitan
+6818a153a750bed478947c2d;661;Cafe Delight;12/11/2023;16:43:00;Rudy Vanns;1969;Male;rvannsic@instagram.com;599-780-8512;LG;Technology;urban
+6818a153a750bed478947c2e;662;The Salad Spot;12/23/2023;16:48:00;Philly Hamlin;1978;Female;phamlinid@omniture.com;485-612-4280;LG;Technology;sub urban
+6818a153a750bed478947c2f;663;The Salad Spot;12/5/2023;08:10:00;Marty Cearley;1986;Female;mcearleyie@360.cn;325-314-0190;LG;Technology;coastal
+6818a153a750bed478947c30;664;Cafe Delight;12/28/2023;13:36:00;Liane Ovell;1969;Female;lovellif@multiply.com;230-997-6635;LG;Technology;Suburban Fringe
+6818a153a750bed478947c31;665;The Urban Cafe;12/28/2023;12:30:00;Hetty Letham;1989;Female;hlethamig@feedburner.com;981-655-0090;LG;Technology;metropolitan
+6818a153a750bed478947c32;666;Java Junction;12/14/2023;17:48:00;Sheela MacPeice;1995;Female;smacpeiceih@fda.gov;573-162-3847;LG;Podcast;urban
+6818a153a750bed478947c33;667;The Urban Cafe;12/4/2023;14:31:00;Melly Grime;1962;Female;mgrimeii@moonfruit.com;537-670-2270;LG;Podcast;sub urban
+6818a153a750bed478947c34;668;The Salad Spot;12/30/2023;13:43:00;Zahara Hallowell;1989;Female;zhallowellij@bloomberg.com;444-449-5754;LG;Podcast;coastal
+6818a153a750bed478947c35;669;The Urban Cafe;12/7/2023;12:26:00;Ulberto Fines;2002;Male;ufinesik@zimbio.com;180-554-6156;LG;Podcast;Suburban Fringe
+6818a153a750bed478947c36;670;Java Junction;12/14/2023;15:08:00;Waverley Este;1970;Male;westeil@pagesperso-orange.fr;905-438-9271;LG;Podcast;metropolitan
+6818a153a750bed478947c37;671;Cafe Delight;12/19/2023;18:15:00;Avril Finlayson;1962;Female;afinlaysonim@yahoo.com;917-285-4795;LG;Music;urban
+6818a153a750bed478947c38;672;The Urban Cafe;12/8/2023;17:56:00;Britni Collie;1987;Female;bcolliein@fc2.com;451-210-0145;LG;Music;sub urban
+6818a153a750bed478947c39;673;The Brew House;12/21/2023;08:33:00;Kare Idale;1965;Female;kidaleio@rakuten.co.jp;968-375-5327;LG;Music;coastal
+6818a153a750bed478947c3a;674;The Salad Spot;12/28/2023;19:10:00;Trista Jakucewicz;1998;Female;tjakucewiczip@scribd.com;905-132-9493;LG;Music;Suburban Fringe
+6818a153a750bed478947c3b;675;Java Junction;12/11/2023;09:18:00;Lira Goroni;2000;Female;lgoroniiq@nytimes.com;752-258-7277;LG;Music;metropolitan
+6818a153a750bed478947c3c;676;The Coffee Bean;12/13/2023;18:26:00;Martguerita Bolwell;1973;Female;mbolwellir@weibo.com;633-268-1394;LG;Sport;urban
+6818a153a750bed478947c3d;677;Salad Sensations;12/23/2023;08:10:00;Tobiah Cowsby;1966;Male;tcowsbyis@e-recht24.de;362-518-2238;LG;Sport;sub urban
+6818a153a750bed478947c3e;678;The Rustic Tavern;12/8/2023;20:59:00;Sayre Kave;1999;Male;skaveit@123-reg.co.uk;706-727-5092;LG;Sport;coastal
+6818a153a750bed478947c3f;679;Salad Sensations;12/3/2023;09:04:00;Mildrid Chotty;1983;Female;mchottyiu@ox.ac.uk;504-359-1777;LG;Sport;Suburban Fringe
+6818a153a750bed478947c40;680;Cafe Delight;12/21/2023;10:57:00;Dyann Erdes;1995;Female;derdesiv@xrea.com;291-831-4953;LG;Sport;metropolitan
+6818a153a750bed478947c41;681;Java Junction;12/5/2023;15:36:00;Doloritas Hubbert;2000;Female;dhubbertiw@yellowpages.com;789-239-5262;Sony;Social Media;urban
+6818a153a750bed478947c42;682;The Urban Cafe;12/12/2023;10:52:00;Ruthie Lazarus;2000;Female;rlazarusix@aol.com;848-601-7443;Sony;Social Media;sub urban
+6818a153a750bed478947c43;683;The Rustic Tavern;12/14/2023;10:47:00;Arvy Tallman;1998;Male;atallmaniy@google.de;301-425-9581;Sony;Social Media;coastal
+6818a153a750bed478947c44;684;The Brew House;12/4/2023;08:02:00;Rudd Reen;1986;Male;rreeniz@nature.com;384-532-3521;Sony;Social Media;Suburban Fringe
+6818a153a750bed478947c45;685;Salad Sensations;12/21/2023;14:29:00;Agnes Joutapaitis;1962;Female;ajoutapaitisj0@princeton.edu;857-960-5061;Sony;Social Media;metropolitan
+6818a153a750bed478947c46;686;The Urban Cafe;12/18/2023;17:22:00;Branden Petrushanko;1987;Male;bpetrushankoj1@de.vu;546-842-0215;Sony;E-commerce;urban
+6818a153a750bed478947c47;687;The Green Leaf;12/22/2023;13:58:00;Chelsea Baldcock;1999;Female;cbaldcockj2@indiegogo.com;732-170-1740;Sony;E-commerce;sub urban
+6818a153a750bed478947c48;688;Java Junction;12/29/2023;13:05:00;Berne Bagnell;1988;Male;bbagnellj3@friendfeed.com;139-177-4380;Sony;E-commerce;coastal
+6818a153a750bed478947c49;689;The Urban Cafe;12/13/2023;17:50:00;Theadora Chellenham;1979;Female;tchellenhamj4@deliciousdays.com;748-464-3399;Sony;E-commerce;Suburban Fringe
+6818a153a750bed478947c4a;690;The Brew House;12/26/2023;18:23:00;Udall Tersay;1966;Male;utersayj5@nih.gov;650-146-8210;Sony;E-commerce;metropolitan
+6818a153a750bed478947c4b;691;The Salad Spot;12/5/2023;15:16:00;Shawn Gethin;1973;Male;sgethinj6@addtoany.com;233-474-6939;Sony;Gaming;urban
+6818a153a750bed478947c4c;692;The Coffee Bean;12/14/2023;08:08:00;Paule Bulcroft;1999;Female;pbulcroftj7@netlog.com;476-693-4413;Sony;Gaming;sub urban
+6818a153a750bed478947c4d;693;Cafe Delight;12/6/2023;21:09:00;Rita McGeouch;1960;Female;rmcgeouchj8@smugmug.com;202-216-9672;Sony;Gaming;coastal
+6818a153a750bed478947c4e;694;Barrel & Brew;12/21/2023;21:43:00;Gilligan Bernolet;1982;Female;gbernoletj9@samsung.com;830-118-7477;Sony;Gaming;Suburban Fringe
+6818a153a750bed478947c4f;695;Cafe Delight;12/23/2023;15:31:00;Kingston Stimson;1974;Male;kstimsonja@yellowpages.com;976-129-8317;Sony;Gaming;metropolitan
+6818a153a750bed478947c50;696;Cafe Delight;12/24/2023;09:22:00;Nealon Chainey;1973;Male;nchaineyjb@sbwire.com;363-672-2233;Sony;News;urban
+6818a153a750bed478947c51;697;Cafe Delight;12/29/2023;18:56:00;Alleyn Dorr;1969;Male;adorrjc@oaic.gov.au;465-946-8091;Sony;News;sub urban
+6818a153a750bed478947c52;698;Cafe Delight;12/1/2023;20:56:00;Nydia Pannett;2002;Female;npannettjd@engadget.com;653-704-3567;Sony;News;coastal
+6818a153a750bed478947c53;699;The Salad Spot;12/28/2023;20:45:00;Nye Kiellor;1962;Male;nkiellorje@hexun.com;264-504-9101;Sony;News;Suburban Fringe
+6818a153a750bed478947c54;700;The Brew House;12/18/2023;12:01:00;Terrijo Lints;1983;Female;tlintsjf@spotify.com;888-303-6145;Sony;News;metropolitan
+6818a153a750bed478947c55;701;Java Junction;12/5/2023;09:31:00;Lizbeth McCoughan;1992;Female;lmccoughanjg@cornell.edu;631-893-2238;Sony;Technology;urban
+6818a153a750bed478947c56;702;The Brew House;12/5/2023;14:24:00;Isaak Hawke;1994;Male;ihawkejh@ucla.edu;816-804-7204;Sony;Technology;sub urban
+6818a153a750bed478947c57;703;The Salad Spot;12/5/2023;08:31:00;Roxana Rosenberger;1999;Female;rrosenbergerji@abc.net.au;914-256-4082;Sony;Technology;coastal
+6818a153a750bed478947c58;704;Java Junction;12/13/2023;09:58:00;Teressa Grestie;1976;Female;tgrestiejj@webeden.co.uk;451-294-0368;Sony;Technology;Suburban Fringe
+6818a153a750bed478947c59;705;Java Junction;12/24/2023;19:54:00;Neile Treuge;1966;Female;ntreugejk@dailymail.co.uk;994-847-5558;Sony;Technology;metropolitan
+6818a153a750bed478947c5a;706;The Coffee Bean;12/5/2023;10:28:00;Morty Loder;1974;Male;mloderjl@nhs.uk;637-625-8285;Sony;Podcast;urban
+6818a153a750bed478947c5b;707;The Salad Spot;12/3/2023;21:58:00;Whittaker Zoellner;2003;Male;wzoellnerjm@goodreads.com;788-813-1725;Sony;Podcast;sub urban
+6818a153a750bed478947c5c;708;The Salad Spot;12/4/2023;14:33:00;Thurston Edwins;1962;Male;tedwinsjn@is.gd;188-963-4796;Sony;Podcast;coastal
+6818a153a750bed478947c5d;709;Java Junction;12/30/2023;19:30:00;Erl Stimpson;1979;Male;estimpsonjo@gmpg.org;832-720-1280;Sony;Podcast;Suburban Fringe
+6818a153a750bed478947c5e;710;The Coffee Bean;12/16/2023;20:16:00;Kalina Malpas;1972;Female;kmalpasjp@booking.com;360-200-7568;Sony;Podcast;metropolitan
+6818a153a750bed478947c5f;711;The Urban Cafe;12/13/2023;15:49:00;Killie Maslen;1965;Male;kmaslenjq@bloglines.com;314-240-9869;Sony;Music;urban
+6818a153a750bed478947c60;712;Cafe Delight;12/12/2023;21:16:00;Pet Ramsell;1994;Female;pramselljr@unblog.fr;782-810-5374;Sony;Music;sub urban
+6818a153a750bed478947c61;713;Salad Sensations;12/11/2023;15:24:00;Krishnah Bateson;1962;Male;kbatesonjs@upenn.edu;514-266-5539;Sony;Music;coastal
+6818a153a750bed478947c62;714;The Urban Cafe;12/3/2023;17:32:00;Lorraine Bogges;1981;Female;lboggesjt@i2i.jp;309-283-5345;Sony;Music;Suburban Fringe
+6818a153a750bed478947c63;715;Java Junction;12/22/2023;10:15:00;Lorry Ovey;1988;Female;loveyju@g.co;378-820-6762;Sony;Music;metropolitan
+6818a153a750bed478947c64;716;Cafe Delight;12/18/2023;20:09:00;Corie Fitchell;1977;Female;cfitchelljv@cafepress.com;337-345-4430;Sony;Sport;urban
+6818a153a750bed478947c65;717;The Salad Spot;12/29/2023;18:27:00;Anderson Idiens;1985;Male;aidiensjw@yandex.ru;613-379-3665;Sony;Sport;sub urban
+6818a153a750bed478947c66;718;Java Junction;12/15/2023;12:07:00;Zechariah Nelsey;1964;Male;znelseyjx@unc.edu;574-517-0177;Sony;Sport;coastal
+6818a153a750bed478947c67;719;Barrel & Brew;12/1/2023;12:29:00;Neill Flounders;1976;Male;nfloundersjy@cdbaby.com;269-871-1144;Sony;Sport;Suburban Fringe
+6818a153a750bed478947c68;720;The Rustic Tavern;12/3/2023;13:32:00;Wilow Vowdon;1986;Female;wvowdonjz@meetup.com;200-977-6270;Sony;Sport;metropolitan
+6818a153a750bed478947c69;721;Java Junction;12/21/2023;21:04:00;Elston Atyea;1984;Male;eatyeak0@illinois.edu;719-815-1549;Nokia;Social Media;urban
+6818a153a750bed478947c6a;722;The Salad Spot;12/10/2023;17:40:00;Bertina Janik;1967;Female;bjanikk1@icq.com;241-730-9822;Nokia;Social Media;sub urban
+6818a153a750bed478947c6b;723;The Rustic Tavern;12/8/2023;13:34:00;Faustine Comberbeach;1991;Female;fcomberbeachk2@hud.gov;391-258-4367;Nokia;Social Media;coastal
+6818a153a750bed478947c6c;724;Salad Sensations;12/18/2023;12:50:00;Brennan Nozzolii;1966;Male;bnozzoliik3@jugem.jp;869-490-2897;Nokia;Social Media;Suburban Fringe
+6818a153a750bed478947c6d;725;The Salad Spot;12/15/2023;15:40:00;Gino Vinecombe;1999;Male;gvinecombek4@aboutads.info;891-388-3046;Nokia;Social Media;metropolitan
+6818a153a750bed478947c6e;726;The Coffee Bean;12/16/2023;15:56:00;Si Dyshart;1971;Male;sdyshartk5@loc.gov;816-197-3642;Nokia;E-commerce;urban
+6818a153a750bed478947c6f;727;Salad Sensations;12/25/2023;19:14:00;Wilmette Agglio;1981;Female;waggliok6@webmd.com;984-185-9715;Nokia;E-commerce;sub urban
+6818a153a750bed478947c70;728;The Coffee Bean;12/24/2023;12:45:00;Eydie Linfoot;1960;Female;elinfootk7@usgs.gov;233-230-1156;Nokia;E-commerce;coastal
+6818a153a750bed478947c71;729;The Green Leaf;12/29/2023;10:59:00;Deeann Bugler;1984;Female;dbuglerk8@msn.com;635-125-4961;Nokia;E-commerce;Suburban Fringe
+6818a153a750bed478947c72;730;The Green Leaf;12/26/2023;15:58:00;Aubine Kondratowicz;1961;Female;akondratowiczk9@acquirethisname.com;852-388-2253;Nokia;E-commerce;metropolitan
+6818a153a750bed478947c73;731;The Rustic Tavern;12/28/2023;09:29:00;Eamon Algore;1983;Male;ealgoreka@reverbnation.com;206-978-4792;Nokia;Gaming;urban
+6818a153a750bed478947c74;732;The Salad Spot;12/27/2023;08:04:00;Maximilien Voase;2000;Male;mvoasekb@mail.ru;545-152-0686;Nokia;Gaming;sub urban
+6818a153a750bed478947c75;733;Cafe Delight;12/12/2023;08:33:00;Rochelle Staunton;1983;Female;rstauntonkc@issuu.com;852-434-5837;Nokia;Gaming;coastal
+6818a153a750bed478947c76;734;The Rustic Tavern;12/16/2023;13:12:00;Cami Thrasher;1965;Female;cthrasherkd@usa.gov;937-869-2448;Nokia;Gaming;Suburban Fringe
+6818a153a750bed478947c77;735;Cafe Delight;12/3/2023;10:04:00;Brit Rackley;1962;Male;brackleyke@soundcloud.com;277-519-2821;Nokia;Gaming;metropolitan
+6818a153a750bed478947c78;736;The Urban Cafe;12/14/2023;09:24:00;Elvina Veque;1984;Female;evequekf@biblegateway.com;977-556-4084;Nokia;News;urban
+6818a153a750bed478947c79;737;Java Junction;12/28/2023;11:47:00;Lisetta Lote;1979;Female;llotekg@mac.com;523-174-9062;Nokia;News;sub urban
+6818a153a750bed478947c7a;738;Cafe Delight;12/30/2023;16:23:00;Towney Peake;1984;Male;tpeakekh@uiuc.edu;108-950-4228;Nokia;News;coastal
+6818a153a750bed478947c7b;739;The Coffee Bean;12/10/2023;20:34:00;Nona Cannon;1968;Female;ncannonki@nifty.com;862-333-2909;Nokia;News;Suburban Fringe
+6818a153a750bed478947c7c;740;The Brew House;12/23/2023;16:58:00;Karole Mugridge;1994;Female;kmugridgekj@godaddy.com;449-145-4415;Nokia;News;metropolitan
+6818a153a750bed478947c7d;741;The Rustic Tavern;12/20/2023;08:32:00;Farlie Morden;1999;Male;fmordenkk@creativecommons.org;796-887-3035;Nokia;Technology;urban
+6818a153a750bed478947c7e;742;Cafe Delight;12/13/2023;16:04:00;Lucilia Littledike;1965;Female;llittledikekl@senate.gov;184-304-7863;Nokia;Technology;sub urban
+6818a153a750bed478947c7f;743;Barrel & Brew;12/28/2023;19:04:00;Karalynn Job;1975;Female;kjobkm@blinklist.com;129-386-3916;Nokia;Technology;coastal
+6818a153a750bed478947c80;744;Salad Sensations;12/7/2023;10:27:00;Daisy McAne;1970;Female;dmcanekn@uol.com.br;562-675-8135;Nokia;Technology;Suburban Fringe
+6818a153a750bed478947c81;745;The Urban Cafe;12/19/2023;08:47:00;Lucie Labbez;1999;Female;llabbezko@harvard.edu;212-751-8534;Nokia;Technology;metropolitan
+6818a153a750bed478947c82;746;The Green Leaf;12/22/2023;17:00:00;Agatha Trunby;1992;Female;atrunbykp@alibaba.com;263-320-7740;Nokia;Podcast;urban
+6818a153a750bed478947c83;747;The Brew House;12/8/2023;11:59:00;Oliver MacMenamy;2002;Male;omacmenamykq@amazon.co.jp;735-607-6024;Nokia;Podcast;sub urban
+6818a153a750bed478947c84;748;Salad Sensations;12/26/2023;12:35:00;Augustin Struis;1979;Male;astruiskr@archive.org;482-566-3704;Nokia;Podcast;coastal
+6818a153a750bed478947c85;749;The Green Leaf;12/30/2023;20:20:00;Pauletta Grigoli;2001;Female;pgrigoliks@etsy.com;380-142-6131;Nokia;Podcast;Suburban Fringe
+6818a153a750bed478947c86;750;Cafe Delight;12/18/2023;10:52:00;Jolie Kmieciak;1991;Female;jkmieciakkt@deliciousdays.com;185-985-9276;Nokia;Podcast;metropolitan
+6818a153a750bed478947c87;751;Cafe Delight;12/5/2023;09:07:00;Jon Druhan;1972;Male;jdruhanku@twitpic.com;846-655-2395;Nokia;Music;urban
+6818a153a750bed478947c88;752;The Salad Spot;12/17/2023;10:39:00;Gerda Eagleton;1965;Female;geagletonkv@prnewswire.com;231-644-3913;Nokia;Music;sub urban
+6818a153a750bed478947c89;753;Java Junction;12/28/2023;20:04:00;Nola Alessandrucci;1991;Female;nalessandruccikw@boston.com;469-459-9629;Nokia;Music;coastal
+6818a153a750bed478947c8a;754;The Rustic Tavern;12/2/2023;17:56:00;Lynett Gatcliff;1995;Female;lgatcliffkx@umich.edu;904-137-5483;Nokia;Music;Suburban Fringe
+6818a153a750bed478947c8b;755;The Brew House;12/2/2023;13:05:00;Guillemette Lappin;1994;Female;glappinky@mapquest.com;163-512-7793;Nokia;Music;metropolitan
+6818a153a750bed478947c8c;756;Salad Sensations;12/2/2023;12:01:00;Renelle Eburne;1980;Female;reburnekz@weibo.com;314-869-0715;Nokia;Sport;urban
+6818a153a750bed478947c8d;757;Cafe Delight;12/16/2023;16:53:00;Veronika Silly;1992;Female;vsillyl0@nymag.com;757-665-2353;Nokia;Sport;sub urban
+6818a153a750bed478947c8e;758;The Urban Cafe;12/18/2023;20:21:00;Dene Halifax;1997;Male;dhalifaxl1@nps.gov;324-883-3246;Nokia;Sport;coastal
+6818a153a750bed478947c8f;759;The Brew House;12/16/2023;13:30:00;Coreen Beamont;1999;Female;cbeamontl2@tinyurl.com;245-829-5014;Nokia;Sport;Suburban Fringe
+6818a153a750bed478947c90;760;Cafe Delight;12/18/2023;19:15:00;Franzen Crowdson;2002;Male;fcrowdsonl3@networkadvertising.org;900-109-7482;Nokia;Sport;metropolitan
+6818a153a750bed478947c91;761;The Brew House;12/7/2023;18:29:00;Barbey Sterke;1963;Female;bsterkel4@vimeo.com;332-276-7607;Motorola;Social Media;urban
+6818a153a750bed478947c92;762;The Salad Spot;12/10/2023;09:27:00;Bendite Tolman;2002;Female;btolmanl5@upenn.edu;100-854-6392;Motorola;Social Media;sub urban
+6818a153a750bed478947c93;763;Salad Sensations;12/3/2023;11:51:00;Wrennie Toope;1985;Female;wtoopel6@51.la;199-626-1179;Motorola;Social Media;coastal
+6818a153a750bed478947c94;764;The Green Leaf;12/2/2023;13:12:00;Zsa zsa Harbor;1975;Female;zzsal7@google.de;569-250-1556;Motorola;Social Media;Suburban Fringe
+6818a153a750bed478947c95;765;The Coffee Bean;12/23/2023;11:06:00;Robinett Goldie;2000;Female;rgoldiel8@multiply.com;968-374-7497;Motorola;Social Media;metropolitan
+6818a153a750bed478947c96;766;The Green Leaf;12/6/2023;15:10:00;Reyna Zettoi;1970;Female;rzettoil9@reddit.com;672-334-8770;Motorola;E-commerce;urban
+6818a153a750bed478947c97;767;The Rustic Tavern;12/18/2023;11:52:00;Mabel Ugoni;1982;Female;mugonila@vkontakte.ru;462-101-6191;Motorola;E-commerce;sub urban
+6818a153a750bed478947c98;768;The Green Leaf;12/17/2023;08:40:00;Gayler Glidden;1979;Male;ggliddenlb@hud.gov;238-426-7447;Motorola;E-commerce;coastal
+6818a153a750bed478947c99;769;The Rustic Tavern;12/18/2023;21:01:00;Ware Rudloff;1961;Male;wrudlofflc@amazon.de;282-300-6366;Motorola;E-commerce;Suburban Fringe
+6818a153a750bed478947c9a;770;The Salad Spot;12/19/2023;10:51:00;Deloria Fabbro;1962;Female;dfabbrold@i2i.jp;445-773-8440;Motorola;E-commerce;metropolitan
+6818a153a750bed478947c9b;771;Java Junction;12/7/2023;18:38:00;Malva Suddell;1962;Female;msuddellle@reverbnation.com;873-793-4030;Motorola;Gaming;urban
+6818a153a750bed478947c9c;772;The Rustic Tavern;12/3/2023;15:53:00;Ali Braunston;1973;Male;abraunstonlf@amazon.com;189-673-5219;Motorola;Gaming;sub urban
+6818a153a750bed478947c9d;773;Barrel & Brew;12/8/2023;18:58:00;Marieann Morat;1995;Female;mmoratlg@so-net.ne.jp;145-573-5525;Motorola;Gaming;coastal
+6818a153a750bed478947c9e;774;The Rustic Tavern;12/27/2023;20:54:00;Berry Corneck;1990;Female;bcornecklh@github.io;717-679-1234;Motorola;Gaming;Suburban Fringe
+6818a153a750bed478947c9f;775;The Salad Spot;12/8/2023;11:28:00;Angelica Hillan;1973;Female;ahillanli@dell.com;734-272-1972;Motorola;Gaming;metropolitan
+6818a153a750bed478947ca0;776;The Green Leaf;12/4/2023;17:08:00;Kitti Jiggen;1983;Female;kjiggenlj@indiegogo.com;377-809-6101;Motorola;News;urban
+6818a153a750bed478947ca1;777;Barrel & Brew;12/28/2023;11:27:00;Kip Dmitrienko;1978;Male;kdmitrienkolk@forbes.com;841-632-8991;Motorola;News;sub urban
+6818a153a750bed478947ca2;778;Salad Sensations;12/2/2023;14:41:00;Diahann Frayne;1962;Female;dfraynell@usa.gov;340-721-6956;Motorola;News;coastal
+6818a153a750bed478947ca3;779;The Salad Spot;12/24/2023;16:35:00;Glyn Poundsford;1973;Male;gpoundsfordlm@utexas.edu;809-186-4806;Motorola;News;Suburban Fringe
+6818a153a750bed478947ca4;780;The Brew House;12/3/2023;21:30:00;Carmon Parnby;1985;Female;cparnbyln@sciencedaily.com;364-948-5763;Motorola;News;metropolitan
+6818a153a750bed478947ca5;781;Cafe Delight;12/4/2023;19:34:00;Jay Collett;2000;Male;jcollettlo@purevolume.com;886-748-1430;Motorola;Technology;urban
+6818a153a750bed478947ca6;782;The Salad Spot;12/9/2023;18:06:00;Bordie Beatson;1982;Male;bbeatsonlp@ovh.net;590-714-1019;Motorola;Technology;sub urban
+6818a153a750bed478947ca7;783;Salad Sensations;12/25/2023;15:49:00;Ammamaria Criple;1979;Female;acriplelq@jimdo.com;372-768-4495;Motorola;Technology;coastal
+6818a153a750bed478947ca8;784;The Rustic Tavern;12/13/2023;12:57:00;Philis Turbayne;2000;Female;pturbaynelr@oaic.gov.au;381-517-3866;Motorola;Technology;Suburban Fringe
+6818a153a750bed478947ca9;785;The Coffee Bean;12/30/2023;17:13:00;Lyndel Schruyer;1989;Female;lschruyerls@businessinsider.com;347-556-4467;Motorola;Technology;metropolitan
+6818a153a750bed478947caa;786;The Brew House;12/6/2023;14:38:00;Kassey Mattson;1973;Female;kmattsonlt@mashable.com;958-248-8533;Motorola;Podcast;urban
+6818a153a750bed478947cab;787;Java Junction;12/9/2023;12:13:00;Darcee Blindermann;1973;Female;dblindermannlu@phoca.cz;688-645-2147;Motorola;Podcast;sub urban
+6818a153a750bed478947cac;788;The Brew House;12/15/2023;08:52:00;Amery Blackler;1993;Male;ablacklerlv@webeden.co.uk;962-606-3287;Motorola;Podcast;coastal
+6818a153a750bed478947cad;789;The Brew House;12/25/2023;09:43:00;Marilin Rickerby;1981;Female;mrickerbylw@engadget.com;111-712-4034;Motorola;Podcast;Suburban Fringe
+6818a153a750bed478947cae;790;The Rustic Tavern;12/13/2023;16:43:00;Hollis Gobbet;1960;Male;hgobbetlx@imgur.com;284-215-0514;Motorola;Podcast;metropolitan
+6818a153a750bed478947caf;791;The Rustic Tavern;12/29/2023;13:54:00;Meggy Farrent;1988;Female;mfarrently@reuters.com;971-387-8935;Motorola;Music;urban
+6818a153a750bed478947cb0;792;The Green Leaf;12/16/2023;12:59:00;Gabi Biskupski;1962;Female;gbiskupskilz@samsung.com;229-202-5578;Motorola;Music;sub urban
+6818a153a750bed478947cb1;793;Barrel & Brew;12/23/2023;18:38:00;Elene Iamittii;1960;Female;eiamittiim0@google.com.au;708-765-5153;Motorola;Music;coastal
+6818a153a750bed478947cb2;794;The Salad Spot;12/24/2023;09:03:00;Carmen Enrico;1986;Female;cenricom1@spiegel.de;271-931-0802;Motorola;Music;Suburban Fringe
+6818a153a750bed478947cb3;795;The Coffee Bean;12/27/2023;11:47:00;Diane-marie Keywood;1988;Female;dkeywoodm2@creativecommons.org;354-893-4865;Motorola;Music;metropolitan
+6818a153a750bed478947cb4;796;The Rustic Tavern;12/7/2023;08:26:00;Jeremias Paxforde;1966;Male;jpaxfordem3@t.co;207-423-3080;Motorola;Sport;urban
+6818a153a750bed478947cb5;797;The Green Leaf;12/22/2023;11:58:00;Alex Siege;1961;Male;asiegem4@nsw.gov.au;785-739-3833;Motorola;Sport;sub urban
+6818a153a750bed478947cb6;798;Salad Sensations;12/15/2023;09:58:00;Marsha MacMaster;1998;Female;mmacmasterm5@msu.edu;919-915-3499;Motorola;Sport;coastal
+6818a153a750bed478947cb7;799;Cafe Delight;12/23/2023;19:35:00;Kellina Bryce;1998;Female;kbrycem6@taobao.com;226-265-2717;Motorola;Sport;Suburban Fringe
+6818a153a750bed478947cb8;800;Cafe Delight;12/1/2023;19:37:00;Chrisse Ebunoluwa;2001;Male;cebunoluwam7@tuttocitta.it;218-794-9765;Motorola;Sport;metropolitan
+6818a153a750bed478947cb9;801;The Rustic Tavern;12/9/2023;08:11:00;Kaine Jemmison;1998;Male;kjemmisonm8@vkontakte.ru;973-310-0036;Samsung;Social Media;urban
+6818a153a750bed478947cba;802;Salad Sensations;12/24/2023;11:14:00;Dale Crockford;1991;Male;dcrockfordm9@umich.edu;607-197-9336;Samsung;Social Media;sub urban
+6818a153a750bed478947cbb;803;The Coffee Bean;12/26/2023;20:03:00;Frederigo MacTavish;1982;Male;fmactavishma@yellowpages.com;449-745-4956;Samsung;Social Media;coastal
+6818a153a750bed478947cbc;804;The Rustic Tavern;12/27/2023;08:41:00;Lyndell Gentile;2001;Female;lgentilemb@shinystat.com;366-641-7020;Samsung;Social Media;Suburban Fringe
+6818a153a750bed478947cbd;805;The Coffee Bean;12/27/2023;13:00:00;Marthe Hulke;1971;Female;mhulkemc@alibaba.com;275-230-8452;Samsung;Social Media;metropolitan
+6818a153a750bed478947cbe;806;The Brew House;12/26/2023;10:23:00;Berni Hearty;1984;Female;bheartymd@phoca.cz;470-900-4600;Samsung;E-commerce;urban
+6818a153a750bed478947cbf;807;Cafe Delight;12/6/2023;14:07:00;Noemi Padfield;1972;Female;npadfieldme@nature.com;296-671-1972;Samsung;E-commerce;sub urban
+6818a153a750bed478947cc0;808;The Coffee Bean;12/8/2023;13:23:00;Ainslee Langelaan;1985;Female;alangelaanmf@chicagotribune.com;131-931-5407;Samsung;E-commerce;coastal
+6818a153a750bed478947cc1;809;The Coffee Bean;12/8/2023;16:02:00;Letitia Charman;2000;Female;lcharmanmg@mapquest.com;844-349-1197;Samsung;E-commerce;Suburban Fringe
+6818a153a750bed478947cc2;810;The Green Leaf;12/7/2023;15:34:00;Meggy Ungerecht;1989;Female;mungerechtmh@wp.com;744-823-5496;Samsung;E-commerce;metropolitan
+6818a153a750bed478947cc3;811;The Rustic Tavern;12/3/2023;17:52:00;Kristofor Stave;1960;Male;kstavemi@amazon.co.jp;452-847-6293;Samsung;Gaming;urban
+6818a153a750bed478947cc4;812;The Green Leaf;12/16/2023;21:19:00;Dimitry Thiese;1966;Male;dthiesemj@feedburner.com;323-570-2171;Samsung;Gaming;sub urban
+6818a153a750bed478947cc5;813;The Green Leaf;12/24/2023;20:09:00;Ofilia Torregiani;1993;Female;otorregianimk@sciencedirect.com;265-876-8922;Samsung;Gaming;coastal
+6818a153a750bed478947cc6;814;Java Junction;12/28/2023;13:57:00;Cordy Wattinham;1993;Female;cwattinhamml@home.pl;902-191-6609;Samsung;Gaming;Suburban Fringe
+6818a153a750bed478947cc7;815;Java Junction;12/8/2023;19:35:00;Leda Christofor;1996;Female;lchristoformm@technorati.com;984-574-7960;Samsung;Gaming;metropolitan
+6818a153a750bed478947cc8;816;The Urban Cafe;12/20/2023;14:48:00;Timothea McQuorkell;1969;Female;tmcquorkellmn@freewebs.com;915-715-0542;Samsung;News;urban
+6818a153a750bed478947cc9;817;Cafe Delight;12/7/2023;08:49:00;Warner Keyse;1998;Male;wkeysemo@e-recht24.de;765-473-3197;Samsung;News;sub urban
+6818a153a750bed478947cca;818;Salad Sensations;12/9/2023;12:48:00;Janina Ghidini;1981;Female;jghidinimp@4shared.com;104-573-3554;Samsung;News;coastal
+6818a153a750bed478947ccb;819;Java Junction;12/25/2023;15:12:00;Mara Berrisford;1999;Female;mberrisfordmq@icq.com;843-117-6525;Samsung;News;Suburban Fringe
+6818a153a750bed478947ccc;820;Barrel & Brew;12/16/2023;17:06:00;Brandtr Denidge;1998;Male;bdenidgemr@vimeo.com;149-570-1638;Samsung;News;metropolitan
+6818a153a750bed478947ccd;821;Barrel & Brew;12/17/2023;09:55:00;Charlotta Mandel;1985;Female;cmandelms@whitehouse.gov;630-782-2550;Samsung;Technology;urban
+6818a153a750bed478947cce;822;The Rustic Tavern;12/20/2023;15:14:00;Berte Salvidge;2002;Female;bsalvidgemt@wix.com;424-755-0229;Samsung;Technology;sub urban
+6818a153a750bed478947ccf;823;Cafe Delight;12/7/2023;17:14:00;Diane Leyband;1984;Female;dleybandmu@vkontakte.ru;303-899-7068;Samsung;Technology;coastal
+6818a153a750bed478947cd0;824;Barrel & Brew;12/7/2023;14:55:00;Ashien Treffrey;1987;Female;atreffreymv@stanford.edu;316-789-4821;Samsung;Technology;Suburban Fringe
+6818a153a750bed478947cd1;825;Java Junction;12/6/2023;10:44:00;Carol Mountjoy;1983;Female;cmountjoymw@slashdot.org;932-601-3260;Samsung;Technology;metropolitan
+6818a153a750bed478947cd2;826;The Rustic Tavern;12/24/2023;17:09:00;Fanchon Bach;1982;Female;fbachmx@mail.ru;109-913-4201;Samsung;Podcast;urban
+6818a153a750bed478947cd3;827;Java Junction;12/13/2023;10:37:00;Alyson Skeemer;1986;Female;askeemermy@go.com;622-415-1114;Samsung;Podcast;sub urban
+6818a153a750bed478947cd4;828;The Salad Spot;12/25/2023;21:17:00;Issiah Compford;1975;Male;icompfordmz@oaic.gov.au;929-605-4147;Samsung;Podcast;coastal
+6818a153a750bed478947cd5;829;The Green Leaf;12/24/2023;13:14:00;Ellette Quaintance;2003;Female;equaintancen0@jigsy.com;849-498-1280;Samsung;Podcast;Suburban Fringe
+6818a153a750bed478947cd6;830;The Salad Spot;12/15/2023;09:31:00;Heindrick Iorizzo;1992;Male;hiorizzon1@google.ca;595-144-8233;Samsung;Podcast;metropolitan
+6818a153a750bed478947cd7;831;The Green Leaf;12/27/2023;13:54:00;Gardy Wyld;1976;Male;gwyldn2@guardian.co.uk;976-520-8788;Samsung;Music;urban
+6818a153a750bed478947cd8;832;The Coffee Bean;12/2/2023;19:18:00;Billie Readman;1992;Female;breadmann3@fc2.com;539-980-6185;Samsung;Music;sub urban
+6818a153a750bed478947cd9;833;Salad Sensations;12/1/2023;15:12:00;Cristy Bollard;1980;Female;cbollardn4@dyndns.org;330-746-1824;Samsung;Music;coastal
+6818a153a750bed478947cda;834;The Coffee Bean;12/17/2023;18:04:00;Rosanna Boldero;1974;Female;rbolderon5@bigcartel.com;239-710-3785;Samsung;Music;Suburban Fringe
+6818a153a750bed478947cdb;835;The Coffee Bean;12/22/2023;18:11:00;Heather Walsh;1965;Female;hwalshn6@com.com;690-442-3395;Samsung;Music;metropolitan
+6818a153a750bed478947cdc;836;The Coffee Bean;12/18/2023;15:32:00;Tadd Maidment;2001;Male;tmaidmentn7@over-blog.com;578-841-3280;Samsung;Sport;urban
+6818a153a750bed478947cdd;837;The Brew House;12/2/2023;10:17:00;Margarette Senechault;1964;Female;msenechaultn8@imdb.com;127-792-5917;Samsung;Sport;sub urban
+6818a153a750bed478947cde;838;Java Junction;12/2/2023;15:46:00;Brok Davall;1972;Male;bdavalln9@vk.com;234-187-7669;Samsung;Sport;coastal
+6818a153a750bed478947cdf;839;The Brew House;12/16/2023;10:39:00;Johann Heffer;1998;Male;jhefferna@mediafire.com;406-553-0994;Samsung;Sport;Suburban Fringe
+6818a153a750bed478947ce0;840;Salad Sensations;12/24/2023;19:28:00;Marcelia Manns;1988;Female;mmannsnb@cloudflare.com;882-236-8152;Samsung;Sport;metropolitan
+6818a153a750bed478947ce1;841;Java Junction;12/28/2023;12:41:00;Ellsworth Oiller;2000;Male;eoillernc@bigcartel.com;870-620-5630;Apple;Social Media;urban
+6818a153a750bed478947ce2;842;The Brew House;12/8/2023;08:24:00;Homer Normaville;1974;Male;hnormavillend@mlb.com;875-526-6527;Apple;Social Media;sub urban
+6818a153a750bed478947ce3;843;Barrel & Brew;12/29/2023;19:51:00;Jacky Latchmore;1976;Male;jlatchmorene@linkedin.com;404-942-5426;Apple;Social Media;coastal
+6818a153a750bed478947ce4;844;Java Junction;12/10/2023;10:56:00;Ruddie Trahar;1962;Male;rtraharnf@xrea.com;560-354-5168;Apple;Social Media;Suburban Fringe
+6818a153a750bed478947ce5;845;The Coffee Bean;12/17/2023;20:55:00;Keenan Rickeard;1981;Male;krickeardng@wikimedia.org;268-832-2951;Apple;Social Media;metropolitan
+6818a153a750bed478947ce6;846;The Rustic Tavern;12/24/2023;14:31:00;Morena Losbie;1978;Female;mlosbienh@geocities.com;434-415-1237;Apple;E-commerce;urban
+6818a153a750bed478947ce7;847;The Brew House;12/2/2023;10:45:00;Guntar Wrate;2003;Male;gwrateni@stanford.edu;224-853-8166;Apple;E-commerce;sub urban
+6818a153a750bed478947ce8;848;Java Junction;12/20/2023;19:49:00;Rodolfo Itzkin;1978;Male;ritzkinnj@twitter.com;835-741-7274;Apple;E-commerce;coastal
+6818a153a750bed478947ce9;849;The Rustic Tavern;12/13/2023;10:11:00;Allix Stolli;1997;Female;astollink@bizjournals.com;835-402-0769;Apple;E-commerce;Suburban Fringe
+6818a153a750bed478947cea;850;Barrel & Brew;12/15/2023;15:01:00;Gillan Millis;1988;Female;gmillisnl@cnet.com;676-563-1492;Apple;E-commerce;metropolitan
+6818a153a750bed478947ceb;851;Java Junction;12/22/2023;14:10:00;Philbert Stenner;1970;Male;pstennernm@upenn.edu;351-962-1042;Apple;Gaming;urban
+6818a153a750bed478947cec;852;The Coffee Bean;12/12/2023;18:05:00;Annecorinne Linge;1987;Female;alingenn@zdnet.com;217-928-6784;Apple;Gaming;sub urban
+6818a153a750bed478947ced;853;The Salad Spot;12/26/2023;11:09:00;Xavier Tevelov;1988;Male;xtevelovno@cpanel.net;712-184-3254;Apple;Gaming;coastal
+6818a153a750bed478947cee;854;The Green Leaf;12/21/2023;21:23:00;Blancha Georgel;1984;Female;bgeorgelnp@discovery.com;131-886-1605;Apple;Gaming;Suburban Fringe
+6818a153a750bed478947cef;855;The Urban Cafe;12/10/2023;10:54:00;Lazarus Boyan;1992;Male;lboyannq@howstuffworks.com;210-773-4591;Apple;Gaming;metropolitan
+6818a153a750bed478947cf0;856;The Green Leaf;12/21/2023;18:18:00;Xylia Wingrove;1960;Female;xwingrovenr@buzzfeed.com;679-722-9973;Apple;News;urban
+6818a153a750bed478947cf1;857;The Urban Cafe;12/8/2023;09:12:00;Jobyna Gorrick;1986;Female;jgorrickns@miibeian.gov.cn;662-445-2166;Apple;News;sub urban
+6818a153a750bed478947cf2;858;Java Junction;12/18/2023;12:33:00;Bjorn Nisuis;1981;Male;bnisuisnt@canalblog.com;828-825-9720;Apple;News;coastal
+6818a153a750bed478947cf3;859;The Coffee Bean;12/7/2023;12:49:00;Dahlia Linwood;1985;Female;dlinwoodnu@netscape.com;734-416-9155;Apple;News;Suburban Fringe
+6818a153a750bed478947cf4;860;The Urban Cafe;12/15/2023;17:11:00;Janeva Robecon;2002;Female;jrobeconnv@google.com.au;225-210-8395;Apple;News;metropolitan
+6818a153a750bed478947cf5;861;Barrel & Brew;12/1/2023;10:11:00;Clerissa Aronsohn;1965;Female;caronsohnnw@huffingtonpost.com;744-445-1228;Apple;Technology;urban
+6818a153a750bed478947cf6;862;Cafe Delight;12/13/2023;14:34:00;Rudiger Wisniewski;1988;Male;rwisniewskinx@yolasite.com;801-269-4172;Apple;Technology;sub urban
+6818a153a750bed478947cf7;863;The Green Leaf;12/4/2023;09:10:00;Arley Doring;1988;Male;adoringny@flickr.com;323-670-8139;Apple;Technology;coastal
+6818a153a750bed478947cf8;864;Java Junction;12/12/2023;11:44:00;Denise McMillan;1982;Female;dmcmillannz@chronoengine.com;662-285-7567;Apple;Technology;Suburban Fringe
+6818a153a750bed478947cf9;865;The Green Leaf;12/7/2023;13:43:00;Aggi Barrack;2002;Female;abarracko0@state.gov;211-727-2184;Apple;Technology;metropolitan
+6818a153a750bed478947cfa;866;Salad Sensations;12/3/2023;17:44:00;Cletus Lyndon;1960;Male;clyndono1@boston.com;199-144-3495;Apple;Podcast;urban
+6818a153a750bed478947cfb;867;The Brew House;12/26/2023;15:37:00;Steward O'Gavin;2001;Male;sogavino2@wikia.com;574-558-4728;Apple;Podcast;sub urban
+6818a153a750bed478947cfc;868;Java Junction;12/1/2023;18:49:00;Baxy Forsyde;1963;Male;bforsydeo3@rakuten.co.jp;424-235-5559;Apple;Podcast;coastal
+6818a153a750bed478947cfd;869;The Green Leaf;12/1/2023;09:50:00;Rhett Drover;1977;Male;rdrovero4@phoca.cz;364-570-5443;Apple;Podcast;Suburban Fringe
+6818a153a750bed478947cfe;870;Cafe Delight;12/30/2023;09:36:00;Aubrey Sheilds;1997;Male;asheildso5@dagondesign.com;860-213-7796;Apple;Podcast;metropolitan
+6818a153a750bed478947cff;871;The Coffee Bean;12/13/2023;14:59:00;Sterling Harnetty;1999;Male;sharnettyo6@eventbrite.com;337-397-9670;Apple;Music;urban
+6818a153a750bed478947d00;872;The Brew House;12/30/2023;12:25:00;Thatcher Duffit;1999;Male;tduffito7@scientificamerican.com;239-410-2540;Apple;Music;sub urban
+6818a153a750bed478947d01;873;The Coffee Bean;12/5/2023;21:34:00;Cosette Skpsey;1964;Female;cskpseyo8@amazonaws.com;867-837-0040;Apple;Music;coastal
+6818a153a750bed478947d02;874;The Brew House;12/15/2023;20:18:00;Niccolo Worters;1975;Male;nworterso9@answers.com;535-731-3849;Apple;Music;Suburban Fringe
+6818a153a750bed478947d03;875;Salad Sensations;12/30/2023;17:25:00;Maggee Jinks;1963;Female;mjinksoa@dedecms.com;305-710-6893;Apple;Music;metropolitan
+6818a153a750bed478947d04;876;The Urban Cafe;12/27/2023;11:15:00;Mortimer Bowart;1973;Male;mbowartob@engadget.com;347-111-2679;Apple;Sport;urban
+6818a153a750bed478947d05;877;Salad Sensations;12/27/2023;17:52:00;Kane Petrov;2000;Male;kpetrovoc@altervista.org;722-141-3869;Apple;Sport;sub urban
+6818a153a750bed478947d06;878;The Salad Spot;12/20/2023;08:42:00;Mal Brugemann;1983;Male;mbrugemannod@biglobe.ne.jp;552-620-6010;Apple;Sport;coastal
+6818a153a750bed478947d07;879;Cafe Delight;12/14/2023;13:15:00;Ibrahim Burdass;1975;Male;iburdassoe@telegraph.co.uk;934-453-8245;Apple;Sport;Suburban Fringe
+6818a153a750bed478947d08;880;The Brew House;12/25/2023;20:04:00;Karoly Wimbridge;2003;Male;kwimbridgeof@washingtonpost.com;433-402-0330;Apple;Sport;metropolitan
+6818a153a750bed478947d09;881;Cafe Delight;12/22/2023;14:55:00;Florrie Swannack;1960;Female;fswannackog@1und1.de;626-514-4868;Huawei;Social Media;urban
+6818a153a750bed478947d0a;882;The Salad Spot;12/10/2023;08:11:00;Alexandrina Bonifazio;1969;Female;abonifaziooh@goo.ne.jp;580-389-9324;Huawei;Social Media;sub urban
+6818a153a750bed478947d0b;883;The Salad Spot;12/23/2023;09:36:00;Tanner Kleinert;1975;Male;tkleinertoi@nyu.edu;546-852-4295;Huawei;Social Media;coastal
+6818a153a750bed478947d0c;884;The Rustic Tavern;12/19/2023;20:33:00;Tully Erratt;1990;Male;terrattoj@over-blog.com;533-665-8964;Huawei;Social Media;Suburban Fringe
+6818a153a750bed478947d0d;885;Java Junction;12/6/2023;17:25:00;Silvan Lake;1962;Male;slakeok@wp.com;136-683-1206;Huawei;Social Media;metropolitan
+6818a153a750bed478947d0e;886;The Green Leaf;12/23/2023;20:02:00;Arri Gilleon;1962;Male;agilleonol@surveymonkey.com;225-503-2838;Huawei;E-commerce;urban
+6818a153a750bed478947d0f;887;Barrel & Brew;12/13/2023;19:50:00;Mattie Bargery;1997;Male;mbargeryom@smh.com.au;234-970-0387;Huawei;E-commerce;sub urban
+6818a153a750bed478947d10;888;The Rustic Tavern;12/10/2023;15:00:00;Anson Matieu;1978;Male;amatieuon@google.de;134-496-5705;Huawei;E-commerce;coastal
+6818a153a750bed478947d11;889;Cafe Delight;12/9/2023;08:47:00;Winnie Sines;1961;Male;wsinesoo@howstuffworks.com;377-984-5265;Huawei;E-commerce;Suburban Fringe
+6818a153a750bed478947d12;890;The Urban Cafe;12/22/2023;18:00:00;Eran Rofe;1987;Female;erofeop@mapy.cz;952-820-8409;Huawei;E-commerce;metropolitan
+6818a153a750bed478947d13;891;The Rustic Tavern;12/3/2023;08:23:00;Elvyn Ainscow;2002;Male;eainscowoq@patch.com;529-521-0433;Huawei;Gaming;urban
+6818a153a750bed478947d14;892;The Salad Spot;12/25/2023;08:04:00;Jackie Gallie;1977;Male;jgallieor@myspace.com;291-118-0241;Huawei;Gaming;sub urban
+6818a153a750bed478947d15;893;The Brew House;12/20/2023;08:28:00;Margarette Aberkirdo;1971;Female;maberkirdoos@buzzfeed.com;343-225-6958;Huawei;Gaming;coastal
+6818a153a750bed478947d16;894;The Coffee Bean;12/5/2023;11:05:00;Swen Stryde;1980;Male;sstrydeot@google.ca;757-758-2325;Huawei;Gaming;Suburban Fringe
+6818a153a750bed478947d17;895;Barrel & Brew;12/14/2023;17:51:00;Ric Faulder;1962;Male;rfaulderou@yelp.com;451-244-4448;Huawei;Gaming;metropolitan
+6818a153a750bed478947d18;896;The Brew House;12/9/2023;08:08:00;Coleman Blamire;1972;Male;cblamireov@ebay.com;540-220-3237;Huawei;News;urban
+6818a153a750bed478947d19;897;The Salad Spot;12/8/2023;13:34:00;Aldon Ledger;1995;Male;aledgerow@dmoz.org;584-616-4844;Huawei;News;sub urban
+6818a153a750bed478947d1a;898;Java Junction;12/26/2023;18:55:00;Ainsley Almack;1980;Female;aalmackox@shinystat.com;782-920-4219;Huawei;News;coastal
+6818a153a750bed478947d1b;899;The Urban Cafe;12/23/2023;21:01:00;Terra Dreghorn;1964;Female;tdreghornoy@webmd.com;579-269-6364;Huawei;News;Suburban Fringe
+6818a153a750bed478947d1c;900;The Salad Spot;12/16/2023;16:41:00;Dolli Mundford;1987;Female;dmundfordoz@bigcartel.com;551-275-8499;Huawei;News;metropolitan
+6818a153a750bed478947d1d;901;The Coffee Bean;12/7/2023;19:18:00;Calhoun Hupka;1968;Male;chupkap0@admin.ch;619-126-7290;Huawei;Technology;urban
+6818a153a750bed478947d1e;902;Java Junction;12/10/2023;14:11:00;Dory Gilardoni;1961;Female;dgilardonip1@addtoany.com;887-255-7939;Huawei;Technology;sub urban
+6818a153a750bed478947d1f;903;Salad Sensations;12/22/2023;20:38:00;Constancia Loyd;1987;Female;cloydp2@ebay.co.uk;978-187-6950;Huawei;Technology;coastal
+6818a153a750bed478947d20;904;The Coffee Bean;12/29/2023;08:44:00;Ollie Sellars;1972;Male;osellarsp3@goo.gl;155-499-5918;Huawei;Technology;Suburban Fringe
+6818a153a750bed478947d21;905;The Salad Spot;12/27/2023;19:36:00;Louisette Knock;1970;Female;lknockp4@webmd.com;804-567-4279;Huawei;Technology;metropolitan
+6818a153a750bed478947d22;906;The Coffee Bean;12/26/2023;13:29:00;Emmalyn Gobert;1981;Female;egobertp5@nationalgeographic.com;538-867-9146;Huawei;Podcast;urban
+6818a153a750bed478947d23;907;Salad Sensations;12/29/2023;20:08:00;Bald Amor;1995;Male;bamorp6@whitehouse.gov;799-377-1712;Huawei;Podcast;sub urban
+6818a153a750bed478947d24;908;The Coffee Bean;12/17/2023;08:15:00;Godfry MacGibbon;1983;Male;gmacgibbonp7@google.com.au;330-421-1691;Huawei;Podcast;coastal
+6818a153a750bed478947d25;909;The Green Leaf;12/16/2023;09:34:00;Eduardo Foxley;1981;Male;efoxleyp8@wordpress.org;776-569-8280;Huawei;Podcast;Suburban Fringe
+6818a153a750bed478947d26;910;The Coffee Bean;12/26/2023;18:17:00;Margalo Parkin;1981;Female;mparkinp9@livejournal.com;861-520-0209;Huawei;Podcast;metropolitan
+6818a153a750bed478947d27;911;The Salad Spot;12/6/2023;10:52:00;Ellene Katz;1990;Female;ekatzpa@businesswire.com;426-985-2126;Huawei;Music;urban
+6818a153a750bed478947d28;912;The Salad Spot;12/7/2023;13:38:00;Holmes Measures;1992;Male;hmeasurespb@youku.com;870-820-4201;Huawei;Music;sub urban
+6818a153a750bed478947d29;913;The Green Leaf;12/25/2023;19:51:00;Falito Jozsef;1971;Male;fjozsefpc@sogou.com;476-458-4567;Huawei;Music;coastal
+6818a153a750bed478947d2a;914;The Salad Spot;12/25/2023;19:42:00;Tallie Stilly;1989;Male;tstillypd@typepad.com;770-458-0365;Huawei;Music;Suburban Fringe
+6818a153a750bed478947d2b;915;The Urban Cafe;12/5/2023;10:49:00;Marylee MacAndreis;1964;Female;mmacandreispe@twitpic.com;984-374-2443;Huawei;Music;metropolitan
+6818a153a750bed478947d2c;916;The Salad Spot;12/24/2023;18:43:00;Tanny Huddlestone;1993;Male;thuddlestonepf@princeton.edu;486-455-4167;Huawei;Sport;urban
+6818a153a750bed478947d2d;917;The Urban Cafe;12/23/2023;11:15:00;Marja Lincey;1977;Female;mlinceypg@canalblog.com;783-480-4085;Huawei;Sport;sub urban
+6818a153a750bed478947d2e;918;The Coffee Bean;12/29/2023;21:14:00;Sigvard Love;1998;Male;sloveph@google.cn;258-792-4196;Huawei;Sport;coastal
+6818a153a750bed478947d2f;919;The Coffee Bean;12/17/2023;19:15:00;Gina Sainter;1975;Female;gsainterpi@engadget.com;531-222-1717;Huawei;Sport;Suburban Fringe
+6818a153a750bed478947d30;920;Cafe Delight;12/12/2023;21:04:00;Merrielle Goatcher;1997;Female;mgoatcherpj@delicious.com;895-729-7946;Huawei;Sport;metropolitan
+6818a153a750bed478947d31;921;The Urban Cafe;12/13/2023;10:26:00;Ive Wohlers;1974;Male;iwohlerspk@cbsnews.com;934-561-2162;Xiaomi;Social Media;urban
+6818a153a750bed478947d32;922;Java Junction;12/23/2023;09:50:00;Neila Cicculi;1973;Female;ncicculipl@nsw.gov.au;602-501-9615;Xiaomi;Social Media;sub urban
+6818a153a750bed478947d33;923;The Brew House;12/25/2023;20:01:00;Raff Labusquiere;1992;Male;rlabusquierepm@nature.com;656-737-4537;Xiaomi;Social Media;coastal
+6818a153a750bed478947d34;924;Salad Sensations;12/10/2023;15:18:00;Delcine O'Ferris;1989;Female;doferrispn@nationalgeographic.com;723-592-1467;Xiaomi;Social Media;Suburban Fringe
+6818a153a750bed478947d35;925;The Green Leaf;12/17/2023;20:10:00;Benton Bolingbroke;1988;Male;bbolingbrokepo@cbslocal.com;338-916-0438;Xiaomi;Social Media;metropolitan
+6818a153a750bed478947d36;926;The Coffee Bean;12/30/2023;12:58:00;Buckie Maldin;1997;Male;bmaldinpp@nih.gov;862-977-9980;Xiaomi;E-commerce;urban
+6818a153a750bed478947d37;927;The Green Leaf;12/1/2023;08:03:00;Barnett Towle;1986;Male;btowlepq@marketwatch.com;542-197-9990;Xiaomi;E-commerce;sub urban
+6818a153a750bed478947d38;928;The Rustic Tavern;12/6/2023;11:17:00;Ritchie Yellop;2002;Male;ryelloppr@ustream.tv;456-926-4580;Xiaomi;E-commerce;coastal
+6818a153a750bed478947d39;929;Barrel & Brew;12/18/2023;10:27:00;Margi Dougal;2002;Female;mdougalps@bizjournals.com;685-672-3262;Xiaomi;E-commerce;Suburban Fringe
+6818a153a750bed478947d3a;930;Java Junction;12/28/2023;20:30:00;Kaile Kersting;2002;Female;kkerstingpt@ucoz.ru;581-970-5813;Xiaomi;E-commerce;metropolitan
+6818a153a750bed478947d3b;931;Java Junction;12/13/2023;12:18:00;Noami Stealfox;1969;Female;nstealfoxpu@sakura.ne.jp;398-391-9466;Xiaomi;Gaming;urban
+6818a153a750bed478947d3c;932;The Urban Cafe;12/2/2023;08:45:00;Merill Gherarducci;1962;Male;mgherarduccipv@tamu.edu;840-635-4747;Xiaomi;Gaming;sub urban
+6818a153a750bed478947d3d;933;The Green Leaf;12/28/2023;17:20:00;Trixie Minchinden;1974;Female;tminchindenpw@t.co;942-675-6252;Xiaomi;Gaming;coastal
+6818a153a750bed478947d3e;934;Barrel & Brew;12/15/2023;15:25:00;Minni Hlavecek;1991;Female;mhlavecekpx@free.fr;712-382-2910;Xiaomi;Gaming;Suburban Fringe
+6818a153a750bed478947d3f;935;The Coffee Bean;12/13/2023;16:14:00;Kinna Muat;1982;Female;kmuatpy@narod.ru;286-679-2872;Xiaomi;Gaming;metropolitan
+6818a153a750bed478947d40;936;The Urban Cafe;12/26/2023;14:51:00;Eada Eley;1993;Female;eeleypz@who.int;151-905-7273;Xiaomi;News;urban
+6818a153a750bed478947d41;937;Java Junction;12/8/2023;19:46:00;Chic Chattaway;1961;Male;cchattawayq0@ucoz.ru;176-585-6144;Xiaomi;News;sub urban
+6818a153a750bed478947d42;938;The Salad Spot;12/20/2023;20:03:00;Ki Ahmed;1992;Female;kahmedq1@china.com.cn;472-345-3020;Xiaomi;News;coastal
+6818a153a750bed478947d43;939;Cafe Delight;12/18/2023;19:25:00;Estelle Hylands;1988;Female;ehylandsq2@state.tx.us;710-910-7287;Xiaomi;News;Suburban Fringe
+6818a153a750bed478947d44;940;Java Junction;12/4/2023;08:02:00;Salomo Squelch;1999;Male;ssquelchq3@hexun.com;785-663-2754;Xiaomi;News;metropolitan
+6818a153a750bed478947d45;941;Barrel & Brew;12/17/2023;15:42:00;Patrica Rattrie;2002;Female;prattrieq4@imdb.com;881-910-0967;Xiaomi;Technology;urban
+6818a153a750bed478947d46;942;Barrel & Brew;12/27/2023;17:01:00;Sherye Maken;1988;Female;smakenq5@amazon.co.uk;900-856-9299;Xiaomi;Technology;sub urban
+6818a153a750bed478947d47;943;Barrel & Brew;12/3/2023;13:32:00;Shelby Nash;1979;Male;snashq6@forbes.com;920-191-5321;Xiaomi;Technology;coastal
+6818a153a750bed478947d48;944;Java Junction;12/2/2023;15:58:00;Sherwin Carwithen;1978;Male;scarwithenq7@go.com;268-830-0261;Xiaomi;Technology;Suburban Fringe
+6818a153a750bed478947d49;945;The Brew House;12/11/2023;18:45:00;Danie Varfolomeev;1964;Male;dvarfolomeevq8@shareasale.com;541-326-2814;Xiaomi;Technology;metropolitan
+6818a153a750bed478947d4a;946;The Coffee Bean;12/24/2023;09:02:00;Margarette Geydon;2001;Female;mgeydonq9@ihg.com;223-264-6499;Xiaomi;Podcast;urban
+6818a153a750bed478947d4b;947;The Rustic Tavern;12/6/2023;21:06:00;Jeremie Bagg;1978;Male;jbaggqa@altervista.org;368-660-3603;Xiaomi;Podcast;sub urban
+6818a153a750bed478947d4c;948;Salad Sensations;12/21/2023;16:06:00;Howie Zini;2002;Male;hziniqb@dropbox.com;235-788-3739;Xiaomi;Podcast;coastal
+6818a153a750bed478947d4d;949;The Rustic Tavern;12/18/2023;08:53:00;Sanson Dalgarno;1967;Male;sdalgarnoqc@ycombinator.com;428-841-6166;Xiaomi;Podcast;Suburban Fringe
+6818a153a750bed478947d4e;950;The Brew House;12/10/2023;11:36:00;Cortney Ilyinski;1991;Female;cilyinskiqd@nps.gov;459-962-1156;Xiaomi;Podcast;metropolitan
+6818a153a750bed478947d4f;951;Barrel & Brew;12/26/2023;08:16:00;Lonnie Whittier;1969;Female;lwhittierqe@seattletimes.com;637-767-9958;Xiaomi;Music;urban
+6818a153a750bed478947d50;952;Salad Sensations;12/8/2023;20:11:00;Kristine Shipway;2002;Female;kshipwayqf@cpanel.net;101-753-9149;Xiaomi;Music;sub urban
+6818a153a750bed478947d51;953;The Coffee Bean;12/17/2023;13:53:00;Sigmund Olliar;1976;Male;solliarqg@ed.gov;891-286-2893;Xiaomi;Music;coastal
+6818a153a750bed478947d52;954;The Coffee Bean;12/20/2023;12:16:00;Zandra Maylard;1996;Female;zmaylardqh@hubpages.com;218-232-3322;Xiaomi;Music;Suburban Fringe
+6818a153a750bed478947d53;955;The Urban Cafe;12/25/2023;08:52:00;Noby Wigg;1987;Male;nwiggqi@tmall.com;940-566-2633;Xiaomi;Music;metropolitan
+6818a153a750bed478947d54;956;The Rustic Tavern;12/26/2023;18:58:00;Freddi O'Reilly;1981;Female;foreillyqj@dyndns.org;204-818-5937;Xiaomi;Sport;urban
+6818a153a750bed478947d55;957;Cafe Delight;12/27/2023;17:11:00;Bernardo Fiddler;1967;Male;bfiddlerqk@amazon.com;793-207-9623;Xiaomi;Sport;sub urban
+6818a153a750bed478947d56;958;Barrel & Brew;12/13/2023;13:10:00;Cristian Herrero;1964;Male;cherreroql@spotify.com;490-677-4936;Xiaomi;Sport;coastal
+6818a153a750bed478947d57;959;The Rustic Tavern;12/5/2023;11:09:00;Lowrance Luxmoore;1986;Male;lluxmooreqm@europa.eu;572-664-0578;Xiaomi;Sport;Suburban Fringe
+6818a153a750bed478947d58;960;The Urban Cafe;12/15/2023;21:50:00;Angy Bodley;2000;Female;abodleyqn@cocolog-nifty.com;352-700-5160;Xiaomi;Sport;metropolitan
+6818a153a750bed478947d59;961;The Salad Spot;12/15/2023;17:48:00;Anabelle Riccardi;1992;Female;ariccardiqo@opera.com;914-518-8491;Google;Social Media;urban
+6818a153a750bed478947d5a;962;Java Junction;12/15/2023;08:55:00;Odell Swinbourne;1980;Male;oswinbourneqp@ucsd.edu;487-354-7814;Google;Social Media;sub urban
+6818a153a750bed478947d5b;963;Java Junction;12/2/2023;21:39:00;Dulcie Rudham;1992;Female;drudhamqq@alibaba.com;686-263-4388;Google;Social Media;coastal
+6818a153a750bed478947d5c;964;Salad Sensations;12/30/2023;13:08:00;Mable Eva;2001;Female;mevaqr@sciencedirect.com;977-690-1553;Google;Social Media;Suburban Fringe
+6818a153a750bed478947d5d;965;The Rustic Tavern;12/29/2023;16:35:00;Leonardo Kettlestringes;2000;Male;lkettlestringesqs@creativecommons.org;441-526-0141;Google;Social Media;metropolitan
+6818a153a750bed478947d5e;966;The Salad Spot;12/6/2023;09:48:00;Betteann Guyonnet;2003;Female;bguyonnetqt@livejournal.com;189-583-1922;Google;E-commerce;urban
+6818a153a750bed478947d5f;967;The Rustic Tavern;12/7/2023;11:25:00;Jerad Gyford;1985;Male;jgyfordqu@berkeley.edu;484-830-4692;Google;E-commerce;sub urban
+6818a153a750bed478947d60;968;The Green Leaf;12/17/2023;14:41:00;Rollin Edelheit;1989;Male;redelheitqv@zimbio.com;116-490-6250;Google;E-commerce;coastal
+6818a153a750bed478947d61;969;Barrel & Brew;12/14/2023;15:14:00;Kellsie Gorgen;1986;Female;kgorgenqw@i2i.jp;360-546-1035;Google;E-commerce;Suburban Fringe
+6818a153a750bed478947d62;970;Cafe Delight;12/22/2023;20:57:00;Burl Mayell;1982;Male;bmayellqx@japanpost.jp;581-284-7881;Google;E-commerce;metropolitan
+6818a153a750bed478947d63;971;The Brew House;12/20/2023;17:12:00;Ailina Pointin;1996;Female;apointinqy@time.com;434-521-4435;Google;Gaming;urban
+6818a153a750bed478947d64;972;Barrel & Brew;12/9/2023;14:42:00;Nadeen Crowd;1975;Female;ncrowdqz@wikimedia.org;697-696-7401;Google;Gaming;sub urban
+6818a153a750bed478947d65;973;The Coffee Bean;12/15/2023;11:06:00;Joelie Brigshaw;2003;Female;jbrigshawr0@slashdot.org;662-640-5299;Google;Gaming;coastal
+6818a153a750bed478947d66;974;The Urban Cafe;12/28/2023;20:58:00;Hallie Juppe;1996;Female;hjupper1@indiatimes.com;495-522-8289;Google;Gaming;Suburban Fringe
+6818a153a750bed478947d67;975;The Coffee Bean;12/7/2023;17:22:00;Emilee Reston;2001;Female;erestonr2@mtv.com;181-749-3496;Google;Gaming;metropolitan
+6818a153a750bed478947d68;976;The Urban Cafe;12/16/2023;09:27:00;Jaymie Jessard;2001;Male;jjessardr3@oakley.com;475-258-6970;Google;News;urban
+6818a153a750bed478947d69;977;Barrel & Brew;12/8/2023;13:04:00;Linus Riggeard;1995;Male;lriggeardr4@paypal.com;788-703-3092;Google;News;sub urban
+6818a153a750bed478947d6a;978;The Green Leaf;12/16/2023;21:08:00;Koenraad Greenslade;1964;Male;kgreenslader5@symantec.com;925-970-2412;Google;News;coastal
+6818a153a750bed478947d6b;979;The Green Leaf;12/15/2023;16:44:00;Hastie Gernier;1998;Male;hgernierr6@sohu.com;278-863-5076;Google;News;Suburban Fringe
+6818a153a750bed478947d6c;980;Salad Sensations;12/21/2023;21:41:00;Freida Bicker;1971;Female;fbickerr7@ucoz.com;195-951-3054;Google;News;metropolitan
+6818a153a750bed478947d6d;981;The Coffee Bean;12/1/2023;14:41:00;Peggie Germaine;1983;Female;pgermainer8@tiny.cc;106-267-8993;Google;Technology;urban
+6818a153a750bed478947d6e;982;The Rustic Tavern;12/24/2023;15:10:00;Jaymie Worters;1962;Male;jwortersr9@timesonline.co.uk;355-325-5423;Google;Technology;sub urban
+6818a153a750bed478947d6f;983;The Rustic Tavern;12/14/2023;15:35:00;Tarrah Gooden;1982;Female;tgoodenra@bloglovin.com;666-993-8159;Google;Technology;coastal
+6818a153a750bed478947d70;984;The Salad Spot;12/2/2023;13:51:00;Irving Waterhous;1978;Male;iwaterhousrb@ning.com;121-998-5569;Google;Technology;Suburban Fringe
+6818a153a750bed478947d71;985;The Green Leaf;12/16/2023;15:25:00;Vasilis Bodell;1976;Male;vbodellrc@mapy.cz;309-517-3395;Google;Technology;metropolitan
+6818a153a750bed478947d72;986;The Coffee Bean;12/12/2023;08:48:00;Tallie Gothliff;1996;Male;tgothliffrd@netvibes.com;917-377-8833;Google;Podcast;urban
+6818a153a750bed478947d73;987;Barrel & Brew;12/6/2023;20:00:00;Mario Chesshire;1985;Male;mchesshirere@nymag.com;646-602-5469;Google;Podcast;sub urban
+6818a153a750bed478947d74;988;Salad Sensations;12/20/2023;20:45:00;Dave Ratnage;1971;Male;dratnagerf@fastcompany.com;651-584-5125;Google;Podcast;coastal
+6818a153a750bed478947d75;989;The Salad Spot;12/25/2023;08:36:00;Elwyn Goodenough;1980;Male;egoodenoughrg@mlb.com;959-733-9637;Google;Podcast;Suburban Fringe
+6818a153a750bed478947d76;990;The Green Leaf;12/23/2023;10:13:00;Janene Fielder;1975;Female;jfielderrh@youtu.be;858-627-4533;Google;Podcast;metropolitan
+6818a153a750bed478947d77;991;Cafe Delight;12/15/2023;18:48:00;Lorena Rusk;1992;Female;lruskri@ucoz.ru;886-860-9174;Google;Music;urban
+6818a153a750bed478947d78;992;The Rustic Tavern;12/11/2023;10:26:00;Manfred Cokly;1998;Male;mcoklyrj@unblog.fr;107-899-1337;Google;Music;sub urban
+6818a153a750bed478947d79;993;The Urban Cafe;12/8/2023;21:32:00;Daren Gayter;1998;Male;dgayterrk@infoseek.co.jp;146-628-0739;Google;Music;coastal
+6818a153a750bed478947d7a;994;Java Junction;12/7/2023;13:08:00;Pate Hayball;1974;Male;phayballrl@java.com;475-937-2330;Google;Music;Suburban Fringe
+6818a153a750bed478947d7b;995;Cafe Delight;12/23/2023;20:49:00;Hamish Mowlam;1997;Male;hmowlamrm@acquirethisname.com;512-174-3219;Google;Music;metropolitan
+6818a153a750bed478947d7c;996;Java Junction;12/11/2023;14:17:00;Silvan MacTrustie;1995;Male;smactrustiern@de.vu;445-812-4595;Google;Sport;urban
+6818a153a750bed478947d7d;997;The Coffee Bean;12/1/2023;15:39:00;Kirby Jesper;1968;Male;kjesperro@behance.net;889-386-3826;Google;Sport;sub urban
+6818a153a750bed478947d7e;998;Java Junction;12/12/2023;20:29:00;Elvira Banbrigge;1990;Female;ebanbriggerp@nps.gov;458-448-5919;Google;Sport;coastal
+6818a153a750bed478947d7f;999;The Urban Cafe;12/3/2023;13:30:00;Mendy Wadworth;1974;Male;mwadworthrq@baidu.com;324-193-9596;Google;Sport;Suburban Fringe
+6818a153a750bed478947d80;1000;The Rustic Tavern;12/4/2023;19:34:00;Ky Saffen;1999;Male;ksaffenrr@sohu.com;663-598-6920;Google;Sport;metropolitan
