@@ -14,13 +14,12 @@ export const addMessage = async (req, res) => {
             });
         }
 
-        // Temukan chat berdasarkan ID
         const chat = await Chat.findById(chatId);
         if (!chat) {
             return res.status(404).json({ message: "Chat ID not found" });
         }
 
-        // Tambahkan pesan dari pengguna atau anonymous
+        // add messafe by quest atau anonymous
         const userMessage = await Message.create({
             chatId,
             message,
@@ -29,7 +28,7 @@ export const addMessage = async (req, res) => {
             isHumanResponse: senderType === "admin" || senderType === "anonymous",
         });
 
-        // Tambahkan ID pesan ke chat
+        // Add ID message ke chat
         chat.messages.push(userMessage._id);
         chat.updatedAt = new Date();
         await chat.save();
@@ -113,5 +112,37 @@ export const addMessageAdmin = async (req, res) => {
     } catch (error) {
         console.error(error);
         res.status(500).json({ message: "Internal server error", error: error.message });
+    }
+};
+
+export const streamChatMessages = async (req, res) => {
+    try {
+        const chatId = req.params.chatId;
+        if (!chatId) return res.status(400).json({ message: "Chat ID is required" });
+
+        // Set the appropriate headers for SSE
+        res.setHeader("Content-Type", "text/event-stream");
+        res.setHeader("Cache-Control", "no-cache");
+        res.setHeader("Connection", "keep-alive");
+
+        // Send initial connection message
+        res.write(`data: ${JSON.stringify({ message: "Connected to chat stream" })}\n\n`);
+
+        // Simulate real-time message updates
+        const interval = setInterval(async () => {
+            const chat = await Chat.findById(chatId).populate("messages").lean();
+            if (chat) {
+                res.write(`data: ${JSON.stringify(chat.messages)}\n\n`);
+            }
+        }, 1000); // Update every 1 second
+
+        // Clean up on disconnect
+        req.on("close", () => {
+            clearInterval(interval);
+            res.end();
+        });
+    } catch (error) {
+        console.error("Error streaming chat messages:", error);
+        res.status(500).json({ message: "Internal server error" });
     }
 };

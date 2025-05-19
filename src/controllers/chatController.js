@@ -30,19 +30,16 @@ export const updateBotStatus = async (req, res) => {
         const { chatId } = req.params;
         const { botStatus } = req.body;
 
-        // Validasi input
         if (typeof botStatus !== "boolean") {
             return res.status(400).json({ message: "botStatus must be a boolean value" });
         }
 
-        // Perbarui botStatus pada chat
         const chat = await Chat.findByIdAndUpdate(
             chatId,
             { botStatus, updatedAt: Date.now() },
             { new: true }
         );
 
-        // Jika chat tidak ditemukan
         if (!chat) {
             return res.status(404).json({ message: "Chat not found" });
         }
@@ -57,8 +54,6 @@ export const updateBotStatus = async (req, res) => {
     }
 };
 
-
-// ✅ Get all messages in a chat
 export const getChatMessages = async (req, res) => {
     try {
         const { chatId } = req.params;
@@ -80,12 +75,10 @@ export const getChatById = async (req, res) => {
     try {
         const { chatId } = req.params;
 
-        // Validate the chat ID
         if (!chatId) {
             return res.status(400).json({ message: "Chat ID is required" });
         }
 
-        // Find the chat by ID and populate messages
         const chat = await Chat.findById(chatId)
             .populate({
                 path: "messages",
@@ -113,3 +106,37 @@ export const getChatById = async (req, res) => {
         });
     }
 };
+
+
+export const getAllChats = async (req, res) => {
+    try {
+        const chats = await Chat.find()
+            .populate({
+                path: "messages",
+                populate: {
+                    path: "senderId",
+                    select: "name email role",
+                },
+                options: { sort: { timestamp: 1 } },
+            })
+            .populate("userId", "name email role")
+            .sort({ updatedAt: -1 });
+
+        // Jika tidak ada chat ditemukan
+        if (!chats.length) {
+            return res.status(404).json({ message: "No chats found" });
+        }
+
+        res.status(200).json({
+            message: "Chats retrieved successfully",
+            chats,
+        });
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({
+            message: "Internal server error",
+            error: error.message,
+        });
+    }
+};
+
