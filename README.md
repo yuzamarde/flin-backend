@@ -44,7 +44,7 @@ Getting Started
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/flint-backend.git
+git clone https://github.com/yuzamarde/flin-backend
 cd flint-backend
 
 2. Install Dependencies
